@@ -1,0 +1,326 @@
+{
+ "rerun_date": "2026-09-15",
+ "seconds": 77.9,
+ "identical": true,
+ "differences": [],
+ "before": {
+  "staging/requests": {
+   "rows": 1939685,
+   "hash": 2773033225353652545,
+   "sums": {}
+  },
+  "staging/impressions": {
+   "rows": 2552611,
+   "hash": -3685006768588951626,
+   "sums": {}
+  },
+  "staging/clicks": {
+   "rows": 240103,
+   "hash": 546467222509151807,
+   "sums": {}
+  },
+  "staging/postbacks": {
+   "rows": 6226,
+   "hash": 6246882203525606706,
+   "sums": {
+    "revenue": 252704.25
+   }
+  },
+  "staging/orders": {
+   "rows": 992663,
+   "hash": 6437282444757925281,
+   "sums": {
+    "amount": 813561544.0699
+   }
+  },
+  "dw/dim_placement": {
+   "rows": 107387,
+   "hash": 8718643806577675591,
+   "sums": {}
+  },
+  "dw/dim_banner": {
+   "rows": 71587,
+   "hash": 6936527124438828768,
+   "sums": {}
+  },
+  "dw/dim_site_enrichment": {
+   "rows": 92457,
+   "hash": 8109588302179543689,
+   "sums": {}
+  },
+  "dw/dim_campaign_enrichment": {
+   "rows": 18739,
+   "hash": -6848324084667027529,
+   "sums": {}
+  },
+  "dw/ev_request": {
+   "rows": 1939665,
+   "hash": -5940873556710818465,
+   "sums": {
+    "order_amount": 1308197976.91
+   }
+  },
+  "dw/ev_impression": {
+   "rows": 2552611,
+   "hash": 5803530726966916571,
+   "sums": {}
+  },
+  "dw/ev_click": {
+   "rows": 240103,
+   "hash": -6280815781315578831,
+   "sums": {}
+  },
+  "dw/ev_postback": {
+   "rows": 6176,
+   "hash": 5101838118846277280,
+   "sums": {
+    "revenue": 248376.85
+   }
+  },
+  "dw/ev_order": {
+   "rows": 992663,
+   "hash": -6840688791942849006,
+   "sums": {
+    "amount": 813561544.07
+   }
+  },
+  "dw/fact_impression": {
+   "rows": 2123218,
+   "hash": 5755122167202045839,
+   "sums": {
+    "n_impression_rows": 2552611.0,
+    "n_clicks": 239234.0,
+    "n_postbacks": 6117.0,
+    "revenue_usd": 247751.41
+   }
+  },
+  "dw/fact_request": {
+   "rows": 1939665,
+   "hash": -7877860655357692189,
+   "sums": {
+    "amount_usd": 1305781151.549,
+    "n_slots": 2123200.0,
+    "n_clicked_slots": 83812.0,
+    "n_converted_slots": 5300.0,
+    "revenue_usd": 247751.41
+   }
+  },
+  "dw/fact_order": {
+   "rows": 992663,
+   "hash": -8257803984336997384,
+   "sums": {
+    "amount_usd": 892801805.5052
+   }
+  },
+  "mart/ml_training": {
+   "rows": 2051050,
+   "hash": -2556273739848027795,
+   "sums": {
+    "is_click": 83319.0,
+    "is_conversion": 5295.0,
+    "order_amount_usd": 1224674921.6603,
+    "pub_conv_rate_7d": 4873.4522,
+    "pub_conv_rate_28d": 4810.3906
+   }
+  },
+  "dq/rejects": {
+   "rows": 70,
+   "hash": 3528882233945302680,
+   "sums": {}
+  },
+  "dq/dq_checks": {
+   "rows": 7627,
+   "hash": 6129646441813846467,
+   "sums": {
+    "n_bad": 5741913.0,
+    "n_total": 139626824.0
+   }
+  },
+  "dq/reconciliation": {
+   "rows": 1798,
+   "hash": -223714913719623926,
+   "sums": {
+    "left_rows": 286960469.0,
+    "right_rows": 286960469.0
+   }
+  },
+  "ref/fx_daily": {
+   "rows": 2810,
+   "hash": 4576792792472060175,
+   "sums": {
+    "rate_per_usd": 3014935.372
+   }
+  },
+  "ref/holiday": {
+   "rows": 2179,
+   "hash": 6080340056652560331,
+   "sums": {}
+  }
+ },
+ "after": {
+  "staging/requests": {
+   "rows": 1939685,
+   "hash": 2773033225353652545,
+   "sums": {}
+  },
+  "staging/impressions": {
+   "rows": 2552611,
+   "hash": -3685006768588951626,
+   "sums": {}
+  },
+  "staging/clicks": {
+   "rows": 240103,
+   "hash": 546467222509151807,
+   "sums": {}
+  },
+  "staging/postbacks": {
+   "rows": 6226,
+   "hash": 6246882203525606706,
+   "sums": {
+    "revenue": 252704.25
+   }
+  },
+  "staging/orders": {
+   "rows": 992663,
+   "hash": 6437282444757925281,
+   "sums": {
+    "amount": 813561544.0699
+   }
+  },
+  "dw/dim_placement": {
+   "rows": 107387,
+   "hash": 8718643806577675591,
+   "sums": {}
+  },
+  "dw/dim_banner": {
+   "rows": 71587,
+   "hash": 6936527124438828768,
+   "sums": {}
+  },
+  "dw/dim_site_enrichment": {
+   "rows": 92457,
+   "hash": 8109588302179543689,
+   "sums": {}
+  },
+  "dw/dim_campaign_enrichment": {
+   "rows": 18739,
+   "hash": -6848324084667027529,
+   "sums": {}
+  },
+  "dw/ev_request": {
+   "rows": 1939665,
+   "hash": -5940873556710818465,
+   "sums": {
+    "order_amount": 1308197976.91
+   }
+  },
+  "dw/ev_impression": {
+   "rows": 2552611,
+   "hash": 5803530726966916571,
+   "sums": {}
+  },
+  "dw/ev_click": {
+   "rows": 240103,
+   "hash": -6280815781315578831,
+   "sums": {}
+  },
+  "dw/ev_postback": {
+   "rows": 6176,
+   "hash": 5101838118846277280,
+   "sums": {
+    "revenue": 248376.85
+   }
+  },
+  "dw/ev_order": {
+   "rows": 992663,
+   "hash": -6840688791942849006,
+   "sums": {
+    "amount": 813561544.07
+   }
+  },
+  "dw/fact_impression": {
+   "rows": 2123218,
+   "hash": 5755122167202045839,
+   "sums": {
+    "n_impression_rows": 2552611.0,
+    "n_clicks": 239234.0,
+    "n_postbacks": 6117.0,
+    "revenue_usd": 247751.41
+   }
+  },
+  "dw/fact_request": {
+   "rows": 1939665,
+   "hash": -7877860655357692189,
+   "sums": {
+    "amount_usd": 1305781151.549,
+    "n_slots": 2123200.0,
+    "n_clicked_slots": 83812.0,
+    "n_converted_slots": 5300.0,
+    "revenue_usd": 247751.41
+   }
+  },
+  "dw/fact_order": {
+   "rows": 992663,
+   "hash": -8257803984336997384,
+   "sums": {
+    "amount_usd": 892801805.5052
+   }
+  },
+  "mart/ml_training": {
+   "rows": 2051050,
+   "hash": -2556273739848027795,
+   "sums": {
+    "is_click": 83319.0,
+    "is_conversion": 5295.0,
+    "order_amount_usd": 1224674921.6603,
+    "pub_conv_rate_7d": 4873.4522,
+    "pub_conv_rate_28d": 4810.3906
+   }
+  },
+  "dq/rejects": {
+   "rows": 70,
+   "hash": 3528882233945302680,
+   "sums": {}
+  },
+  "dq/dq_checks": {
+   "rows": 7627,
+   "hash": 6129646441813846467,
+   "sums": {
+    "n_bad": 5741913.0,
+    "n_total": 139626824.0
+   }
+  },
+  "dq/reconciliation": {
+   "rows": 1798,
+   "hash": -223714913719623926,
+   "sums": {
+    "left_rows": 286960469.0,
+    "right_rows": 286960469.0
+   }
+  },
+  "ref/fx_daily": {
+   "rows": 2810,
+   "hash": 4576792792472060175,
+   "sums": {
+    "rate_per_usd": 3014935.372
+   }
+  },
+  "ref/holiday": {
+   "rows": 2179,
+   "hash": 6080340056652560331,
+   "sums": {}
+  }
+ },
+ "job_result": {
+  "dt": "2026-09-15",
+  "seconds": 68.0,
+  "touched_slots": 29895,
+  "rebuilt_slots": 29876,
+  "dims": {
+   "dim_placement": 1717,
+   "dim_banner": 1076,
+   "dim_site_enrichment": 1458,
+   "dim_campaign_enrichment": 270
+  }
+ }
+}

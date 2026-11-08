@@ -1,0 +1,17 @@
+[project]
+name = "falcon-warehouse"
+version = "0.1.0"
+description = "Small PySpark data warehouse for an ad network"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "pyspark==3.5.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

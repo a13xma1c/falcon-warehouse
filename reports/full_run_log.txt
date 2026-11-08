@@ -1,0 +1,598 @@
+Sun Nov  8 18:48:57 EET 2026
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-24", "seconds": 36.3, "touched_slots": 18985, "rebuilt_slots": 18976, "dims": {"dim_placement": 1656, "dim_banner": 975, "dim_site_enrichment": 1443, "dim_campaign_enrichment": 245}}
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-25", "seconds": 42.2, "touched_slots": 22135, "rebuilt_slots": 22132, "dims": {"dim_placement": 1665, "dim_banner": 988, "dim_site_enrichment": 1445, "dim_campaign_enrichment": 247}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-26", "seconds": 40.9, "touched_slots": 22578, "rebuilt_slots": 22566, "dims": {"dim_placement": 1669, "dim_banner": 989, "dim_site_enrichment": 1445, "dim_campaign_enrichment": 251}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-27", "seconds": 41.0, "touched_slots": 22429, "rebuilt_slots": 22413, "dims": {"dim_placement": 1671, "dim_banner": 994, "dim_site_enrichment": 1445, "dim_campaign_enrichment": 252}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-28", "seconds": 45.3, "touched_slots": 27004, "rebuilt_slots": 26990, "dims": {"dim_placement": 1671, "dim_banner": 994, "dim_site_enrichment": 1446, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-29", "seconds": 46.0, "touched_slots": 25446, "rebuilt_slots": 25430, "dims": {"dim_placement": 1673, "dim_banner": 994, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-30", "seconds": 44.1, "touched_slots": 24524, "rebuilt_slots": 24514, "dims": {"dim_placement": 1674, "dim_banner": 994, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-08-31", "seconds": 47.8, "touched_slots": 26382, "rebuilt_slots": 26373, "dims": {"dim_placement": 1675, "dim_banner": 994, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-01", "seconds": 46.7, "touched_slots": 28212, "rebuilt_slots": 28201, "dims": {"dim_placement": 1677, "dim_banner": 1000, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-02", "seconds": 50.2, "touched_slots": 28050, "rebuilt_slots": 28047, "dims": {"dim_placement": 1680, "dim_banner": 1002, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-03", "seconds": 45.7, "touched_slots": 26310, "rebuilt_slots": 26295, "dims": {"dim_placement": 1681, "dim_banner": 1005, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-04", "seconds": 56.4, "touched_slots": 24508, "rebuilt_slots": 24501, "dims": {"dim_placement": 1684, "dim_banner": 1019, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-05", "seconds": 51.6, "touched_slots": 23765, "rebuilt_slots": 23757, "dims": {"dim_placement": 1688, "dim_banner": 1019, "dim_site_enrichment": 1447, "dim_campaign_enrichment": 253}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-06", "seconds": 49.9, "touched_slots": 24056, "rebuilt_slots": 24051, "dims": {"dim_placement": 1691, "dim_banner": 1019, "dim_site_enrichment": 1448, "dim_campaign_enrichment": 255}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-07", "seconds": 50.9, "touched_slots": 24038, "rebuilt_slots": 24012, "dims": {"dim_placement": 1694, "dim_banner": 1025, "dim_site_enrichment": 1450, "dim_campaign_enrichment": 255}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-08", "seconds": 53.7, "touched_slots": 27254, "rebuilt_slots": 27238, "dims": {"dim_placement": 1696, "dim_banner": 1035, "dim_site_enrichment": 1452, "dim_campaign_enrichment": 257}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-09", "seconds": 53.7, "touched_slots": 25997, "rebuilt_slots": 25977, "dims": {"dim_placement": 1701, "dim_banner": 1040, "dim_site_enrichment": 1452, "dim_campaign_enrichment": 259}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-10", "seconds": 55.7, "touched_slots": 28160, "rebuilt_slots": 28147, "dims": {"dim_placement": 1702, "dim_banner": 1051, "dim_site_enrichment": 1455, "dim_campaign_enrichment": 262}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-11", "seconds": 53.4, "touched_slots": 28475, "rebuilt_slots": 28453, "dims": {"dim_placement": 1708, "dim_banner": 1060, "dim_site_enrichment": 1455, "dim_campaign_enrichment": 265}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-12", "seconds": 51.3, "touched_slots": 24445, "rebuilt_slots": 24427, "dims": {"dim_placement": 1710, "dim_banner": 1060, "dim_site_enrichment": 1457, "dim_campaign_enrichment": 267}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-13", "seconds": 51.5, "touched_slots": 23582, "rebuilt_slots": 23553, "dims": {"dim_placement": 1710, "dim_banner": 1060, "dim_site_enrichment": 1457, "dim_campaign_enrichment": 267}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-14", "seconds": 52.3, "touched_slots": 28291, "rebuilt_slots": 28264, "dims": {"dim_placement": 1711, "dim_banner": 1065, "dim_site_enrichment": 1457, "dim_campaign_enrichment": 267}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-15", "seconds": 55.7, "touched_slots": 29889, "rebuilt_slots": 29870, "dims": {"dim_placement": 1717, "dim_banner": 1076, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 270}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-16", "seconds": 56.1, "touched_slots": 29656, "rebuilt_slots": 29638, "dims": {"dim_placement": 1721, "dim_banner": 1094, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 272}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-17", "seconds": 57.3, "touched_slots": 38996, "rebuilt_slots": 38979, "dims": {"dim_placement": 1721, "dim_banner": 1101, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-18", "seconds": 58.1, "touched_slots": 42961, "rebuilt_slots": 42945, "dims": {"dim_placement": 1724, "dim_banner": 1101, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-19", "seconds": 59.4, "touched_slots": 41618, "rebuilt_slots": 41603, "dims": {"dim_placement": 1725, "dim_banner": 1101, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-20", "seconds": 58.0, "touched_slots": 50587, "rebuilt_slots": 50580, "dims": {"dim_placement": 1726, "dim_banner": 1101, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-21", "seconds": 69.4, "touched_slots": 47142, "rebuilt_slots": 47116, "dims": {"dim_placement": 1726, "dim_banner": 1116, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-22", "seconds": 62.0, "touched_slots": 46138, "rebuilt_slots": 46123, "dims": {"dim_placement": 1734, "dim_banner": 1129, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-23", "seconds": 100.6, "touched_slots": 46645, "rebuilt_slots": 46632, "dims": {"dim_placement": 1735, "dim_banner": 1141, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-24", "seconds": 66.4, "touched_slots": 47486, "rebuilt_slots": 47477, "dims": {"dim_placement": 1738, "dim_banner": 1142, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-25", "seconds": 65.3, "touched_slots": 38312, "rebuilt_slots": 38309, "dims": {"dim_placement": 1741, "dim_banner": 1148, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-26", "seconds": 66.2, "touched_slots": 33499, "rebuilt_slots": 33490, "dims": {"dim_placement": 1741, "dim_banner": 1151, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-27", "seconds": 65.6, "touched_slots": 31962, "rebuilt_slots": 31956, "dims": {"dim_placement": 1743, "dim_banner": 1163, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-28", "seconds": 65.3, "touched_slots": 33157, "rebuilt_slots": 33148, "dims": {"dim_placement": 1743, "dim_banner": 1172, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-29", "seconds": 95.2, "touched_slots": 37712, "rebuilt_slots": 37699, "dims": {"dim_placement": 1747, "dim_banner": 1184, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 282}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-09-30", "seconds": 64.3, "touched_slots": 33655, "rebuilt_slots": 33645, "dims": {"dim_placement": 1748, "dim_banner": 1201, "dim_site_enrichment": 1458, "dim_campaign_enrichment": 304}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-01", "seconds": 63.1, "touched_slots": 27984, "rebuilt_slots": 27969, "dims": {"dim_placement": 1752, "dim_banner": 1208, "dim_site_enrichment": 1464, "dim_campaign_enrichment": 335}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-02", "seconds": 64.1, "touched_slots": 25571, "rebuilt_slots": 25555, "dims": {"dim_placement": 1754, "dim_banner": 1232, "dim_site_enrichment": 1547, "dim_campaign_enrichment": 341}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-04", "seconds": 69.1, "touched_slots": 51357, "rebuilt_slots": 51332, "dims": {"dim_placement": 1756, "dim_banner": 1238, "dim_site_enrichment": 1550, "dim_campaign_enrichment": 345}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-05", "seconds": 67.2, "touched_slots": 29461, "rebuilt_slots": 29449, "dims": {"dim_placement": 1758, "dim_banner": 1238, "dim_site_enrichment": 1551, "dim_campaign_enrichment": 345}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-06", "seconds": 65.0, "touched_slots": 30695, "rebuilt_slots": 30680, "dims": {"dim_placement": 1761, "dim_banner": 1242, "dim_site_enrichment": 1551, "dim_campaign_enrichment": 346}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-07", "seconds": 65.8, "touched_slots": 28514, "rebuilt_slots": 28503, "dims": {"dim_placement": 1766, "dim_banner": 1269, "dim_site_enrichment": 1551, "dim_campaign_enrichment": 346}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-08", "seconds": 70.8, "touched_slots": 25748, "rebuilt_slots": 25736, "dims": {"dim_placement": 1767, "dim_banner": 1276, "dim_site_enrichment": 1552, "dim_campaign_enrichment": 352}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-09", "seconds": 76.7, "touched_slots": 28305, "rebuilt_slots": 28291, "dims": {"dim_placement": 1768, "dim_banner": 1292, "dim_site_enrichment": 1553, "dim_campaign_enrichment": 353}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-10", "seconds": 73.1, "touched_slots": 30483, "rebuilt_slots": 30463, "dims": {"dim_placement": 1771, "dim_banner": 1292, "dim_site_enrichment": 1553, "dim_campaign_enrichment": 357}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-11", "seconds": 68.2, "touched_slots": 30964, "rebuilt_slots": 30950, "dims": {"dim_placement": 1773, "dim_banner": 1292, "dim_site_enrichment": 1553, "dim_campaign_enrichment": 357}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-12", "seconds": 73.8, "touched_slots": 31600, "rebuilt_slots": 31588, "dims": {"dim_placement": 1775, "dim_banner": 1293, "dim_site_enrichment": 1553, "dim_campaign_enrichment": 357}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-13", "seconds": 74.0, "touched_slots": 42251, "rebuilt_slots": 42242, "dims": {"dim_placement": 1775, "dim_banner": 1293, "dim_site_enrichment": 1553, "dim_campaign_enrichment": 357}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-14", "seconds": 73.7, "touched_slots": 37614, "rebuilt_slots": 37600, "dims": {"dim_placement": 1775, "dim_banner": 1301, "dim_site_enrichment": 1555, "dim_campaign_enrichment": 357}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-15", "seconds": 74.3, "touched_slots": 38118, "rebuilt_slots": 38108, "dims": {"dim_placement": 1777, "dim_banner": 1308, "dim_site_enrichment": 1557, "dim_campaign_enrichment": 365}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-16", "seconds": 70.6, "touched_slots": 36661, "rebuilt_slots": 36649, "dims": {"dim_placement": 1779, "dim_banner": 1316, "dim_site_enrichment": 1557, "dim_campaign_enrichment": 366}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-17", "seconds": 71.3, "touched_slots": 35292, "rebuilt_slots": 35282, "dims": {"dim_placement": 1780, "dim_banner": 1316, "dim_site_enrichment": 1557, "dim_campaign_enrichment": 367}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-18", "seconds": 71.1, "touched_slots": 38159, "rebuilt_slots": 38148, "dims": {"dim_placement": 1782, "dim_banner": 1316, "dim_site_enrichment": 1558, "dim_campaign_enrichment": 367}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-19", "seconds": 79.6, "touched_slots": 43952, "rebuilt_slots": 43938, "dims": {"dim_placement": 1784, "dim_banner": 1328, "dim_site_enrichment": 1560, "dim_campaign_enrichment": 367}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-20", "seconds": 80.8, "touched_slots": 48642, "rebuilt_slots": 48627, "dims": {"dim_placement": 1785, "dim_banner": 1333, "dim_site_enrichment": 1560, "dim_campaign_enrichment": 368}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-21", "seconds": 74.4, "touched_slots": 47223, "rebuilt_slots": 47206, "dims": {"dim_placement": 1786, "dim_banner": 1334, "dim_site_enrichment": 1560, "dim_campaign_enrichment": 369}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-22", "seconds": 73.0, "touched_slots": 42227, "rebuilt_slots": 42212, "dims": {"dim_placement": 1786, "dim_banner": 1335, "dim_site_enrichment": 1562, "dim_campaign_enrichment": 370}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-23", "seconds": 89.5, "touched_slots": 60697, "rebuilt_slots": 60687, "dims": {"dim_placement": 1786, "dim_banner": 1344, "dim_site_enrichment": 1563, "dim_campaign_enrichment": 370}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-24", "seconds": 78.2, "touched_slots": 67105, "rebuilt_slots": 67094, "dims": {"dim_placement": 1787, "dim_banner": 1344, "dim_site_enrichment": 1563, "dim_campaign_enrichment": 372}}
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+{"dt": "2026-10-25", "seconds": 90.2, "touched_slots": 62951, "rebuilt_slots": 62937, "dims": {"dim_placement": 1787, "dim_banner": 1344, "dim_site_enrichment": 1563, "dim_campaign_enrichment": 372}}
+scripts/run_all.sh  27.87s user 45.90s system 1% cpu 1:06:55.42 total
+Sun Nov  8 19:55:52 EET 2026

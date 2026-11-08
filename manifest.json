@@ -1,0 +1,4854 @@
+{
+ "window": {
+  "first_folder": "dt=2026-08-24",
+  "last_folder": "dt=2026-10-25",
+  "n_folders": 62
+ },
+ "rows": {
+  "dt=2026-08-24": {
+   "impressions": 22637,
+   "clicks": 1062,
+   "postbacks": 54,
+   "orders": 9948,
+   "requests": 16696,
+   "publisher": 26,
+   "site": 1634,
+   "placement": 1656,
+   "platform": 18,
+   "category": 115,
+   "banner": 975,
+   "campaign": 279,
+   "advertiser": 154,
+   "site_enrichment": 1443,
+   "campaign_enrichment": 245
+  },
+  "dt=2026-08-25": {
+   "impressions": 25372,
+   "clicks": 1060,
+   "postbacks": 62,
+   "orders": 11324,
+   "requests": 21861,
+   "publisher": 27,
+   "site": 1640,
+   "placement": 1665,
+   "platform": 18,
+   "category": 115,
+   "banner": 988,
+   "campaign": 283,
+   "advertiser": 156,
+   "site_enrichment": 1445,
+   "campaign_enrichment": 247
+  },
+  "dt=2026-08-26": {
+   "impressions": 25536,
+   "clicks": 1103,
+   "postbacks": 78,
+   "orders": 10958,
+   "requests": 20794,
+   "publisher": 27,
+   "site": 1644,
+   "placement": 1669,
+   "platform": 18,
+   "category": 115,
+   "banner": 989,
+   "campaign": 283,
+   "advertiser": 156,
+   "site_enrichment": 1445,
+   "campaign_enrichment": 251
+  },
+  "dt=2026-08-27": {
+   "impressions": 25453,
+   "clicks": 1113,
+   "postbacks": 62,
+   "orders": 11138,
+   "requests": 21014,
+   "publisher": 27,
+   "site": 1646,
+   "placement": 1671,
+   "platform": 18,
+   "category": 115,
+   "banner": 994,
+   "campaign": 285,
+   "advertiser": 158,
+   "site_enrichment": 1445,
+   "campaign_enrichment": 252
+  },
+  "dt=2026-08-28": {
+   "impressions": 33994,
+   "clicks": 1428,
+   "postbacks": 78,
+   "orders": 12220,
+   "requests": 23307,
+   "publisher": 27,
+   "site": 1646,
+   "placement": 1671,
+   "platform": 18,
+   "category": 115,
+   "banner": 994,
+   "campaign": 285,
+   "advertiser": 158,
+   "site_enrichment": 1446,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-08-29": {
+   "impressions": 35399,
+   "clicks": 1405,
+   "postbacks": 69,
+   "orders": 11383,
+   "requests": 21794,
+   "publisher": 27,
+   "site": 1648,
+   "placement": 1673,
+   "platform": 18,
+   "category": 115,
+   "banner": 994,
+   "campaign": 285,
+   "advertiser": 158,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-08-30": {
+   "impressions": 33797,
+   "clicks": 1274,
+   "postbacks": 73,
+   "orders": 11584,
+   "requests": 21432,
+   "publisher": 27,
+   "site": 1649,
+   "placement": 1674,
+   "platform": 18,
+   "category": 115,
+   "banner": 994,
+   "campaign": 285,
+   "advertiser": 158,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-08-31": {
+   "impressions": 30716,
+   "clicks": 1358,
+   "postbacks": 78,
+   "orders": 10698,
+   "requests": 22399,
+   "publisher": 27,
+   "site": 1650,
+   "placement": 1675,
+   "platform": 18,
+   "category": 115,
+   "banner": 994,
+   "campaign": 285,
+   "advertiser": 158,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-09-01": {
+   "impressions": 28614,
+   "clicks": 1412,
+   "postbacks": 80,
+   "orders": 10921,
+   "requests": 24624,
+   "publisher": 27,
+   "site": 1652,
+   "placement": 1677,
+   "platform": 18,
+   "category": 115,
+   "banner": 1000,
+   "campaign": 287,
+   "advertiser": 159,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-09-02": {
+   "impressions": 37425,
+   "clicks": 1424,
+   "postbacks": 69,
+   "orders": 10795,
+   "requests": 23660,
+   "publisher": 27,
+   "site": 1655,
+   "placement": 1680,
+   "platform": 18,
+   "category": 115,
+   "banner": 1002,
+   "campaign": 287,
+   "advertiser": 159,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-09-03": {
+   "impressions": 32825,
+   "clicks": 1512,
+   "postbacks": 73,
+   "orders": 11177,
+   "requests": 24188,
+   "publisher": 28,
+   "site": 1656,
+   "placement": 1681,
+   "platform": 18,
+   "category": 115,
+   "banner": 1005,
+   "campaign": 287,
+   "advertiser": 159,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-09-04": {
+   "impressions": 31898,
+   "clicks": 1546,
+   "postbacks": 84,
+   "orders": 10857,
+   "requests": 22198,
+   "publisher": 28,
+   "site": 1659,
+   "placement": 1684,
+   "platform": 18,
+   "category": 115,
+   "banner": 1019,
+   "campaign": 289,
+   "advertiser": 160,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-09-05": {
+   "impressions": 28535,
+   "clicks": 1327,
+   "postbacks": 84,
+   "orders": 11243,
+   "requests": 22088,
+   "publisher": 28,
+   "site": 1663,
+   "placement": 1688,
+   "platform": 18,
+   "category": 115,
+   "banner": 1019,
+   "campaign": 289,
+   "advertiser": 160,
+   "site_enrichment": 1447,
+   "campaign_enrichment": 253
+  },
+  "dt=2026-09-06": {
+   "impressions": 28710,
+   "clicks": 1349,
+   "postbacks": 80,
+   "orders": 11747,
+   "requests": 22490,
+   "publisher": 28,
+   "site": 1666,
+   "placement": 1691,
+   "platform": 18,
+   "category": 115,
+   "banner": 1019,
+   "campaign": 289,
+   "advertiser": 160,
+   "site_enrichment": 1448,
+   "campaign_enrichment": 255
+  },
+  "dt=2026-09-07": {
+   "impressions": 28307,
+   "clicks": 1437,
+   "postbacks": 75,
+   "orders": 11680,
+   "requests": 21568,
+   "publisher": 28,
+   "site": 1669,
+   "placement": 1694,
+   "platform": 18,
+   "category": 115,
+   "banner": 1025,
+   "campaign": 291,
+   "advertiser": 162,
+   "site_enrichment": 1450,
+   "campaign_enrichment": 255
+  },
+  "dt=2026-09-08": {
+   "impressions": 31055,
+   "clicks": 1442,
+   "postbacks": 90,
+   "orders": 10910,
+   "requests": 24931,
+   "publisher": 28,
+   "site": 1671,
+   "placement": 1696,
+   "platform": 18,
+   "category": 115,
+   "banner": 1035,
+   "campaign": 293,
+   "advertiser": 164,
+   "site_enrichment": 1452,
+   "campaign_enrichment": 257
+  },
+  "dt=2026-09-09": {
+   "impressions": 29541,
+   "clicks": 1840,
+   "postbacks": 90,
+   "orders": 9914,
+   "requests": 23229,
+   "publisher": 29,
+   "site": 1675,
+   "placement": 1701,
+   "platform": 18,
+   "category": 115,
+   "banner": 1040,
+   "campaign": 295,
+   "advertiser": 165,
+   "site_enrichment": 1452,
+   "campaign_enrichment": 259
+  },
+  "dt=2026-09-10": {
+   "impressions": 31509,
+   "clicks": 2571,
+   "postbacks": 96,
+   "orders": 10372,
+   "requests": 25821,
+   "publisher": 29,
+   "site": 1676,
+   "placement": 1702,
+   "platform": 18,
+   "category": 115,
+   "banner": 1051,
+   "campaign": 299,
+   "advertiser": 167,
+   "site_enrichment": 1455,
+   "campaign_enrichment": 262
+  },
+  "dt=2026-09-11": {
+   "impressions": 31869,
+   "clicks": 2704,
+   "postbacks": 87,
+   "orders": 11027,
+   "requests": 25720,
+   "publisher": 30,
+   "site": 1677,
+   "placement": 1708,
+   "platform": 18,
+   "category": 115,
+   "banner": 1060,
+   "campaign": 301,
+   "advertiser": 168,
+   "site_enrichment": 1455,
+   "campaign_enrichment": 265
+  },
+  "dt=2026-09-12": {
+   "impressions": 28693,
+   "clicks": 2737,
+   "postbacks": 82,
+   "orders": 10307,
+   "requests": 22664,
+   "publisher": 30,
+   "site": 1679,
+   "placement": 1711,
+   "platform": 18,
+   "category": 115,
+   "banner": 1060,
+   "campaign": 301,
+   "advertiser": 168,
+   "site_enrichment": 1457,
+   "campaign_enrichment": 267
+  },
+  "dt=2026-09-13": {
+   "impressions": 27686,
+   "clicks": 2392,
+   "postbacks": 89,
+   "orders": 10719,
+   "requests": 22020,
+   "publisher": 30,
+   "site": 1679,
+   "placement": 1711,
+   "platform": 18,
+   "category": 115,
+   "banner": 1060,
+   "campaign": 301,
+   "advertiser": 168,
+   "site_enrichment": 1457,
+   "campaign_enrichment": 267
+  },
+  "dt=2026-09-14": {
+   "impressions": 33863,
+   "clicks": 2931,
+   "postbacks": 70,
+   "orders": 9758,
+   "requests": 25483,
+   "publisher": 30,
+   "site": 1680,
+   "placement": 1712,
+   "platform": 18,
+   "category": 115,
+   "banner": 1065,
+   "campaign": 302,
+   "advertiser": 169,
+   "site_enrichment": 1457,
+   "campaign_enrichment": 267
+  },
+  "dt=2026-09-15": {
+   "impressions": 35548,
+   "clicks": 2507,
+   "postbacks": 73,
+   "orders": 9404,
+   "requests": 27254,
+   "publisher": 31,
+   "site": 1682,
+   "placement": 1718,
+   "platform": 18,
+   "category": 115,
+   "banner": 1076,
+   "campaign": 306,
+   "advertiser": 173,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 270
+  },
+  "dt=2026-09-16": {
+   "impressions": 34282,
+   "clicks": 2040,
+   "postbacks": 67,
+   "orders": 9512,
+   "requests": 27475,
+   "publisher": 31,
+   "site": 1686,
+   "placement": 1722,
+   "platform": 18,
+   "category": 115,
+   "banner": 1094,
+   "campaign": 316,
+   "advertiser": 173,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 272
+  },
+  "dt=2026-09-17": {
+   "impressions": 43800,
+   "clicks": 2022,
+   "postbacks": 78,
+   "orders": 9667,
+   "requests": 39124,
+   "publisher": 31,
+   "site": 1686,
+   "placement": 1722,
+   "platform": 18,
+   "category": 115,
+   "banner": 1101,
+   "campaign": 316,
+   "advertiser": 173,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-18": {
+   "impressions": 47929,
+   "clicks": 1783,
+   "postbacks": 77,
+   "orders": 15905,
+   "requests": 42487,
+   "publisher": 31,
+   "site": 1689,
+   "placement": 1725,
+   "platform": 18,
+   "category": 115,
+   "banner": 1101,
+   "campaign": 316,
+   "advertiser": 173,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-19": {
+   "impressions": 47478,
+   "clicks": 2476,
+   "postbacks": 73,
+   "orders": 25764,
+   "requests": 40299,
+   "publisher": 31,
+   "site": 1690,
+   "placement": 1726,
+   "platform": 18,
+   "category": 115,
+   "banner": 1101,
+   "campaign": 316,
+   "advertiser": 173,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-20": {
+   "impressions": 57754,
+   "clicks": 2602,
+   "postbacks": 59,
+   "orders": 33906,
+   "requests": 50124,
+   "publisher": 31,
+   "site": 1691,
+   "placement": 1727,
+   "platform": 18,
+   "category": 115,
+   "banner": 1101,
+   "campaign": 316,
+   "advertiser": 173,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-21": {
+   "impressions": 52739,
+   "clicks": 2334,
+   "postbacks": 79,
+   "orders": 27620,
+   "requests": 45099,
+   "publisher": 31,
+   "site": 1691,
+   "placement": 1727,
+   "platform": 18,
+   "category": 115,
+   "banner": 1116,
+   "campaign": 320,
+   "advertiser": 176,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-22": {
+   "impressions": 51763,
+   "clicks": 2307,
+   "postbacks": 67,
+   "orders": 25221,
+   "requests": 44684,
+   "publisher": 33,
+   "site": 1695,
+   "placement": 1735,
+   "platform": 18,
+   "category": 115,
+   "banner": 1129,
+   "campaign": 323,
+   "advertiser": 179,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-23": {
+   "impressions": 52442,
+   "clicks": 2424,
+   "postbacks": 61,
+   "orders": 25060,
+   "requests": 44641,
+   "publisher": 33,
+   "site": 1696,
+   "placement": 1736,
+   "platform": 18,
+   "category": 115,
+   "banner": 1141,
+   "campaign": 327,
+   "advertiser": 180,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-24": {
+   "impressions": 54463,
+   "clicks": 2341,
+   "postbacks": 69,
+   "orders": 23412,
+   "requests": 45202,
+   "publisher": 33,
+   "site": 1699,
+   "placement": 1739,
+   "platform": 18,
+   "category": 115,
+   "banner": 1142,
+   "campaign": 327,
+   "advertiser": 180,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-25": {
+   "impressions": 44189,
+   "clicks": 2286,
+   "postbacks": 77,
+   "orders": 18460,
+   "requests": 35365,
+   "publisher": 33,
+   "site": 1702,
+   "placement": 1742,
+   "platform": 18,
+   "category": 115,
+   "banner": 1148,
+   "campaign": 329,
+   "advertiser": 182,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-26": {
+   "impressions": 38324,
+   "clicks": 2085,
+   "postbacks": 77,
+   "orders": 18179,
+   "requests": 31277,
+   "publisher": 33,
+   "site": 1702,
+   "placement": 1742,
+   "platform": 18,
+   "category": 115,
+   "banner": 1151,
+   "campaign": 330,
+   "advertiser": 183,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-27": {
+   "impressions": 38190,
+   "clicks": 2136,
+   "postbacks": 62,
+   "orders": 17710,
+   "requests": 29903,
+   "publisher": 33,
+   "site": 1704,
+   "placement": 1744,
+   "platform": 18,
+   "category": 115,
+   "banner": 1163,
+   "campaign": 333,
+   "advertiser": 185,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-28": {
+   "impressions": 39142,
+   "clicks": 1882,
+   "postbacks": 66,
+   "orders": 16082,
+   "requests": 30354,
+   "publisher": 33,
+   "site": 1704,
+   "placement": 1744,
+   "platform": 18,
+   "category": 115,
+   "banner": 1172,
+   "campaign": 334,
+   "advertiser": 185,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-29": {
+   "impressions": 44148,
+   "clicks": 2057,
+   "postbacks": 68,
+   "orders": 16166,
+   "requests": 33574,
+   "publisher": 34,
+   "site": 1708,
+   "placement": 1748,
+   "platform": 18,
+   "category": 115,
+   "banner": 1184,
+   "campaign": 338,
+   "advertiser": 188,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 282
+  },
+  "dt=2026-09-30": {
+   "impressions": 39935,
+   "clicks": 1738,
+   "postbacks": 57,
+   "orders": 16156,
+   "requests": 30665,
+   "publisher": 34,
+   "site": 1709,
+   "placement": 1749,
+   "platform": 18,
+   "category": 115,
+   "banner": 1201,
+   "campaign": 343,
+   "advertiser": 189,
+   "site_enrichment": 1458,
+   "campaign_enrichment": 304
+  },
+  "dt=2026-10-01": {
+   "impressions": 34628,
+   "clicks": 1817,
+   "postbacks": 62,
+   "orders": 9720,
+   "requests": 24312,
+   "publisher": 34,
+   "site": 1713,
+   "placement": 1753,
+   "platform": 18,
+   "category": 115,
+   "banner": 1208,
+   "campaign": 345,
+   "advertiser": 191,
+   "site_enrichment": 1464,
+   "campaign_enrichment": 335
+  },
+  "dt=2026-10-02": {
+   "impressions": 30352,
+   "clicks": 1609,
+   "postbacks": 65,
+   "orders": 12091,
+   "requests": 22866,
+   "publisher": 34,
+   "site": 1715,
+   "placement": 1755,
+   "platform": 18,
+   "category": 115,
+   "banner": 1232,
+   "campaign": 351,
+   "advertiser": 197,
+   "site_enrichment": 1547,
+   "campaign_enrichment": 341
+  },
+  "dt=2026-10-04": {
+   "impressions": 62315,
+   "clicks": 3732,
+   "postbacks": 115,
+   "orders": 28183,
+   "requests": 47653,
+   "publisher": 34,
+   "site": 1717,
+   "placement": 1757,
+   "platform": 18,
+   "category": 115,
+   "banner": 1238,
+   "campaign": 352,
+   "advertiser": 197,
+   "site_enrichment": 1550,
+   "campaign_enrichment": 345
+  },
+  "dt=2026-10-05": {
+   "impressions": 35671,
+   "clicks": 2068,
+   "postbacks": 54,
+   "orders": 14284,
+   "requests": 26325,
+   "publisher": 34,
+   "site": 1719,
+   "placement": 1759,
+   "platform": 18,
+   "category": 115,
+   "banner": 1238,
+   "campaign": 352,
+   "advertiser": 197,
+   "site_enrichment": 1551,
+   "campaign_enrichment": 345
+  },
+  "dt=2026-10-06": {
+   "impressions": 36265,
+   "clicks": 1997,
+   "postbacks": 80,
+   "orders": 13529,
+   "requests": 27442,
+   "publisher": 34,
+   "site": 1722,
+   "placement": 1762,
+   "platform": 18,
+   "category": 115,
+   "banner": 1242,
+   "campaign": 353,
+   "advertiser": 198,
+   "site_enrichment": 1551,
+   "campaign_enrichment": 346
+  },
+  "dt=2026-10-07": {
+   "impressions": 34071,
+   "clicks": 1705,
+   "postbacks": 61,
+   "orders": 13104,
+   "requests": 25084,
+   "publisher": 35,
+   "site": 1725,
+   "placement": 1767,
+   "platform": 18,
+   "category": 115,
+   "banner": 1269,
+   "campaign": 360,
+   "advertiser": 200,
+   "site_enrichment": 1551,
+   "campaign_enrichment": 346
+  },
+  "dt=2026-10-08": {
+   "impressions": 32052,
+   "clicks": 1605,
+   "postbacks": 74,
+   "orders": 12545,
+   "requests": 23546,
+   "publisher": 35,
+   "site": 1726,
+   "placement": 1768,
+   "platform": 18,
+   "category": 115,
+   "banner": 1276,
+   "campaign": 360,
+   "advertiser": 200,
+   "site_enrichment": 1552,
+   "campaign_enrichment": 352
+  },
+  "dt=2026-10-09": {
+   "impressions": 35013,
+   "clicks": 1847,
+   "postbacks": 83,
+   "orders": 14945,
+   "requests": 26143,
+   "publisher": 35,
+   "site": 1727,
+   "placement": 1769,
+   "platform": 18,
+   "category": 115,
+   "banner": 1292,
+   "campaign": 364,
+   "advertiser": 204,
+   "site_enrichment": 1553,
+   "campaign_enrichment": 353
+  },
+  "dt=2026-10-10": {
+   "impressions": 38084,
+   "clicks": 1906,
+   "postbacks": 95,
+   "orders": 16248,
+   "requests": 27810,
+   "publisher": 36,
+   "site": 1730,
+   "placement": 1772,
+   "platform": 18,
+   "category": 115,
+   "banner": 1292,
+   "campaign": 364,
+   "advertiser": 204,
+   "site_enrichment": 1553,
+   "campaign_enrichment": 357
+  },
+  "dt=2026-10-11": {
+   "impressions": 38692,
+   "clicks": 2175,
+   "postbacks": 84,
+   "orders": 17281,
+   "requests": 29013,
+   "publisher": 36,
+   "site": 1732,
+   "placement": 1774,
+   "platform": 18,
+   "category": 115,
+   "banner": 1292,
+   "campaign": 364,
+   "advertiser": 204,
+   "site_enrichment": 1553,
+   "campaign_enrichment": 357
+  },
+  "dt=2026-10-12": {
+   "impressions": 38800,
+   "clicks": 17216,
+   "postbacks": 105,
+   "orders": 15259,
+   "requests": 28383,
+   "publisher": 36,
+   "site": 1734,
+   "placement": 1776,
+   "platform": 18,
+   "category": 115,
+   "banner": 1293,
+   "campaign": 364,
+   "advertiser": 204,
+   "site_enrichment": 1553,
+   "campaign_enrichment": 357
+  },
+  "dt=2026-10-13": {
+   "impressions": 57811,
+   "clicks": 19207,
+   "postbacks": 123,
+   "orders": 17120,
+   "requests": 37844,
+   "publisher": 36,
+   "site": 1734,
+   "placement": 1776,
+   "platform": 18,
+   "category": 115,
+   "banner": 1293,
+   "campaign": 364,
+   "advertiser": 204,
+   "site_enrichment": 1553,
+   "campaign_enrichment": 357
+  },
+  "dt=2026-10-14": {
+   "impressions": 51262,
+   "clicks": 15476,
+   "postbacks": 139,
+   "orders": 16471,
+   "requests": 33028,
+   "publisher": 36,
+   "site": 1734,
+   "placement": 1776,
+   "platform": 18,
+   "category": 115,
+   "banner": 1301,
+   "campaign": 370,
+   "advertiser": 204,
+   "site_enrichment": 1555,
+   "campaign_enrichment": 357
+  },
+  "dt=2026-10-15": {
+   "impressions": 51047,
+   "clicks": 11817,
+   "postbacks": 232,
+   "orders": 16441,
+   "requests": 34089,
+   "publisher": 37,
+   "site": 1736,
+   "placement": 1778,
+   "platform": 18,
+   "category": 115,
+   "banner": 1308,
+   "campaign": 372,
+   "advertiser": 206,
+   "site_enrichment": 1557,
+   "campaign_enrichment": 365
+  },
+  "dt=2026-10-16": {
+   "impressions": 47505,
+   "clicks": 9549,
+   "postbacks": 221,
+   "orders": 17432,
+   "requests": 33382,
+   "publisher": 37,
+   "site": 1738,
+   "placement": 1780,
+   "platform": 18,
+   "category": 115,
+   "banner": 1316,
+   "campaign": 374,
+   "advertiser": 208,
+   "site_enrichment": 1557,
+   "campaign_enrichment": 366
+  },
+  "dt=2026-10-17": {
+   "impressions": 46077,
+   "clicks": 9062,
+   "postbacks": 210,
+   "orders": 17888,
+   "requests": 32134,
+   "publisher": 37,
+   "site": 1739,
+   "placement": 1781,
+   "platform": 18,
+   "category": 115,
+   "banner": 1316,
+   "campaign": 374,
+   "advertiser": 208,
+   "site_enrichment": 1557,
+   "campaign_enrichment": 367
+  },
+  "dt=2026-10-18": {
+   "impressions": 50299,
+   "clicks": 9362,
+   "postbacks": 160,
+   "orders": 19730,
+   "requests": 34120,
+   "publisher": 38,
+   "site": 1740,
+   "placement": 1783,
+   "platform": 18,
+   "category": 115,
+   "banner": 1316,
+   "campaign": 374,
+   "advertiser": 208,
+   "site_enrichment": 1558,
+   "campaign_enrichment": 367
+  },
+  "dt=2026-10-19": {
+   "impressions": 56790,
+   "clicks": 9036,
+   "postbacks": 170,
+   "orders": 19090,
+   "requests": 38319,
+   "publisher": 38,
+   "site": 1742,
+   "placement": 1785,
+   "platform": 18,
+   "category": 115,
+   "banner": 1328,
+   "campaign": 375,
+   "advertiser": 209,
+   "site_enrichment": 1560,
+   "campaign_enrichment": 367
+  },
+  "dt=2026-10-20": {
+   "impressions": 63685,
+   "clicks": 8482,
+   "postbacks": 272,
+   "orders": 18452,
+   "requests": 42079,
+   "publisher": 38,
+   "site": 1743,
+   "placement": 1786,
+   "platform": 18,
+   "category": 115,
+   "banner": 1333,
+   "campaign": 376,
+   "advertiser": 209,
+   "site_enrichment": 1560,
+   "campaign_enrichment": 368
+  },
+  "dt=2026-10-21": {
+   "impressions": 60539,
+   "clicks": 7216,
+   "postbacks": 188,
+   "orders": 17418,
+   "requests": 41291,
+   "publisher": 38,
+   "site": 1744,
+   "placement": 1787,
+   "platform": 18,
+   "category": 115,
+   "banner": 1334,
+   "campaign": 377,
+   "advertiser": 209,
+   "site_enrichment": 1560,
+   "campaign_enrichment": 369
+  },
+  "dt=2026-10-22": {
+   "impressions": 48513,
+   "clicks": 7119,
+   "postbacks": 145,
+   "orders": 14543,
+   "requests": 37280,
+   "publisher": 38,
+   "site": 1744,
+   "placement": 1787,
+   "platform": 18,
+   "category": 115,
+   "banner": 1335,
+   "campaign": 377,
+   "advertiser": 209,
+   "site_enrichment": 1562,
+   "campaign_enrichment": 370
+  },
+  "dt=2026-10-23": {
+   "impressions": 72210,
+   "clicks": 8433,
+   "postbacks": 216,
+   "orders": 27747,
+   "requests": 54118,
+   "publisher": 38,
+   "site": 1744,
+   "placement": 1787,
+   "platform": 18,
+   "category": 115,
+   "banner": 1344,
+   "campaign": 380,
+   "advertiser": 212,
+   "site_enrichment": 1563,
+   "campaign_enrichment": 370
+  },
+  "dt=2026-10-24": {
+   "impressions": 76466,
+   "clicks": 7838,
+   "postbacks": 227,
+   "orders": 37343,
+   "requests": 59685,
+   "publisher": 38,
+   "site": 1745,
+   "placement": 1788,
+   "platform": 18,
+   "category": 115,
+   "banner": 1344,
+   "campaign": 380,
+   "advertiser": 212,
+   "site_enrichment": 1563,
+   "campaign_enrichment": 372
+  },
+  "dt=2026-10-25": {
+   "impressions": 68904,
+   "clicks": 8382,
+   "postbacks": 232,
+   "orders": 36895,
+   "requests": 56231,
+   "publisher": 38,
+   "site": 1745,
+   "placement": 1788,
+   "platform": 18,
+   "category": 115,
+   "banner": 1344,
+   "campaign": 380,
+   "advertiser": 212,
+   "site_enrichment": 1563,
+   "campaign_enrichment": 372
+  }
+ },
+ "bytes_by_folder": {
+  "dt=2026-08-24": 4505692,
+  "dt=2026-08-25": 5163862,
+  "dt=2026-08-26": 5049365,
+  "dt=2026-08-27": 5102270,
+  "dt=2026-08-28": 5585432,
+  "dt=2026-08-29": 5354431,
+  "dt=2026-08-30": 5307278,
+  "dt=2026-08-31": 5246447,
+  "dt=2026-09-01": 5448449,
+  "dt=2026-09-02": 5515625,
+  "dt=2026-09-03": 5536676,
+  "dt=2026-09-04": 5311965,
+  "dt=2026-09-05": 5232924,
+  "dt=2026-09-06": 5297081,
+  "dt=2026-09-07": 5269636,
+  "dt=2026-09-08": 5551611,
+  "dt=2026-09-09": 5261796,
+  "dt=2026-09-10": 5597611,
+  "dt=2026-09-11": 5687927,
+  "dt=2026-09-12": 5261188,
+  "dt=2026-09-13": 5198013,
+  "dt=2026-09-14": 5506263,
+  "dt=2026-09-15": 5656051,
+  "dt=2026-09-16": 5623187,
+  "dt=2026-09-17": 6594183,
+  "dt=2026-09-18": 7461551,
+  "dt=2026-09-19": 8229205,
+  "dt=2026-09-20": 9773891,
+  "dt=2026-09-21": 8802675,
+  "dt=2026-09-22": 8617381,
+  "dt=2026-09-23": 8633161,
+  "dt=2026-09-24": 8638335,
+  "dt=2026-09-25": 7323097,
+  "dt=2026-09-26": 6768025,
+  "dt=2026-09-27": 6563401,
+  "dt=2026-09-28": 6517028,
+  "dt=2026-09-29": 6950920,
+  "dt=2026-09-30": 6588960,
+  "dt=2026-10-01": 5502882,
+  "dt=2026-10-02": 5545008,
+  "dt=2026-10-04": 9887890,
+  "dt=2026-10-05": 6067608,
+  "dt=2026-10-06": 6144181,
+  "dt=2026-10-07": 5826686,
+  "dt=2026-10-08": 5595414,
+  "dt=2026-10-09": 6113805,
+  "dt=2026-10-10": 6383989,
+  "dt=2026-10-11": 6589923,
+  "dt=2026-10-12": 6571350,
+  "dt=2026-10-13": 8036386,
+  "dt=2026-10-14": 7377897,
+  "dt=2026-10-15": 7425587,
+  "dt=2026-10-16": 7346324,
+  "dt=2026-10-17": 7239289,
+  "dt=2026-10-18": 7663945,
+  "dt=2026-10-19": 8067169,
+  "dt=2026-10-20": 8444029,
+  "dt=2026-10-21": 8050392,
+  "dt=2026-10-22": 7271837,
+  "dt=2026-10-23": 10417815,
+  "dt=2026-10-24": 11786732,
+  "dt=2026-10-25": 11263845
+ },
+ "files": {
+  "README.md": {
+   "bytes": 8504,
+   "sha256": "fcd171873ebb7cce6a76261f2c6564141aef11a7968459d3b4cbc3282b0832d8"
+  },
+  "dt=2026-08-24/clicks/part-0000.parquet": {
+   "bytes": 34240,
+   "sha256": "147eb0ad839a87476e078f6051157669dc0878ef093426b4ac0719f12036f9ab"
+  },
+  "dt=2026-08-24/dims/advertiser.csv": {
+   "bytes": 11321,
+   "sha256": "3ca80cb9d7349f35153f5a0ddf12ee78c250e761396eaa8da8b333ad6039f3f7"
+  },
+  "dt=2026-08-24/dims/banner.csv": {
+   "bytes": 127810,
+   "sha256": "d9330fb23efd5fb1378f6f507d21a182315fed6cf267b845ae3e1c0cbcb7f877"
+  },
+  "dt=2026-08-24/dims/campaign.csv": {
+   "bytes": 32096,
+   "sha256": "b6b54379015b5dd9eb7234ab76b4a0efea00fbffbdd4877e088b0f148bc893f3"
+  },
+  "dt=2026-08-24/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-24/dims/placement.csv": {
+   "bytes": 215159,
+   "sha256": "57c1704c37603bcba96406f0de4925e7610729bd94b056cb62168e43172291ba"
+  },
+  "dt=2026-08-24/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-24/dims/publisher.csv": {
+   "bytes": 3095,
+   "sha256": "444d500d59f2174071316af0b82a02274010f26c7880e1c3af9b0414873ffc7a"
+  },
+  "dt=2026-08-24/dims/site.csv": {
+   "bytes": 205879,
+   "sha256": "7eec08be396a5a22e247cec35bdd55830e3870da6b68e324976a21d79f684a40"
+  },
+  "dt=2026-08-24/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 123119,
+   "sha256": "490e195fff89e76f2658cd91b7b72f8477479993dae8683abf41dd0567c45fdf"
+  },
+  "dt=2026-08-24/enrichment/site_enrichment.jsonl": {
+   "bytes": 688326,
+   "sha256": "17e27606335ee6d63ac09f1cd381fa561302431870654b2b47958bb0a288e5ba"
+  },
+  "dt=2026-08-24/impressions/part-0000.parquet": {
+   "bytes": 644251,
+   "sha256": "66851f8add87084396dc521664073e5ac90410b918bb07a61162a345cb22d8e7"
+  },
+  "dt=2026-08-24/orders.csv": {
+   "bytes": 940901,
+   "sha256": "5342c5dd332d442a0eec0ee58615137eae1245eec29ec8fcc13721a373efa108"
+  },
+  "dt=2026-08-24/postbacks/part-0000.parquet": {
+   "bytes": 5496,
+   "sha256": "ef3bcae4cbd027337313bc17c9956e0a92ed5cd8c471f35971bab0470417c565"
+  },
+  "dt=2026-08-24/requests/part-0000.jsonl.gz": {
+   "bytes": 1467410,
+   "sha256": "2e1fe549ce6f53d826b766d1aebf69828d7d3f4b542eca55329de8c64bf253dd"
+  },
+  "dt=2026-08-25/clicks/part-0000.parquet": {
+   "bytes": 34245,
+   "sha256": "db5b435d46fa8aef480ae6ee97c9030796a72308efda46d139f3fdfdaff266b3"
+  },
+  "dt=2026-08-25/dims/advertiser.csv": {
+   "bytes": 11467,
+   "sha256": "b907eb74574af09a936581d3c093beb09ac553952ad4ac0e3e2057ae8833ceca"
+  },
+  "dt=2026-08-25/dims/banner.csv": {
+   "bytes": 129513,
+   "sha256": "0ef01b1a746ada8fb614a32a5c80782e1fc83a18521b7345eb632c2783242fdd"
+  },
+  "dt=2026-08-25/dims/campaign.csv": {
+   "bytes": 32545,
+   "sha256": "1359d12656d614a424d7dad79639d1f8d4e957b937329ceb84c0bdb2452056a1"
+  },
+  "dt=2026-08-25/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-25/dims/placement.csv": {
+   "bytes": 216309,
+   "sha256": "b0eb7f08e4a6af4378afa7c6a116ceb47a79a5f25771cbfeb0cecb65bbc260b3"
+  },
+  "dt=2026-08-25/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-25/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-08-25/dims/site.csv": {
+   "bytes": 206620,
+   "sha256": "1df56da6268877f6ba0ffc16bcc55324011a1e1888c3441e18ca1d48f7300ba1"
+  },
+  "dt=2026-08-25/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 124091,
+   "sha256": "5803f7d4768b7e37505fecd964778ef66c12600d912f06e3545140332148c8a5"
+  },
+  "dt=2026-08-25/enrichment/site_enrichment.jsonl": {
+   "bytes": 689282,
+   "sha256": "ddc1f4ec3ec7a9ee7e54efcc4455d7fc1860eb21e31e4677f86243625a21dd54"
+  },
+  "dt=2026-08-25/impressions/part-0000.parquet": {
+   "bytes": 740883,
+   "sha256": "8f6f5ea6441b882c0bd490baac3fb7c36a7fc506e8ebf062f2cbf7af14d5e2a8"
+  },
+  "dt=2026-08-25/orders.csv": {
+   "bytes": 1052262,
+   "sha256": "407c8632b71121a8957151d7ff9e06b730938ceb98b49ff3cfae5e1c78194bda"
+  },
+  "dt=2026-08-25/postbacks/part-0000.parquet": {
+   "bytes": 5747,
+   "sha256": "66b80d5f281258d7b9399c1bcfcfcbb6c7ac80ec1b8a85e4961c6b7cd9154ce9"
+  },
+  "dt=2026-08-25/requests/part-0000.jsonl.gz": {
+   "bytes": 1911095,
+   "sha256": "79167f89d6fa898c8ee4bab3a08df1fb3d04f2444f2b53b6a678474b231ce2c6"
+  },
+  "dt=2026-08-26/clicks/part-0000.parquet": {
+   "bytes": 35204,
+   "sha256": "2a8d9343b40892c145d30a1fa075fac03e5cbd69e276887891180386cc44c5f5"
+  },
+  "dt=2026-08-26/dims/advertiser.csv": {
+   "bytes": 11467,
+   "sha256": "b907eb74574af09a936581d3c093beb09ac553952ad4ac0e3e2057ae8833ceca"
+  },
+  "dt=2026-08-26/dims/banner.csv": {
+   "bytes": 129644,
+   "sha256": "14740dc7cc439b71fbfe0b35b87ca35131dac27d032f0e9d4a7668b084a8ab75"
+  },
+  "dt=2026-08-26/dims/campaign.csv": {
+   "bytes": 32545,
+   "sha256": "1359d12656d614a424d7dad79639d1f8d4e957b937329ceb84c0bdb2452056a1"
+  },
+  "dt=2026-08-26/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-26/dims/placement.csv": {
+   "bytes": 216829,
+   "sha256": "208c1d8e582c87e1993ee8505ff5bd5f7a499b6daa9928ee42d3a9eec7b1948e"
+  },
+  "dt=2026-08-26/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-26/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-08-26/dims/site.csv": {
+   "bytes": 207116,
+   "sha256": "c416f2cc7a3334996a629ae1a0b228a29b827521e59c7578c32b21f1d47dd077"
+  },
+  "dt=2026-08-26/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 126046,
+   "sha256": "8e62e8578c1b9dbb4f860ac13a493f6770b51d8fbd94706497a802a3cd7979a2"
+  },
+  "dt=2026-08-26/enrichment/site_enrichment.jsonl": {
+   "bytes": 689282,
+   "sha256": "ddc1f4ec3ec7a9ee7e54efcc4455d7fc1860eb21e31e4677f86243625a21dd54"
+  },
+  "dt=2026-08-26/impressions/part-0000.parquet": {
+   "bytes": 756547,
+   "sha256": "bce2995c5dd45f5bd56c8a2ec1aa918e5042009db6b63d486838bf0b954b1dae"
+  },
+  "dt=2026-08-26/orders.csv": {
+   "bytes": 1018044,
+   "sha256": "76cd8c88df50a184010b988926bf57e74c041a7f1c54ff6545f4155e2bed4fba"
+  },
+  "dt=2026-08-26/postbacks/part-0000.parquet": {
+   "bytes": 6055,
+   "sha256": "e540049699830bf3a43e29b91220499853cfefdcc27fa943553331542b8f7ea9"
+  },
+  "dt=2026-08-26/requests/part-0000.jsonl.gz": {
+   "bytes": 1810783,
+   "sha256": "980500c396e2557d779cf9ecf521e53253e4b51ca6db04b4c190a1674f994769"
+  },
+  "dt=2026-08-27/clicks/part-0000.parquet": {
+   "bytes": 35458,
+   "sha256": "837984a76f0a287a8dd141579f2e07d81e84d05b4a9147f4820500cf0a83278c"
+  },
+  "dt=2026-08-27/dims/advertiser.csv": {
+   "bytes": 11613,
+   "sha256": "1e0eaf54a2f850f9a25217cd3d27cddced4cd0b480a8519cfb60e79d9e98e25b"
+  },
+  "dt=2026-08-27/dims/banner.csv": {
+   "bytes": 130299,
+   "sha256": "6751a22b905d1f48edc7022ca5a148c77387fafd080fffeab6e9c9aab4e84c2f"
+  },
+  "dt=2026-08-27/dims/campaign.csv": {
+   "bytes": 32767,
+   "sha256": "46e2c0a3c56c241f6d49b4165f90c5352d147a6b33bfbae8778594455436c2ed"
+  },
+  "dt=2026-08-27/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-27/dims/placement.csv": {
+   "bytes": 217089,
+   "sha256": "31295cd9c988247f6ea9a797d210d77ffbe19abe03d53ea5bdd78339624d29e2"
+  },
+  "dt=2026-08-27/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-27/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-08-27/dims/site.csv": {
+   "bytes": 207364,
+   "sha256": "a2bd704242b4499203a0da713d2caf332c1a58e609dd347d5d2a617b10908d49"
+  },
+  "dt=2026-08-27/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 126532,
+   "sha256": "62da1ae10d38955ebd7ada9b84bf8dec620c228c19df1e74286cf253545e87b2"
+  },
+  "dt=2026-08-27/enrichment/site_enrichment.jsonl": {
+   "bytes": 689282,
+   "sha256": "ddc1f4ec3ec7a9ee7e54efcc4455d7fc1860eb21e31e4677f86243625a21dd54"
+  },
+  "dt=2026-08-27/impressions/part-0000.parquet": {
+   "bytes": 753416,
+   "sha256": "fc1b9a7b3376e1aeee6a5d65c0324f7c785085159baec109fd5c5c11dd98be4f"
+  },
+  "dt=2026-08-27/orders.csv": {
+   "bytes": 1031976,
+   "sha256": "afc9dcbd80da5db280725b9dfcdeb9419315876340b7eaeb678dbadc7a48e8c9"
+  },
+  "dt=2026-08-27/postbacks/part-0000.parquet": {
+   "bytes": 5685,
+   "sha256": "e11596b4056c2cf49b49d20605d67e622455c3b28a62468b4c10e7422878b389"
+  },
+  "dt=2026-08-27/requests/part-0000.jsonl.gz": {
+   "bytes": 1850986,
+   "sha256": "9790b73478f1bd1198efddbf45e6e6b9afde61dbffa29e61b6aacd05d4f4d0f4"
+  },
+  "dt=2026-08-28/clicks/part-0000.parquet": {
+   "bytes": 44659,
+   "sha256": "07bd67867776a693937d5ba420b27f2405e5737c2da065eee4338f7dfd3912ae"
+  },
+  "dt=2026-08-28/dims/advertiser.csv": {
+   "bytes": 11613,
+   "sha256": "1e0eaf54a2f850f9a25217cd3d27cddced4cd0b480a8519cfb60e79d9e98e25b"
+  },
+  "dt=2026-08-28/dims/banner.csv": {
+   "bytes": 130299,
+   "sha256": "6751a22b905d1f48edc7022ca5a148c77387fafd080fffeab6e9c9aab4e84c2f"
+  },
+  "dt=2026-08-28/dims/campaign.csv": {
+   "bytes": 32767,
+   "sha256": "46e2c0a3c56c241f6d49b4165f90c5352d147a6b33bfbae8778594455436c2ed"
+  },
+  "dt=2026-08-28/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-28/dims/placement.csv": {
+   "bytes": 217089,
+   "sha256": "31295cd9c988247f6ea9a797d210d77ffbe19abe03d53ea5bdd78339624d29e2"
+  },
+  "dt=2026-08-28/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-28/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-08-28/dims/site.csv": {
+   "bytes": 207364,
+   "sha256": "a2bd704242b4499203a0da713d2caf332c1a58e609dd347d5d2a617b10908d49"
+  },
+  "dt=2026-08-28/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-08-28/enrichment/site_enrichment.jsonl": {
+   "bytes": 689751,
+   "sha256": "57f7c7bee86e51b0381a5282b7094347069b523e9ab5a5c8d44608d4e8d8839a"
+  },
+  "dt=2026-08-28/impressions/part-0000.parquet": {
+   "bytes": 943474,
+   "sha256": "46327cfffc9987342c71355cb0d437c87f005f4a3a471ca1e13c4ccf806d4d6b"
+  },
+  "dt=2026-08-28/orders.csv": {
+   "bytes": 1135121,
+   "sha256": "1a1a01f36ae0ff50b998b4efe7c286a0bb63ebfb26079ecf25338f5a4c250f64"
+  },
+  "dt=2026-08-28/postbacks/part-0000.parquet": {
+   "bytes": 6159,
+   "sha256": "a5894939540445adb2db59fc535e70ddfaa391a1c4f7077db36b2616c8cd1472"
+  },
+  "dt=2026-08-28/requests/part-0000.jsonl.gz": {
+   "bytes": 2030306,
+   "sha256": "f13a0837fe1dd85b9234e67a146e74b6909b55776399829d81df42b67db30b64"
+  },
+  "dt=2026-08-29/clicks/part-0000.parquet": {
+   "bytes": 44123,
+   "sha256": "40bcccf2b70a2584c5d9296b37bb3a75e2df0642a50660a6584dec658e4e2f1c"
+  },
+  "dt=2026-08-29/dims/advertiser.csv": {
+   "bytes": 11613,
+   "sha256": "1e0eaf54a2f850f9a25217cd3d27cddced4cd0b480a8519cfb60e79d9e98e25b"
+  },
+  "dt=2026-08-29/dims/banner.csv": {
+   "bytes": 130299,
+   "sha256": "6751a22b905d1f48edc7022ca5a148c77387fafd080fffeab6e9c9aab4e84c2f"
+  },
+  "dt=2026-08-29/dims/campaign.csv": {
+   "bytes": 32767,
+   "sha256": "46e2c0a3c56c241f6d49b4165f90c5352d147a6b33bfbae8778594455436c2ed"
+  },
+  "dt=2026-08-29/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-29/dims/placement.csv": {
+   "bytes": 217349,
+   "sha256": "4f256cbc142ca8b43829d769352a2d943e54d57324fbded47676ea60b4eac6de"
+  },
+  "dt=2026-08-29/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-29/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-08-29/dims/site.csv": {
+   "bytes": 207612,
+   "sha256": "7875654b3972045ce4966451e0683c8deb7d2c6925792ad601a4dc59f8939084"
+  },
+  "dt=2026-08-29/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-08-29/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-08-29/impressions/part-0000.parquet": {
+   "bytes": 939852,
+   "sha256": "49df8060bcd9979ee58a6e5ee1322c1189b370b9e48ab0823990f34cb3a9d29c"
+  },
+  "dt=2026-08-29/orders.csv": {
+   "bytes": 1059765,
+   "sha256": "e21a527cd02f1ee28cb35f9d4970b6deb29a6081b7fea8a627db3e2a07a01145"
+  },
+  "dt=2026-08-29/postbacks/part-0000.parquet": {
+   "bytes": 6047,
+   "sha256": "6abc466c73bbd08e503772b0a5d757261b0cd590ae1564cae8f3eed787cf1f2b"
+  },
+  "dt=2026-08-29/requests/part-0000.jsonl.gz": {
+   "bytes": 1877960,
+   "sha256": "7d5d5224c627fd3da8d5831a336c62638ab29c95a10ddffab98153aa695d4fa0"
+  },
+  "dt=2026-08-30/clicks/part-0000.parquet": {
+   "bytes": 40397,
+   "sha256": "158eaeb40cab1de45fa3e47113c08ab458329ca4ad7bd7ad1e628e69a6a0fb93"
+  },
+  "dt=2026-08-30/dims/advertiser.csv": {
+   "bytes": 11613,
+   "sha256": "1e0eaf54a2f850f9a25217cd3d27cddced4cd0b480a8519cfb60e79d9e98e25b"
+  },
+  "dt=2026-08-30/dims/banner.csv": {
+   "bytes": 130299,
+   "sha256": "6751a22b905d1f48edc7022ca5a148c77387fafd080fffeab6e9c9aab4e84c2f"
+  },
+  "dt=2026-08-30/dims/campaign.csv": {
+   "bytes": 32767,
+   "sha256": "46e2c0a3c56c241f6d49b4165f90c5352d147a6b33bfbae8778594455436c2ed"
+  },
+  "dt=2026-08-30/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-30/dims/placement.csv": {
+   "bytes": 217479,
+   "sha256": "9577f1cea46958afa5dd28bc1abcfeb798ac9e79cdd25d05b47bf56edd17a038"
+  },
+  "dt=2026-08-30/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-30/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-08-30/dims/site.csv": {
+   "bytes": 207736,
+   "sha256": "e61a73ddfa90e31da31d6eaa77c8ee6f8dc4842e4d174b5c83b851edf6c782c3"
+  },
+  "dt=2026-08-30/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-08-30/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-08-30/impressions/part-0000.parquet": {
+   "bytes": 902455,
+   "sha256": "8c750559d3f2f0d71273844dee15e1b18bb16495fee9e94f8ae5e4babb4a1606"
+  },
+  "dt=2026-08-30/orders.csv": {
+   "bytes": 1074211,
+   "sha256": "9c9d1c9f61ccd668f9017a4ae29388521443a6c311955c96ac111e4ac0eb12f4"
+  },
+  "dt=2026-08-30/postbacks/part-0000.parquet": {
+   "bytes": 6155,
+   "sha256": "9b5939cd4199496e90052b79b65104c358183910096302f770ad2e7de9a398a9"
+  },
+  "dt=2026-08-30/requests/part-0000.jsonl.gz": {
+   "bytes": 1857122,
+   "sha256": "cfaca8ad0025f2aa753d9bc755926bb0c2419281f9a5991de198786b28d62d3d"
+  },
+  "dt=2026-08-31/clicks/part-0000.parquet": {
+   "bytes": 42337,
+   "sha256": "8f3573967c7ffae5295d6d036c2b86af6bac17203bde1783835e80409242d665"
+  },
+  "dt=2026-08-31/dims/advertiser.csv": {
+   "bytes": 11613,
+   "sha256": "1e0eaf54a2f850f9a25217cd3d27cddced4cd0b480a8519cfb60e79d9e98e25b"
+  },
+  "dt=2026-08-31/dims/banner.csv": {
+   "bytes": 130299,
+   "sha256": "6751a22b905d1f48edc7022ca5a148c77387fafd080fffeab6e9c9aab4e84c2f"
+  },
+  "dt=2026-08-31/dims/campaign.csv": {
+   "bytes": 32767,
+   "sha256": "46e2c0a3c56c241f6d49b4165f90c5352d147a6b33bfbae8778594455436c2ed"
+  },
+  "dt=2026-08-31/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-08-31/dims/placement.csv": {
+   "bytes": 217609,
+   "sha256": "409df47eb69fc7a5c564950854e018a3bd45ff3d424170afd86ebf904a9faceb"
+  },
+  "dt=2026-08-31/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-08-31/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-08-31/dims/site.csv": {
+   "bytes": 207864,
+   "sha256": "b2595cd7c9dc56587bb1cf04617b7f53966da5b6ccb79d11009ee22f55a5a893"
+  },
+  "dt=2026-08-31/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-08-31/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-08-31/impressions/part-0000.parquet": {
+   "bytes": 877535,
+   "sha256": "c82f0793109033a055a4da0f43b63a2e28d8e7b8e43dc2b613257c473c884923"
+  },
+  "dt=2026-08-31/orders.csv": {
+   "bytes": 986887,
+   "sha256": "f3fbc7690a3692cdd52e8a631d26cf337319de29ff8f417b576315caa805650f"
+  },
+  "dt=2026-08-31/postbacks/part-0000.parquet": {
+   "bytes": 6190,
+   "sha256": "915257698bc7e68075a8c7775884d769ba2d47ad29b9e57c77f5f6f43400bf4e"
+  },
+  "dt=2026-08-31/requests/part-0000.jsonl.gz": {
+   "bytes": 1906302,
+   "sha256": "b619f3555659784ddaa8d3be30342926502679d8458610c50a7e2ec13294dc59"
+  },
+  "dt=2026-09-01/clicks/part-0000.parquet": {
+   "bytes": 43902,
+   "sha256": "430e1cca0f03de1c4abce732267ad376073409e963a5f229ce8959dac531311a"
+  },
+  "dt=2026-09-01/dims/advertiser.csv": {
+   "bytes": 11686,
+   "sha256": "45d51bee1ca745c8210e3b17ae8f9fc0ef86e0752c4c0ab517f78fa7b90d2a5b"
+  },
+  "dt=2026-09-01/dims/banner.csv": {
+   "bytes": 131085,
+   "sha256": "1aa80833d4b3cfa21f58068293ea469e0b5fa6b188b621e1ceccaf744dfc8912"
+  },
+  "dt=2026-09-01/dims/campaign.csv": {
+   "bytes": 32999,
+   "sha256": "b0e6e501208b6d61e2cb639421e0fd02edaf331da984d51ec397020006f7f94d"
+  },
+  "dt=2026-09-01/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-01/dims/placement.csv": {
+   "bytes": 217869,
+   "sha256": "1a777ca825fc70c97684858687a72b1cd6166ee46a2fa2c089c67adf41bdfa5c"
+  },
+  "dt=2026-09-01/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-01/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-09-01/dims/site.csv": {
+   "bytes": 208112,
+   "sha256": "c73c37742403e1bf57d8eca5e5f6e6c80d3d819deabeb8a9abe8894a7c8560ee"
+  },
+  "dt=2026-09-01/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-09-01/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-09-01/impressions/part-0000.parquet": {
+   "bytes": 869425,
+   "sha256": "6a70bf9927d0ef8192a3c22ab8bc9ec683c31f95e2a836821559b931e88405f5"
+  },
+  "dt=2026-09-01/orders.csv": {
+   "bytes": 1010567,
+   "sha256": "4c1601fc780808e665866f4fb6282233ff58114ae28200e3a469154193bf9ee8"
+  },
+  "dt=2026-09-01/postbacks/part-0000.parquet": {
+   "bytes": 6132,
+   "sha256": "6ea2a240ff35737e98ee67a03d7aa4c47c8f1d8ed3553292940af690ef70a296"
+  },
+  "dt=2026-09-01/requests/part-0000.jsonl.gz": {
+   "bytes": 2089628,
+   "sha256": "2048b267181373ee107fddeba240e4808833b3e50468652f847e9fbe5383840b"
+  },
+  "dt=2026-09-02/clicks/part-0000.parquet": {
+   "bytes": 44087,
+   "sha256": "d9c0afe036cc297327a4e29e0a48698a0e504b4e4def1dcb35dac0078c88a3a4"
+  },
+  "dt=2026-09-02/dims/advertiser.csv": {
+   "bytes": 11686,
+   "sha256": "45d51bee1ca745c8210e3b17ae8f9fc0ef86e0752c4c0ab517f78fa7b90d2a5b"
+  },
+  "dt=2026-09-02/dims/banner.csv": {
+   "bytes": 131347,
+   "sha256": "57bb502fcecab06a31e2f9aa544a414bfaf21ced0d57b79a432906b23ccdd4ad"
+  },
+  "dt=2026-09-02/dims/campaign.csv": {
+   "bytes": 32999,
+   "sha256": "b0e6e501208b6d61e2cb639421e0fd02edaf331da984d51ec397020006f7f94d"
+  },
+  "dt=2026-09-02/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-02/dims/placement.csv": {
+   "bytes": 218259,
+   "sha256": "86a5b03de2756fdfe69c9212db5a67696b310cf881042c6c4beeb40689ff4634"
+  },
+  "dt=2026-09-02/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-02/dims/publisher.csv": {
+   "bytes": 3214,
+   "sha256": "db363b45b45254012e60ea9417bba56ab9da8aa3f7169cd8308c345d246be9e4"
+  },
+  "dt=2026-09-02/dims/site.csv": {
+   "bytes": 208484,
+   "sha256": "11560f46f86c999807c41758c02eb3e7ebce24d9a8feb5daa612a1d65c78e472"
+  },
+  "dt=2026-09-02/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-09-02/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-09-02/impressions/part-0000.parquet": {
+   "bytes": 1014400,
+   "sha256": "3be0e26fe65a42b460dc96922879a15bab27e00386e5a277629116b8ecec4531"
+  },
+  "dt=2026-09-02/orders.csv": {
+   "bytes": 999791,
+   "sha256": "f4782f4acdfe642fcf2ef2d82be61e86082e0d5653e0a4e3afff327cbdd914f8"
+  },
+  "dt=2026-09-02/postbacks/part-0000.parquet": {
+   "bytes": 5984,
+   "sha256": "2ec96cf82d9d53eee4239166f2e12bdf79246ce4b2948dee35aa976fe42d4b86"
+  },
+  "dt=2026-09-02/requests/part-0000.jsonl.gz": {
+   "bytes": 2021544,
+   "sha256": "1b9c84e9dfe59fa3237a0ae54f7974aaad6132f56a4e29050deb1179d7f3189c"
+  },
+  "dt=2026-09-03/clicks/part-0000.parquet": {
+   "bytes": 43992,
+   "sha256": "cf9515e6f64e6fe0cb4c071c9662679d4c2508aba4888b7f57197de538f0948d"
+  },
+  "dt=2026-09-03/dims/advertiser.csv": {
+   "bytes": 11686,
+   "sha256": "45d51bee1ca745c8210e3b17ae8f9fc0ef86e0752c4c0ab517f78fa7b90d2a5b"
+  },
+  "dt=2026-09-03/dims/banner.csv": {
+   "bytes": 131740,
+   "sha256": "cf5237c169e39521a861aa5e5569e70f748498e4de252c879a8344f4e7f8b19e"
+  },
+  "dt=2026-09-03/dims/campaign.csv": {
+   "bytes": 32999,
+   "sha256": "b0e6e501208b6d61e2cb639421e0fd02edaf331da984d51ec397020006f7f94d"
+  },
+  "dt=2026-09-03/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-03/dims/placement.csv": {
+   "bytes": 218379,
+   "sha256": "70db89698e63dee3a2501448d42eaeb09b4a2bb9b9e8459e9c90f0203c09134b"
+  },
+  "dt=2026-09-03/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-03/dims/publisher.csv": {
+   "bytes": 3334,
+   "sha256": "c0f471ccd156c35b75342c46d9f38119015a64e5bbd4f5e29d2d63e0640320c1"
+  },
+  "dt=2026-09-03/dims/site.csv": {
+   "bytes": 208605,
+   "sha256": "ea9623d793df2a082234a9432c82c818a2d952e9c75246192f175011ae990f83"
+  },
+  "dt=2026-09-03/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-09-03/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-09-03/impressions/part-0000.parquet": {
+   "bytes": 922747,
+   "sha256": "0a5cf1d6372fc658efaaec1014265a58b061974300ac3555233abc34640610d7"
+  },
+  "dt=2026-09-03/orders.csv": {
+   "bytes": 1036399,
+   "sha256": "7be42e21c0a438708f3b75efc7ca76e2b056e84c3dcec10173ced453be894d27"
+  },
+  "dt=2026-09-03/postbacks/part-0000.parquet": {
+   "bytes": 6140,
+   "sha256": "f3a718ee0fb68352b5b82e326386850d6bbdc38721afca8bcfece0c4bc2fc9bc"
+  },
+  "dt=2026-09-03/requests/part-0000.jsonl.gz": {
+   "bytes": 2096825,
+   "sha256": "88e5d069a3aa4c6b4ea3255ae478139dba65d848ba2b26a747f1cbf6e436998f"
+  },
+  "dt=2026-09-04/clicks/part-0000.parquet": {
+   "bytes": 44166,
+   "sha256": "67e87ee6e9f9c8db1a3fb727a0594ae0e8650cbb3f55a8a2d89ead5f236a78e2"
+  },
+  "dt=2026-09-04/dims/advertiser.csv": {
+   "bytes": 11759,
+   "sha256": "3c28e610554688f2295c2ead1bad79f2f5f7092daff73f1bd04253618cf1eb27"
+  },
+  "dt=2026-09-04/dims/banner.csv": {
+   "bytes": 133577,
+   "sha256": "090a75bd2fd65cf486591ebd417fff7069c77741ba0be0a7322938609f29a9a2"
+  },
+  "dt=2026-09-04/dims/campaign.csv": {
+   "bytes": 33226,
+   "sha256": "fd9e3ad5818b5d6fcd09bed568ae383eeec07bf18d78cd82f21d20db7fcb3a53"
+  },
+  "dt=2026-09-04/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-04/dims/placement.csv": {
+   "bytes": 218769,
+   "sha256": "66edf76d580ccbd21baba68e74593e5f30092229a3d61b71c233178033b7cd84"
+  },
+  "dt=2026-09-04/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-04/dims/publisher.csv": {
+   "bytes": 3334,
+   "sha256": "c0f471ccd156c35b75342c46d9f38119015a64e5bbd4f5e29d2d63e0640320c1"
+  },
+  "dt=2026-09-04/dims/site.csv": {
+   "bytes": 208977,
+   "sha256": "e5ed3258aa852719051efd9f363422919e90382cf36dd9778d193c0eee1aaaaf"
+  },
+  "dt=2026-09-04/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-09-04/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-09-04/impressions/part-0000.parquet": {
+   "bytes": 879111,
+   "sha256": "65f399380608ae326c891c205db78e1970c3fa67b65cb5ccddc0cc7074f15f80"
+  },
+  "dt=2026-09-04/orders.csv": {
+   "bytes": 1011955,
+   "sha256": "5aecd2e3f34e9233050fa86a158bb1dbac6cebce82a6466cddb9a780086be73e"
+  },
+  "dt=2026-09-04/postbacks/part-0000.parquet": {
+   "bytes": 6289,
+   "sha256": "220cce594514aa7fb3132eb0bb69623e8bb52478e9ec8aeba42c1b54d3358e84"
+  },
+  "dt=2026-09-04/requests/part-0000.jsonl.gz": {
+   "bytes": 1936972,
+   "sha256": "d50e86905b0b16db73fff38fec1771cfa014ed0e0b4287ad5f01a3f641d9a5c2"
+  },
+  "dt=2026-09-05/clicks/part-0000.parquet": {
+   "bytes": 39575,
+   "sha256": "55bb8d74b860d48aefc7690285b85a790a7e595c7fa53e699f39955bd48c9c97"
+  },
+  "dt=2026-09-05/dims/advertiser.csv": {
+   "bytes": 11759,
+   "sha256": "3c28e610554688f2295c2ead1bad79f2f5f7092daff73f1bd04253618cf1eb27"
+  },
+  "dt=2026-09-05/dims/banner.csv": {
+   "bytes": 133577,
+   "sha256": "090a75bd2fd65cf486591ebd417fff7069c77741ba0be0a7322938609f29a9a2"
+  },
+  "dt=2026-09-05/dims/campaign.csv": {
+   "bytes": 33226,
+   "sha256": "fd9e3ad5818b5d6fcd09bed568ae383eeec07bf18d78cd82f21d20db7fcb3a53"
+  },
+  "dt=2026-09-05/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-05/dims/placement.csv": {
+   "bytes": 219289,
+   "sha256": "256160ef1546c4dcaed8680e38c2e12cbd5b3b45940baa09ddf8615b1441a99c"
+  },
+  "dt=2026-09-05/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-05/dims/publisher.csv": {
+   "bytes": 3334,
+   "sha256": "c0f471ccd156c35b75342c46d9f38119015a64e5bbd4f5e29d2d63e0640320c1"
+  },
+  "dt=2026-09-05/dims/site.csv": {
+   "bytes": 209473,
+   "sha256": "5cd67bda3896b4e07cf3fff7d35646429a29e3f2ef83f965db538069e8b510e4"
+  },
+  "dt=2026-09-05/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 127027,
+   "sha256": "f34b737fd5124341ee1bea0fdb8e201d2f66f65476095e9d7e8b104c9a07edb0"
+  },
+  "dt=2026-09-05/enrichment/site_enrichment.jsonl": {
+   "bytes": 690214,
+   "sha256": "87967679694b79a48d8f85813bd88a8291332395c99bf41e1490aab0cedd51b2"
+  },
+  "dt=2026-09-05/impressions/part-0000.parquet": {
+   "bytes": 821447,
+   "sha256": "d9179340a7322993cdb56da8af246c50daef5c7a64c998546b4ef16455caf36c"
+  },
+  "dt=2026-09-05/orders.csv": {
+   "bytes": 1051195,
+   "sha256": "b924d7546e2a67ac409f39ed10ddabc0820072e5209283132e92421b93f197e7"
+  },
+  "dt=2026-09-05/postbacks/part-0000.parquet": {
+   "bytes": 6320,
+   "sha256": "af39ecdd6648d225d285573511a2017afb6e044a2022431db114bf38a4b59096"
+  },
+  "dt=2026-09-05/requests/part-0000.jsonl.gz": {
+   "bytes": 1879899,
+   "sha256": "58941a5fa825c7d2ad7a7d69572181d16b732eb30bec33cac304db9ad9702a87"
+  },
+  "dt=2026-09-06/clicks/part-0000.parquet": {
+   "bytes": 38868,
+   "sha256": "520c1b39513df685342dc52c370e5507ae8175ee7dea9e9d38d243734c5231df"
+  },
+  "dt=2026-09-06/dims/advertiser.csv": {
+   "bytes": 11759,
+   "sha256": "3c28e610554688f2295c2ead1bad79f2f5f7092daff73f1bd04253618cf1eb27"
+  },
+  "dt=2026-09-06/dims/banner.csv": {
+   "bytes": 133577,
+   "sha256": "090a75bd2fd65cf486591ebd417fff7069c77741ba0be0a7322938609f29a9a2"
+  },
+  "dt=2026-09-06/dims/campaign.csv": {
+   "bytes": 33226,
+   "sha256": "fd9e3ad5818b5d6fcd09bed568ae383eeec07bf18d78cd82f21d20db7fcb3a53"
+  },
+  "dt=2026-09-06/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-06/dims/placement.csv": {
+   "bytes": 219679,
+   "sha256": "740e4dfe47dcae5da5b30366ef35a08e78610545ff70ffd366cee38c198718dd"
+  },
+  "dt=2026-09-06/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-06/dims/publisher.csv": {
+   "bytes": 3334,
+   "sha256": "c0f471ccd156c35b75342c46d9f38119015a64e5bbd4f5e29d2d63e0640320c1"
+  },
+  "dt=2026-09-06/dims/site.csv": {
+   "bytes": 209845,
+   "sha256": "f85252af35aec9bca2aba0324664fa5442b8bf3cfe4b8e72d0a93c130a41a28e"
+  },
+  "dt=2026-09-06/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 128039,
+   "sha256": "c2b00a90d3508bdf72527c86838768277df460f7db99bfb2c9b955fa678042cb"
+  },
+  "dt=2026-09-06/enrichment/site_enrichment.jsonl": {
+   "bytes": 690693,
+   "sha256": "ba39c78a8ca1a6dca29e4f16e64b06fceed1f817c56c60214c4c6220acd9c390"
+  },
+  "dt=2026-09-06/impressions/part-0000.parquet": {
+   "bytes": 829303,
+   "sha256": "ede743745dc6c998b789ec2281a36002cbc2e82a9c9294d9576599bc3b1c81b8"
+  },
+  "dt=2026-09-06/orders.csv": {
+   "bytes": 1095093,
+   "sha256": "5c63ec146bbab0d1a3f787461c7c056c5c72afe367028cdb791154517f2a36be"
+  },
+  "dt=2026-09-06/postbacks/part-0000.parquet": {
+   "bytes": 6203,
+   "sha256": "842054f81c15d81b265e994de2ff00e3bcd2de7351dfacfe08ef505c67137a57"
+  },
+  "dt=2026-09-06/requests/part-0000.jsonl.gz": {
+   "bytes": 1890873,
+   "sha256": "dc63fdb00abae4d411fb45ef81fbb27ab3027b76a1cb8ca6514fd5c5bbde5cb8"
+  },
+  "dt=2026-09-07/clicks/part-0000.parquet": {
+   "bytes": 41816,
+   "sha256": "63e8dfd0e9073de68c3718ff3d0a4cd4b47167e5cffabf103ef6765cee779ef8"
+  },
+  "dt=2026-09-07/dims/advertiser.csv": {
+   "bytes": 11905,
+   "sha256": "d9ee7346c9bd18ab525c931059d9569d972e6c80413b107a0b95a7df1c619b4d"
+  },
+  "dt=2026-09-07/dims/banner.csv": {
+   "bytes": 134363,
+   "sha256": "331d1c2445bef545aaf0a43742576b2ae31c3e3ca76b3fd1898b4eb97dfd30c9"
+  },
+  "dt=2026-09-07/dims/campaign.csv": {
+   "bytes": 33453,
+   "sha256": "30e3547b7bd41685038779587c03220c3b2444f0a809fbaa1d389bd27b4ae14f"
+  },
+  "dt=2026-09-07/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-07/dims/placement.csv": {
+   "bytes": 220069,
+   "sha256": "9baa6ee8888ff087f160a64c1ddde6f908372e56b4e5a5a4450213aadfa548e4"
+  },
+  "dt=2026-09-07/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-07/dims/publisher.csv": {
+   "bytes": 3334,
+   "sha256": "c0f471ccd156c35b75342c46d9f38119015a64e5bbd4f5e29d2d63e0640320c1"
+  },
+  "dt=2026-09-07/dims/site.csv": {
+   "bytes": 210217,
+   "sha256": "b4c6641a7fd51d088c14efa1d231d2891f9ca6ef22d5527f1f7618f5c3e0aa9a"
+  },
+  "dt=2026-09-07/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 128039,
+   "sha256": "c2b00a90d3508bdf72527c86838768277df460f7db99bfb2c9b955fa678042cb"
+  },
+  "dt=2026-09-07/enrichment/site_enrichment.jsonl": {
+   "bytes": 691609,
+   "sha256": "0471cccdb4f2c6abd91e3b206ce7adcce91ca0aa3025f2a9f4c76c22272fee1e"
+  },
+  "dt=2026-09-07/impressions/part-0000.parquet": {
+   "bytes": 816453,
+   "sha256": "252ff1de9a21f1c41e16e4e91e037f645c804dd387abc5b69955025064cfa3e3"
+  },
+  "dt=2026-09-07/orders.csv": {
+   "bytes": 1085339,
+   "sha256": "c5be58231e221b790f6847c0f3e314d9db5099d3f4a39827820356f1beda2a01"
+  },
+  "dt=2026-09-07/postbacks/part-0000.parquet": {
+   "bytes": 6251,
+   "sha256": "3ac8f374c4ab6c35906ead1514786458a592cdddfafbbd2349db6b65f4b8753e"
+  },
+  "dt=2026-09-07/requests/part-0000.jsonl.gz": {
+   "bytes": 1880199,
+   "sha256": "7498bdb5fea2e1d7c796a96e0442d60375e4d2b1285e6a2eda9bd6c0d7478c8e"
+  },
+  "dt=2026-09-08/clicks/part-0000.parquet": {
+   "bytes": 42156,
+   "sha256": "b125d06283eccc5f23e88582b4e83ea2a79623567cc4fab55989dc586e5cb3e3"
+  },
+  "dt=2026-09-08/dims/advertiser.csv": {
+   "bytes": 12051,
+   "sha256": "9d4be11fb53eacdc7aab7489c2833e92be87699e50e403753b74dea9a517c3a7"
+  },
+  "dt=2026-09-08/dims/banner.csv": {
+   "bytes": 135673,
+   "sha256": "b8aae5bfe20a7e6261078dc9be739f85454a63e1cdca53814e0fbe5ddc577f92"
+  },
+  "dt=2026-09-08/dims/campaign.csv": {
+   "bytes": 33680,
+   "sha256": "beadb4e354b5a4800d13ba466a2052c32ab66fa7c0488084d3789bed0ee06b96"
+  },
+  "dt=2026-09-08/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-08/dims/placement.csv": {
+   "bytes": 220329,
+   "sha256": "a5eb41d5314a6d875799e44a9a5645001ba5e9bad0585041d3eb824eaf8771db"
+  },
+  "dt=2026-09-08/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-08/dims/publisher.csv": {
+   "bytes": 3334,
+   "sha256": "c0f471ccd156c35b75342c46d9f38119015a64e5bbd4f5e29d2d63e0640320c1"
+  },
+  "dt=2026-09-08/dims/site.csv": {
+   "bytes": 210465,
+   "sha256": "9e25b8facaf8dca833c2e399a348b728511672cca10d659f1db182289498f699"
+  },
+  "dt=2026-09-08/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 129051,
+   "sha256": "0bd78564d5dbe9a131039e64ceab9bda8b84f629492ee88fc23219e5fea11935"
+  },
+  "dt=2026-09-08/enrichment/site_enrichment.jsonl": {
+   "bytes": 692546,
+   "sha256": "1c6c28d5978fd3a1ba01ed60b8b55638041251aa7b2ed37514bda1a49e36c898"
+  },
+  "dt=2026-09-08/impressions/part-0000.parquet": {
+   "bytes": 909112,
+   "sha256": "dbe0933d780b42fa29b339f1701320e31dff48b3512fbd903ac60aacaabf335c"
+  },
+  "dt=2026-09-08/orders.csv": {
+   "bytes": 1008441,
+   "sha256": "927663bd1c325a1439d405d2a554fc2e766af84cb6900a74751301e0c1508392"
+  },
+  "dt=2026-09-08/postbacks/part-0000.parquet": {
+   "bytes": 6558,
+   "sha256": "e069efa9257a976a51d24a020c97aac024c8365e946dbf9d5c7d2849ad5a9a94"
+  },
+  "dt=2026-09-08/requests/part-0000.jsonl.gz": {
+   "bytes": 2141626,
+   "sha256": "d04394b3e2a9f118b99c58795ea56e284a182e34bbd8fa6a5a6016a43af2cf52"
+  },
+  "dt=2026-09-09/clicks/part-0000.parquet": {
+   "bytes": 48007,
+   "sha256": "460a508c3f253b1afe2107f312805c3355db410536ab4e55a86913a2147be5fc"
+  },
+  "dt=2026-09-09/dims/advertiser.csv": {
+   "bytes": 12124,
+   "sha256": "29287800bd80bfcbdca9d9b4f01a329c9ddb2ce63250bd5ab192c0b0a747337c"
+  },
+  "dt=2026-09-09/dims/banner.csv": {
+   "bytes": 136328,
+   "sha256": "9f55214da27a1517c96146ae404c19b05ba24395e0cc53a55e25557f4672f42c"
+  },
+  "dt=2026-09-09/dims/campaign.csv": {
+   "bytes": 33907,
+   "sha256": "e440c158922a397483a9320fb007e121c3532b3eec44e570040b2287b7d06069"
+  },
+  "dt=2026-09-09/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-09/dims/placement.csv": {
+   "bytes": 220969,
+   "sha256": "df3e81e81d605c4b196e0723466804bb68ba52eddf667967c882355710c481f5"
+  },
+  "dt=2026-09-09/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-09/dims/publisher.csv": {
+   "bytes": 3455,
+   "sha256": "b71de73112750056c1c45a54bb1d527641d87c2b48f7d827810d4959c73d2587"
+  },
+  "dt=2026-09-09/dims/site.csv": {
+   "bytes": 210971,
+   "sha256": "e52c7e05acf765a884ddb25b34d0ee1f2123ad97afd0c91f70c64c88dd4656c3"
+  },
+  "dt=2026-09-09/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 130093,
+   "sha256": "8cbf67e50b6678cd748299cc2a1e56f447074f971d19c1b8616311701824c586"
+  },
+  "dt=2026-09-09/enrichment/site_enrichment.jsonl": {
+   "bytes": 692546,
+   "sha256": "1c6c28d5978fd3a1ba01ed60b8b55638041251aa7b2ed37514bda1a49e36c898"
+  },
+  "dt=2026-09-09/impressions/part-0000.parquet": {
+   "bytes": 863969,
+   "sha256": "65c8bf88b7d5cfe81f2ba0215b0c4451e6cf823c9ab372d5c14413894451e28c"
+  },
+  "dt=2026-09-09/orders.csv": {
+   "bytes": 915597,
+   "sha256": "8d2d35dbdf7fd7bdac30d4e895284235af1192974f5e639e898606f70f1849e5"
+  },
+  "dt=2026-09-09/postbacks/part-0000.parquet": {
+   "bytes": 6560,
+   "sha256": "b6bf7a3f73e72fcb60dd0b8a31ac4717664d2b43869efa8ed4223aeb6573e2aa"
+  },
+  "dt=2026-09-09/requests/part-0000.jsonl.gz": {
+   "bytes": 1980681,
+   "sha256": "3c93b408c65bcedcd740a63555d04f223f20cd4088f181334197f538ea1b890e"
+  },
+  "dt=2026-09-10/clicks/part-0000.parquet": {
+   "bytes": 60612,
+   "sha256": "30ecf4e95667b4f134c0a2555b27e3885878862164079f1fb3f0f69ddf1c8be7"
+  },
+  "dt=2026-09-10/dims/advertiser.csv": {
+   "bytes": 12270,
+   "sha256": "5e658d8dda3e9acad6d81a51ac5a8de07fd59eac0944adb3de12f5b55bc2f1dd"
+  },
+  "dt=2026-09-10/dims/banner.csv": {
+   "bytes": 137769,
+   "sha256": "43144a1852139f69cd6abbd56dfd1a9757c5cf9e5f66b925062842e0684ff448"
+  },
+  "dt=2026-09-10/dims/campaign.csv": {
+   "bytes": 34361,
+   "sha256": "14f42880907e44d550e5418d865c1ac6b6250f6aff77031316d05fc31a97278b"
+  },
+  "dt=2026-09-10/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-10/dims/placement.csv": {
+   "bytes": 221099,
+   "sha256": "19bb54caa9f3afbb38b3c93b34aad60fed8a40a875a45891737a7174e461c8a8"
+  },
+  "dt=2026-09-10/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-10/dims/publisher.csv": {
+   "bytes": 3455,
+   "sha256": "b71de73112750056c1c45a54bb1d527641d87c2b48f7d827810d4959c73d2587"
+  },
+  "dt=2026-09-10/dims/site.csv": {
+   "bytes": 211095,
+   "sha256": "41ab79f410a6d63f5b9bc0bb85fa44fe7874fa8e5c2ba6b404d64bffa04bc017"
+  },
+  "dt=2026-09-10/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 131613,
+   "sha256": "265e9a94d7b0e95b94dc00b553a92db0002ee97b850bb2a3921e9dd72b08c040"
+  },
+  "dt=2026-09-10/enrichment/site_enrichment.jsonl": {
+   "bytes": 693988,
+   "sha256": "591207dc398fa6e74864d97c25ddd435a04b94f347090f4113ca8cac1f320c9e"
+  },
+  "dt=2026-09-10/impressions/part-0000.parquet": {
+   "bytes": 929193,
+   "sha256": "561d756d485828969ef49fdba22b6cce616715d4a56331485f7350252a3be67c"
+  },
+  "dt=2026-09-10/orders.csv": {
+   "bytes": 958562,
+   "sha256": "ebaf5fe38b471bd73697490848ac370ea793658a76779f932fa7c6c1e71034fe"
+  },
+  "dt=2026-09-10/postbacks/part-0000.parquet": {
+   "bytes": 6704,
+   "sha256": "80bd5df55200cb41a6c28f0cfeb2e1adf8dadfe062d9d5e81bbf5632350c741c"
+  },
+  "dt=2026-09-10/requests/part-0000.jsonl.gz": {
+   "bytes": 2190301,
+   "sha256": "d41129203332a8410e0d79394f40f2affdc8981a4b699d714e6705bcea8efa63"
+  },
+  "dt=2026-09-11/clicks/part-0000.parquet": {
+   "bytes": 64677,
+   "sha256": "c09bcacde500a72f05136e873cb7a8ac65e8ace6d4a64520c6c115f32e95d425"
+  },
+  "dt=2026-09-11/dims/advertiser.csv": {
+   "bytes": 12343,
+   "sha256": "0fa9f45ec93f0c5e8bfff0e7f234ed5419970489360dd5381a1052450d261605"
+  },
+  "dt=2026-09-11/dims/banner.csv": {
+   "bytes": 138951,
+   "sha256": "4556a0094496e7722577a0102cc3a768e1afd00b2e7dd09dfba2564c1ba08785"
+  },
+  "dt=2026-09-11/dims/campaign.csv": {
+   "bytes": 34587,
+   "sha256": "adc694ccc5b11b62be70d237caf3f80751616a5a6a608b81bcf204687574a045"
+  },
+  "dt=2026-09-11/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-11/dims/placement.csv": {
+   "bytes": 221845,
+   "sha256": "2831492f29c51855d65a9e810a1e50acc65658fe242ac58a0e50e211c670873d"
+  },
+  "dt=2026-09-11/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-11/dims/publisher.csv": {
+   "bytes": 3575,
+   "sha256": "3b0247ae44a97dbe8eabccb340304005ccaa384e71cb9de97fe5d56ada73e439"
+  },
+  "dt=2026-09-11/dims/site.csv": {
+   "bytes": 211216,
+   "sha256": "3dddeeee43aded1c9eec7801cd6cfdeefb438a7aaf4a30407d9429a944b6d078"
+  },
+  "dt=2026-09-11/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 133138,
+   "sha256": "82b6b52e80368c3e08b1aecfbdd5744ac50142077ea8ff4ad946a2a811fc8d45"
+  },
+  "dt=2026-09-11/enrichment/site_enrichment.jsonl": {
+   "bytes": 693988,
+   "sha256": "591207dc398fa6e74864d97c25ddd435a04b94f347090f4113ca8cac1f320c9e"
+  },
+  "dt=2026-09-11/impressions/part-0000.parquet": {
+   "bytes": 939348,
+   "sha256": "d05f284be49106a8fcc035c055bdef851f33481fb8c4c1b11f9e2d7f108b95cd"
+  },
+  "dt=2026-09-11/orders.csv": {
+   "bytes": 1027928,
+   "sha256": "0174f29a4780f815ea98968b442b2714e9b881a735e70583998db418434fd86e"
+  },
+  "dt=2026-09-11/postbacks/part-0000.parquet": {
+   "bytes": 6334,
+   "sha256": "87087f2de477c215b620cb2e3b862590fde2463ba5f70608070d31bed2d22b2d"
+  },
+  "dt=2026-09-11/requests/part-0000.jsonl.gz": {
+   "bytes": 2193408,
+   "sha256": "76b846db2eb36ea65d33a7dcf342131128a392de384ee30e2383362d95056049"
+  },
+  "dt=2026-09-12/clicks/part-0000.parquet": {
+   "bytes": 62119,
+   "sha256": "4d63872b7a20952d5f1596bae19adfbe09bef6e2c7db072fdd8ff6997b1b6903"
+  },
+  "dt=2026-09-12/dims/advertiser.csv": {
+   "bytes": 12343,
+   "sha256": "0fa9f45ec93f0c5e8bfff0e7f234ed5419970489360dd5381a1052450d261605"
+  },
+  "dt=2026-09-12/dims/banner.csv": {
+   "bytes": 138951,
+   "sha256": "4556a0094496e7722577a0102cc3a768e1afd00b2e7dd09dfba2564c1ba08785"
+  },
+  "dt=2026-09-12/dims/campaign.csv": {
+   "bytes": 34587,
+   "sha256": "adc694ccc5b11b62be70d237caf3f80751616a5a6a608b81bcf204687574a045"
+  },
+  "dt=2026-09-12/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-12/dims/placement.csv": {
+   "bytes": 222235,
+   "sha256": "0002f128ef0f6f79d4adb9d598b51a3552c22427cf3d0fcb5e090a804b4da66a"
+  },
+  "dt=2026-09-12/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-12/dims/publisher.csv": {
+   "bytes": 3575,
+   "sha256": "3b0247ae44a97dbe8eabccb340304005ccaa384e71cb9de97fe5d56ada73e439"
+  },
+  "dt=2026-09-12/dims/site.csv": {
+   "bytes": 211464,
+   "sha256": "6a67c43aa00c185a7f4d5f1e59ab95d133612567e258c2bebe7a2ae1e3afb695"
+  },
+  "dt=2026-09-12/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 134158,
+   "sha256": "d2f741c9a1b7a2ceb0292501aca708e8236cbb8f0726cd365a3dbcc3d9563096"
+  },
+  "dt=2026-09-12/enrichment/site_enrichment.jsonl": {
+   "bytes": 694924,
+   "sha256": "239778688dfeaa914a0c60711f1baefec8b919ef4361a3b22ad4f3f04ba3350c"
+  },
+  "dt=2026-09-12/impressions/part-0000.parquet": {
+   "bytes": 831096,
+   "sha256": "305a41a452821225e819eb50788c33dddcb4eb3262e815fb87210adca11f7763"
+  },
+  "dt=2026-09-12/orders.csv": {
+   "bytes": 960200,
+   "sha256": "4364223bd027cda5406d2f8f6518ad38b26def706087ecc4e93d5df46b21cddf"
+  },
+  "dt=2026-09-12/postbacks/part-0000.parquet": {
+   "bytes": 6321,
+   "sha256": "ddc46fdec1cc4b23be5a53e6b44313cb0db30aff202b7b8e94e323a2179fcbe3"
+  },
+  "dt=2026-09-12/requests/part-0000.jsonl.gz": {
+   "bytes": 1942626,
+   "sha256": "b5f077fe158db7c1d40c32c18a69bb5bf0bc38f312f569d7c8cd5592ad69a13a"
+  },
+  "dt=2026-09-13/clicks/part-0000.parquet": {
+   "bytes": 56176,
+   "sha256": "6b271a3357e48a46e728afdbede663070af7ce5acc7886703f9bd3a4ee07648d"
+  },
+  "dt=2026-09-13/dims/advertiser.csv": {
+   "bytes": 12343,
+   "sha256": "0fa9f45ec93f0c5e8bfff0e7f234ed5419970489360dd5381a1052450d261605"
+  },
+  "dt=2026-09-13/dims/banner.csv": {
+   "bytes": 138951,
+   "sha256": "4556a0094496e7722577a0102cc3a768e1afd00b2e7dd09dfba2564c1ba08785"
+  },
+  "dt=2026-09-13/dims/campaign.csv": {
+   "bytes": 34587,
+   "sha256": "adc694ccc5b11b62be70d237caf3f80751616a5a6a608b81bcf204687574a045"
+  },
+  "dt=2026-09-13/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-13/dims/placement.csv": {
+   "bytes": 222235,
+   "sha256": "0002f128ef0f6f79d4adb9d598b51a3552c22427cf3d0fcb5e090a804b4da66a"
+  },
+  "dt=2026-09-13/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-13/dims/publisher.csv": {
+   "bytes": 3575,
+   "sha256": "3b0247ae44a97dbe8eabccb340304005ccaa384e71cb9de97fe5d56ada73e439"
+  },
+  "dt=2026-09-13/dims/site.csv": {
+   "bytes": 211464,
+   "sha256": "6a67c43aa00c185a7f4d5f1e59ab95d133612567e258c2bebe7a2ae1e3afb695"
+  },
+  "dt=2026-09-13/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 134158,
+   "sha256": "d2f741c9a1b7a2ceb0292501aca708e8236cbb8f0726cd365a3dbcc3d9563096"
+  },
+  "dt=2026-09-13/enrichment/site_enrichment.jsonl": {
+   "bytes": 694924,
+   "sha256": "239778688dfeaa914a0c60711f1baefec8b919ef4361a3b22ad4f3f04ba3350c"
+  },
+  "dt=2026-09-13/impressions/part-0000.parquet": {
+   "bytes": 801989,
+   "sha256": "3892644f94478b682bdd0dcbb6900d61db2af175814d2a27c04e0f3919c3eef8"
+  },
+  "dt=2026-09-13/orders.csv": {
+   "bytes": 995815,
+   "sha256": "a97d57a61d2662fa2a03e5c69c0f463dfe65356e35b070b5e164a7d4c97f5d93"
+  },
+  "dt=2026-09-13/postbacks/part-0000.parquet": {
+   "bytes": 6543,
+   "sha256": "c6d994c4a739f3817aaa0a3643f10089cc2ff451e0a4229cf2214f5eccc7a546"
+  },
+  "dt=2026-09-13/requests/part-0000.jsonl.gz": {
+   "bytes": 1878664,
+   "sha256": "9b82d7c156fa10c88e5884b00b3527219c05c5848d164e9881f457a0349ecac1"
+  },
+  "dt=2026-09-14/clicks/part-0000.parquet": {
+   "bytes": 64208,
+   "sha256": "ff2fa2326bf6a88b8e906ec049f97a0feceeb5640c74e4c80a1cb02f8486f915"
+  },
+  "dt=2026-09-14/dims/advertiser.csv": {
+   "bytes": 12416,
+   "sha256": "a5e81a22d3337ac838baf41e50fd00d8a5d09156c057fae33ea452f860f57e3a"
+  },
+  "dt=2026-09-14/dims/banner.csv": {
+   "bytes": 139606,
+   "sha256": "04f8fee00713922338207632d1e962ff0ae3a6c915a7f6cca28b7a11928170ed"
+  },
+  "dt=2026-09-14/dims/campaign.csv": {
+   "bytes": 34698,
+   "sha256": "16b39d85cde2ed78f14418c97b06e0089a7b2aae05e72a2e823f75478590d563"
+  },
+  "dt=2026-09-14/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-14/dims/placement.csv": {
+   "bytes": 222365,
+   "sha256": "4e1024da898904685bddd7ec57d89b94cc07632500761960866837e31a3ceef7"
+  },
+  "dt=2026-09-14/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-14/dims/publisher.csv": {
+   "bytes": 3575,
+   "sha256": "3b0247ae44a97dbe8eabccb340304005ccaa384e71cb9de97fe5d56ada73e439"
+  },
+  "dt=2026-09-14/dims/site.csv": {
+   "bytes": 211588,
+   "sha256": "3ed60d7985170c1019c1de1578671d6f30ec43ce2eb463a0119eed5b92da4b50"
+  },
+  "dt=2026-09-14/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 134158,
+   "sha256": "d2f741c9a1b7a2ceb0292501aca708e8236cbb8f0726cd365a3dbcc3d9563096"
+  },
+  "dt=2026-09-14/enrichment/site_enrichment.jsonl": {
+   "bytes": 694924,
+   "sha256": "239778688dfeaa914a0c60711f1baefec8b919ef4361a3b22ad4f3f04ba3350c"
+  },
+  "dt=2026-09-14/impressions/part-0000.parquet": {
+   "bytes": 978363,
+   "sha256": "d501d91cb155b8277e70ca9c812ecafae1a0852f1e1a2f8dd5f57c3c609279b1"
+  },
+  "dt=2026-09-14/orders.csv": {
+   "bytes": 905077,
+   "sha256": "90ba649755001d5734c28ad20167c2542e91b0e26f24a7b03309766b0f9847a8"
+  },
+  "dt=2026-09-14/postbacks/part-0000.parquet": {
+   "bytes": 6036,
+   "sha256": "94a5061b3cc9d8b0a997843ced6263108c011afeaaa42653d50ed4a14b0a2dfc"
+  },
+  "dt=2026-09-14/requests/part-0000.jsonl.gz": {
+   "bytes": 2092660,
+   "sha256": "80f3f334f39a6b95d5a4874c3b4cda99dc87bbd27fc0395fa51c9393c6fb722a"
+  },
+  "dt=2026-09-15/clicks/part-0000.parquet": {
+   "bytes": 57532,
+   "sha256": "ea5157d1ab363c954dde5fbc76a33371e87a339620783ad11e35a531636a3dcc"
+  },
+  "dt=2026-09-15/dims/advertiser.csv": {
+   "bytes": 12708,
+   "sha256": "3eacb8ec712c03bb128932714df53cd53360f989e1840ea11ca554bf30cc4d83"
+  },
+  "dt=2026-09-15/dims/banner.csv": {
+   "bytes": 141047,
+   "sha256": "bf2ec13a4a4df57ec234a7a49e427680ac88b57ee1430939667df3ad6b1e6294"
+  },
+  "dt=2026-09-15/dims/campaign.csv": {
+   "bytes": 35142,
+   "sha256": "aad4ca9a6b54aba69a4a49202b8a67f551260ee5cebc3b4dc71e52791c0a1e5c"
+  },
+  "dt=2026-09-15/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-15/dims/placement.csv": {
+   "bytes": 223118,
+   "sha256": "1c4120c8c86fd3414189319013b8d1b6c160bd69c392de8c9770b04716b9ede0"
+  },
+  "dt=2026-09-15/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-15/dims/publisher.csv": {
+   "bytes": 3694,
+   "sha256": "4febd384c703e365e37d64e2bd179a812bd49a9a616e76fd794b126bd0ddad8c"
+  },
+  "dt=2026-09-15/dims/site.csv": {
+   "bytes": 211833,
+   "sha256": "a8166873f149754a9e7af8c42ec5ad4aada6d18ca36bd1e67b17e2a0023e6ae1"
+  },
+  "dt=2026-09-15/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 135653,
+   "sha256": "fbf1e48d1dfdd1829cdbae450eef09cf2f1057060313a3b75c37d1a05fe14fa8"
+  },
+  "dt=2026-09-15/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-15/impressions/part-0000.parquet": {
+   "bytes": 1019565,
+   "sha256": "df7d7010002f256c26bb6c3f1f82dd557eddeda61a793df46e491515513269b0"
+  },
+  "dt=2026-09-15/orders.csv": {
+   "bytes": 871897,
+   "sha256": "f98d840f46c7ff5decdf2122294fe82314df09b57a2a704d10c26c410732009f"
+  },
+  "dt=2026-09-15/postbacks/part-0000.parquet": {
+   "bytes": 6151,
+   "sha256": "8a58db50f249831d4f444d1b1c45d1c489632caaebd6aebef2a3c3496420b7ad"
+  },
+  "dt=2026-09-15/requests/part-0000.jsonl.gz": {
+   "bytes": 2235695,
+   "sha256": "4e0e76ff219f34f291857347f62cdf47930f42bc82ed805101ee0740388ad500"
+  },
+  "dt=2026-09-16/clicks/part-0000.parquet": {
+   "bytes": 49520,
+   "sha256": "e8e940df00473f0bc3102436e9443ab7a1f273fcd1693e397d347b265e34c7c6"
+  },
+  "dt=2026-09-16/dims/advertiser.csv": {
+   "bytes": 12708,
+   "sha256": "3eacb8ec712c03bb128932714df53cd53360f989e1840ea11ca554bf30cc4d83"
+  },
+  "dt=2026-09-16/dims/banner.csv": {
+   "bytes": 143405,
+   "sha256": "03abc2e34e2164f99fa9e77c12051368f33961eb5d4daecfea34c69bda4ad037"
+  },
+  "dt=2026-09-16/dims/campaign.csv": {
+   "bytes": 36305,
+   "sha256": "b45568d371f0656632f7ad8c7cc8854a5a842904f24b70e9b40c5ae6444990e2"
+  },
+  "dt=2026-09-16/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-16/dims/placement.csv": {
+   "bytes": 223638,
+   "sha256": "38ff66332ecdbeb999d145d7be55d0c7a98f553bd6d887d05027d166256bf5d4"
+  },
+  "dt=2026-09-16/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-16/dims/publisher.csv": {
+   "bytes": 3694,
+   "sha256": "4febd384c703e365e37d64e2bd179a812bd49a9a616e76fd794b126bd0ddad8c"
+  },
+  "dt=2026-09-16/dims/site.csv": {
+   "bytes": 212331,
+   "sha256": "00716cea404f0cfb530ddaed803b2fd99065ddba31813d0207d5a92eeb7cf898"
+  },
+  "dt=2026-09-16/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 136606,
+   "sha256": "d9265d0fc1ccedfab5f68cd836d5567654240c4660f62b4dff87924601c2f0b5"
+  },
+  "dt=2026-09-16/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-16/impressions/part-0000.parquet": {
+   "bytes": 1000959,
+   "sha256": "e68efe4ad153eb6c8f2549ee7c9c7b0afca75362489f67645cede22bdec57f27"
+  },
+  "dt=2026-09-16/orders.csv": {
+   "bytes": 880051,
+   "sha256": "8d736afbe3c0a2ccbfb4b79aec9874b80fb65a582e3ff4313f4e3c22d72b34d5"
+  },
+  "dt=2026-09-16/postbacks/part-0000.parquet": {
+   "bytes": 5974,
+   "sha256": "fc967274519b3b93f9396a9c544a6c6eb52ec4dfce5daa9ff2f653947775f693"
+  },
+  "dt=2026-09-16/requests/part-0000.jsonl.gz": {
+   "bytes": 2215980,
+   "sha256": "c54efcc4895ad17df1f59081b13771fe9217ed79ffdaafa19a4fd8ad893cb6af"
+  },
+  "dt=2026-09-17/clicks/part-0000.parquet": {
+   "bytes": 49981,
+   "sha256": "cf20c57e6e54ede555324670ec8122aa1098df77e7df91318cad0429ed87da6a"
+  },
+  "dt=2026-09-17/dims/advertiser.csv": {
+   "bytes": 12708,
+   "sha256": "3eacb8ec712c03bb128932714df53cd53360f989e1840ea11ca554bf30cc4d83"
+  },
+  "dt=2026-09-17/dims/banner.csv": {
+   "bytes": 144322,
+   "sha256": "8fc5247f85013a22296c925a7306bc373accad30a939f543ceacc4c249cfea37"
+  },
+  "dt=2026-09-17/dims/campaign.csv": {
+   "bytes": 36305,
+   "sha256": "b45568d371f0656632f7ad8c7cc8854a5a842904f24b70e9b40c5ae6444990e2"
+  },
+  "dt=2026-09-17/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-17/dims/placement.csv": {
+   "bytes": 223638,
+   "sha256": "38ff66332ecdbeb999d145d7be55d0c7a98f553bd6d887d05027d166256bf5d4"
+  },
+  "dt=2026-09-17/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-17/dims/publisher.csv": {
+   "bytes": 3694,
+   "sha256": "4febd384c703e365e37d64e2bd179a812bd49a9a616e76fd794b126bd0ddad8c"
+  },
+  "dt=2026-09-17/dims/site.csv": {
+   "bytes": 212331,
+   "sha256": "00716cea404f0cfb530ddaed803b2fd99065ddba31813d0207d5a92eeb7cf898"
+  },
+  "dt=2026-09-17/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-17/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-17/impressions/part-0000.parquet": {
+   "bytes": 1308269,
+   "sha256": "c0b02e865e60ac2e25e0c0d703fdada6222fef22eb18884115b74f0ff8737474"
+  },
+  "dt=2026-09-17/orders.csv": {
+   "bytes": 896336,
+   "sha256": "ebd7ed98522f40c974e5a7bde8f31e08392fe4ba75bc8b97897bf9a4233c442f"
+  },
+  "dt=2026-09-17/postbacks/part-0000.parquet": {
+   "bytes": 6163,
+   "sha256": "8b9f4c884c2ece620a5703aad6d0a4a77d7b9735895ee3213b485c7cda764ed3"
+  },
+  "dt=2026-09-17/requests/part-0000.jsonl.gz": {
+   "bytes": 2856866,
+   "sha256": "51db75f0d471eb9a8f7d7541817a4b3f6fbfd74fefe10df0d3ed0974bb240eb1"
+  },
+  "dt=2026-09-18/clicks/part-0000.parquet": {
+   "bytes": 43523,
+   "sha256": "8d5ae6aff9561bd176cff337072549e1feaa3beba584bbf818a9b1f7647a01d2"
+  },
+  "dt=2026-09-18/dims/advertiser.csv": {
+   "bytes": 12708,
+   "sha256": "3eacb8ec712c03bb128932714df53cd53360f989e1840ea11ca554bf30cc4d83"
+  },
+  "dt=2026-09-18/dims/banner.csv": {
+   "bytes": 144322,
+   "sha256": "8fc5247f85013a22296c925a7306bc373accad30a939f543ceacc4c249cfea37"
+  },
+  "dt=2026-09-18/dims/campaign.csv": {
+   "bytes": 36305,
+   "sha256": "b45568d371f0656632f7ad8c7cc8854a5a842904f24b70e9b40c5ae6444990e2"
+  },
+  "dt=2026-09-18/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-18/dims/placement.csv": {
+   "bytes": 224028,
+   "sha256": "d12aa9a5a7567fd80712bc47622cf52253783cdde452f6cde833b9713b07c306"
+  },
+  "dt=2026-09-18/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-18/dims/publisher.csv": {
+   "bytes": 3694,
+   "sha256": "4febd384c703e365e37d64e2bd179a812bd49a9a616e76fd794b126bd0ddad8c"
+  },
+  "dt=2026-09-18/dims/site.csv": {
+   "bytes": 212703,
+   "sha256": "29cc49ccfe439d16772424305d3652421ff9ea1c72a765167699dcf86453f3c8"
+  },
+  "dt=2026-09-18/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-18/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-18/impressions/part-0000.parquet": {
+   "bytes": 1489267,
+   "sha256": "95668240a49933a67d31425425586a3bdf998716c9bb60220f44824b05da7443"
+  },
+  "dt=2026-09-18/orders.csv": {
+   "bytes": 1412820,
+   "sha256": "b219387f352dc0c587557169ee81b46570ebef1ff4ac9422ada80dd66ebb0a32"
+  },
+  "dt=2026-09-18/postbacks/part-0000.parquet": {
+   "bytes": 6091,
+   "sha256": "803d498f9e557459df76c77f7909c2bb1a7d2339fcda73d87ef2bea8d2a408b6"
+  },
+  "dt=2026-09-18/requests/part-0000.jsonl.gz": {
+   "bytes": 3032520,
+   "sha256": "e3fb4588a67306d4dc9ed5ecada30504a942873dff2c782c9c7f0dd6150b3465"
+  },
+  "dt=2026-09-19/clicks/part-0000.parquet": {
+   "bytes": 55676,
+   "sha256": "224c14e9f2013f6d093b9d0354cdd1985b41145d520a1334f815351176253ce1"
+  },
+  "dt=2026-09-19/dims/advertiser.csv": {
+   "bytes": 12708,
+   "sha256": "3eacb8ec712c03bb128932714df53cd53360f989e1840ea11ca554bf30cc4d83"
+  },
+  "dt=2026-09-19/dims/banner.csv": {
+   "bytes": 144322,
+   "sha256": "8fc5247f85013a22296c925a7306bc373accad30a939f543ceacc4c249cfea37"
+  },
+  "dt=2026-09-19/dims/campaign.csv": {
+   "bytes": 36305,
+   "sha256": "b45568d371f0656632f7ad8c7cc8854a5a842904f24b70e9b40c5ae6444990e2"
+  },
+  "dt=2026-09-19/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-19/dims/placement.csv": {
+   "bytes": 224158,
+   "sha256": "a898d5f3e38d035d9ffa08a7e7b265cdc6957cfa45790ed6653215846d7cbe16"
+  },
+  "dt=2026-09-19/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-19/dims/publisher.csv": {
+   "bytes": 3694,
+   "sha256": "4febd384c703e365e37d64e2bd179a812bd49a9a616e76fd794b126bd0ddad8c"
+  },
+  "dt=2026-09-19/dims/site.csv": {
+   "bytes": 212827,
+   "sha256": "68a262123ac8c1bdde6800512bc7110ab95c42a614143f287f78de5a5fb3dea7"
+  },
+  "dt=2026-09-19/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-19/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-19/impressions/part-0000.parquet": {
+   "bytes": 1399808,
+   "sha256": "97111bc8eb92a7f5c06151f2199578609c10745dbe30bc19a28d0d07061f0490"
+  },
+  "dt=2026-09-19/orders.csv": {
+   "bytes": 2233175,
+   "sha256": "d7bf59119029bf3d10f475b4f28887e487662f3914b5ed5212f6efaa22b91455"
+  },
+  "dt=2026-09-19/postbacks/part-0000.parquet": {
+   "bytes": 6158,
+   "sha256": "46e3dcbe905a3e0ee3294d8605234f12f9d3e92e80945eb9e9ab5a0a4017cf8e"
+  },
+  "dt=2026-09-19/requests/part-0000.jsonl.gz": {
+   "bytes": 3056804,
+   "sha256": "a3b739485ef1ba71ed0aa355196ad62818649fea7ab28a5c5d018b349b7cce14"
+  },
+  "dt=2026-09-20/clicks/part-0000.parquet": {
+   "bytes": 56842,
+   "sha256": "b3647b6ec20dd05e681d5631ec36a9bc0e252d3e4a86a604f3ba074740d8ce4d"
+  },
+  "dt=2026-09-20/dims/advertiser.csv": {
+   "bytes": 12708,
+   "sha256": "3eacb8ec712c03bb128932714df53cd53360f989e1840ea11ca554bf30cc4d83"
+  },
+  "dt=2026-09-20/dims/banner.csv": {
+   "bytes": 144322,
+   "sha256": "8fc5247f85013a22296c925a7306bc373accad30a939f543ceacc4c249cfea37"
+  },
+  "dt=2026-09-20/dims/campaign.csv": {
+   "bytes": 36305,
+   "sha256": "b45568d371f0656632f7ad8c7cc8854a5a842904f24b70e9b40c5ae6444990e2"
+  },
+  "dt=2026-09-20/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-20/dims/placement.csv": {
+   "bytes": 224288,
+   "sha256": "68c8155196eb533b12bc8e59084cc23c2b4b6deb458490ee247e59e370fd0c10"
+  },
+  "dt=2026-09-20/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-20/dims/publisher.csv": {
+   "bytes": 3694,
+   "sha256": "4febd384c703e365e37d64e2bd179a812bd49a9a616e76fd794b126bd0ddad8c"
+  },
+  "dt=2026-09-20/dims/site.csv": {
+   "bytes": 212951,
+   "sha256": "9db42d6eb248b340bd5f90971a27691c798356a02b5d139020ba2fb81635462c"
+  },
+  "dt=2026-09-20/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-20/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-20/impressions/part-0000.parquet": {
+   "bytes": 1684972,
+   "sha256": "71de3522b9b3e97a0cef9084a226f55506d6df183d329b78ec9dad25749bb87b"
+  },
+  "dt=2026-09-20/orders.csv": {
+   "bytes": 2906854,
+   "sha256": "01a8cd6ec3674bd3f87bb1b6bdf093d389960608ab0475d6b1b852d121556c6d"
+  },
+  "dt=2026-09-20/postbacks/part-0000.parquet": {
+   "bytes": 5688,
+   "sha256": "2ad8cfc6ee8fc7c9aa18eb0d91e6855dbe037a414b92b4accabc7b35fdcab382"
+  },
+  "dt=2026-09-20/requests/part-0000.jsonl.gz": {
+   "bytes": 3641697,
+   "sha256": "3851f778e04f8457760b9db10747724fee009dacdbbccb341ee33ba6e658f758"
+  },
+  "dt=2026-09-21/clicks/part-0000.parquet": {
+   "bytes": 54682,
+   "sha256": "dd588ca04f8704d97c43a4bdd68e7d2517a5d0484e0878d20e9323b1b8444a1c"
+  },
+  "dt=2026-09-21/dims/advertiser.csv": {
+   "bytes": 12927,
+   "sha256": "37ca61b3f9af257945ff6a3fbad5d4f85e37539d7b65f6b7876eed95f35ddcd4"
+  },
+  "dt=2026-09-21/dims/banner.csv": {
+   "bytes": 146287,
+   "sha256": "a75a153de4f364aab00694305bc0de2d71fcdf3fbfda6b92210e526e992b1ed4"
+  },
+  "dt=2026-09-21/dims/campaign.csv": {
+   "bytes": 36749,
+   "sha256": "183be07f17bfb9eb1dc8b791488b15ef94a7127e7946d1cd5ba4e0097ac59468"
+  },
+  "dt=2026-09-21/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-21/dims/placement.csv": {
+   "bytes": 224288,
+   "sha256": "68c8155196eb533b12bc8e59084cc23c2b4b6deb458490ee247e59e370fd0c10"
+  },
+  "dt=2026-09-21/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-21/dims/publisher.csv": {
+   "bytes": 3694,
+   "sha256": "4febd384c703e365e37d64e2bd179a812bd49a9a616e76fd794b126bd0ddad8c"
+  },
+  "dt=2026-09-21/dims/site.csv": {
+   "bytes": 212951,
+   "sha256": "9db42d6eb248b340bd5f90971a27691c798356a02b5d139020ba2fb81635462c"
+  },
+  "dt=2026-09-21/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-21/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-21/impressions/part-0000.parquet": {
+   "bytes": 1559085,
+   "sha256": "69e715e133e545d754c3ee8c6413d52df7e86251ab4f92c519d676d0277629fa"
+  },
+  "dt=2026-09-21/orders.csv": {
+   "bytes": 2374971,
+   "sha256": "e5b5d67e532f751c10303ac5250aed12126aa31c3f7d3a742ebabb2857654884"
+  },
+  "dt=2026-09-21/postbacks/part-0000.parquet": {
+   "bytes": 6204,
+   "sha256": "7b72ac85af5f54a8cfaf37d096a1adb9ba4e0011b8e7b25ff3b91d1244aae323"
+  },
+  "dt=2026-09-21/requests/part-0000.jsonl.gz": {
+   "bytes": 3327267,
+   "sha256": "d24af4242d0f5b85206da6180b661cafc5d3a003650257419d0a5bdc544b53bb"
+  },
+  "dt=2026-09-22/clicks/part-0000.parquet": {
+   "bytes": 53857,
+   "sha256": "7415d3431f3c61a7fbd4c03d294ebbb5899b938f163002b13b168cf897c29b49"
+  },
+  "dt=2026-09-22/dims/advertiser.csv": {
+   "bytes": 13146,
+   "sha256": "a3c42dc81c3eb063d0a7d745846dacb5551e3f80fcd93cf8514ab7fea57ef9fc"
+  },
+  "dt=2026-09-22/dims/banner.csv": {
+   "bytes": 147990,
+   "sha256": "1cd85976eaab7eb11366f68f7a025fc1abe0c703f891b8616ccd4551bf00530e"
+  },
+  "dt=2026-09-22/dims/campaign.csv": {
+   "bytes": 37082,
+   "sha256": "225454e069c39901ce0d0b2657b16e4b464637f8f3993c386ca0d8baca9d45f7"
+  },
+  "dt=2026-09-22/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-22/dims/placement.csv": {
+   "bytes": 225298,
+   "sha256": "2847fe764d2fce6215bc45ed60e26fc2fe696b88f5ffc1d53d08463ed68baa31"
+  },
+  "dt=2026-09-22/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-22/dims/publisher.csv": {
+   "bytes": 3933,
+   "sha256": "cd3e09f4b11d456bf2c0534ec120bc1a960f4d74141081b76363d27278f6bc30"
+  },
+  "dt=2026-09-22/dims/site.csv": {
+   "bytes": 213441,
+   "sha256": "cef3d0c5ee33282036f1a7998f7519738e47ffc5cbb9cce14f9e11d2b1833f28"
+  },
+  "dt=2026-09-22/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-22/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-22/impressions/part-0000.parquet": {
+   "bytes": 1527278,
+   "sha256": "be3b2810630d3e3f600b048c5b4588b80a3fc734be1c318937c9781f3963ca48"
+  },
+  "dt=2026-09-22/orders.csv": {
+   "bytes": 2175452,
+   "sha256": "4bf7030bf3545b1f8030ad07e81b06a3297f19a007c66f49cc653c438e167c62"
+  },
+  "dt=2026-09-22/postbacks/part-0000.parquet": {
+   "bytes": 6015,
+   "sha256": "7abc36137ff0d0df0e80d8c106e5c926b4c3ef39dcd721f934d5e7e5d0f22f66"
+  },
+  "dt=2026-09-22/requests/part-0000.jsonl.gz": {
+   "bytes": 3370319,
+   "sha256": "f84ca34a76a9d482595e8dccd9f38345ca096dc45e5aec3b4427bbe1bf606079"
+  },
+  "dt=2026-09-23/clicks/part-0000.parquet": {
+   "bytes": 56222,
+   "sha256": "8edaf5c47489e5f803e8958697f2b8641346747c6f93ef234de594c7ab568c45"
+  },
+  "dt=2026-09-23/dims/advertiser.csv": {
+   "bytes": 13219,
+   "sha256": "3dc5c48a305a796131e6b83c8dcd6f84510ae61ac449ad0f4f0fa477be6cf560"
+  },
+  "dt=2026-09-23/dims/banner.csv": {
+   "bytes": 149562,
+   "sha256": "9ec1417b21f61933e4590fbf53509fb7d5043947a83f7464c666c4133a5346b5"
+  },
+  "dt=2026-09-23/dims/campaign.csv": {
+   "bytes": 37531,
+   "sha256": "81b9f2d13fdd85ac319233e3198c8c4ba677aca00708cb5fb277f2de8b0e68b9"
+  },
+  "dt=2026-09-23/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-23/dims/placement.csv": {
+   "bytes": 225428,
+   "sha256": "dc79b4f3ea3604adebbf2c95677874acded760e05b4da5a87edcea11a125f34f"
+  },
+  "dt=2026-09-23/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-23/dims/publisher.csv": {
+   "bytes": 3933,
+   "sha256": "cd3e09f4b11d456bf2c0534ec120bc1a960f4d74141081b76363d27278f6bc30"
+  },
+  "dt=2026-09-23/dims/site.csv": {
+   "bytes": 213565,
+   "sha256": "f950f9e4500fb02c05b113dfb8521b07fe2d58ece04d33260e104426e2f9b519"
+  },
+  "dt=2026-09-23/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-23/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-23/impressions/part-0000.parquet": {
+   "bytes": 1536625,
+   "sha256": "873847d7862b07930a3b30a3da9ba748cf981ceb61d8754273a7fd92a60bccb1"
+  },
+  "dt=2026-09-23/orders.csv": {
+   "bytes": 2161937,
+   "sha256": "8316d12e2af4d961f6b627414df51fcff3f19898d80f463aabd68d2583d0474e"
+  },
+  "dt=2026-09-23/postbacks/part-0000.parquet": {
+   "bytes": 5706,
+   "sha256": "55438e368c9d57f0523d93dc9689f3ed2d26b50662319b91588f2beb9659d9d7"
+  },
+  "dt=2026-09-23/requests/part-0000.jsonl.gz": {
+   "bytes": 3385863,
+   "sha256": "85f169f2f612c3e711a3ba0ab86305bc97bae386f7c5e6b34eb55da8037f105b"
+  },
+  "dt=2026-09-24/clicks/part-0000.parquet": {
+   "bytes": 55824,
+   "sha256": "89b348ae8343309470b36208d218252f6a699ebe0525759bebb7fcb8b6dd7050"
+  },
+  "dt=2026-09-24/dims/advertiser.csv": {
+   "bytes": 13219,
+   "sha256": "3dc5c48a305a796131e6b83c8dcd6f84510ae61ac449ad0f4f0fa477be6cf560"
+  },
+  "dt=2026-09-24/dims/banner.csv": {
+   "bytes": 149693,
+   "sha256": "f77768934337532ac3e396e95d88ea9be7b26a959535adf45b685c1e2be49833"
+  },
+  "dt=2026-09-24/dims/campaign.csv": {
+   "bytes": 37531,
+   "sha256": "81b9f2d13fdd85ac319233e3198c8c4ba677aca00708cb5fb277f2de8b0e68b9"
+  },
+  "dt=2026-09-24/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-24/dims/placement.csv": {
+   "bytes": 225818,
+   "sha256": "36b2ce4309e5c449a577101a7f548d10df643f3770450c109c7b22dc4258ef7f"
+  },
+  "dt=2026-09-24/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-24/dims/publisher.csv": {
+   "bytes": 3933,
+   "sha256": "cd3e09f4b11d456bf2c0534ec120bc1a960f4d74141081b76363d27278f6bc30"
+  },
+  "dt=2026-09-24/dims/site.csv": {
+   "bytes": 213939,
+   "sha256": "d6afa5102314ea0c7065a7292cfedbbfcd1d5d5dbcaf9951f8eb52f26c1c7da0"
+  },
+  "dt=2026-09-24/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-24/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-24/impressions/part-0000.parquet": {
+   "bytes": 1569651,
+   "sha256": "b7ebfcdfe72c5b567e45d64ff3e4e201af965f27d55a6f0833a3787c14950d97"
+  },
+  "dt=2026-09-24/orders.csv": {
+   "bytes": 2030217,
+   "sha256": "0640ead590765d0c9728a7fc1f95b987bfe70dc83971afa1ded0e5fd6835f3a7"
+  },
+  "dt=2026-09-24/postbacks/part-0000.parquet": {
+   "bytes": 6014,
+   "sha256": "20243d80cd3c61f89919f31c35bc714c8f3ac3438dd7f61c1621ce825256ad2e"
+  },
+  "dt=2026-09-24/requests/part-0000.jsonl.gz": {
+   "bytes": 3488926,
+   "sha256": "714fb8fa38aa6b006b84c54d683bc28ff9b9b86b221d015320ea0c68dbe67d25"
+  },
+  "dt=2026-09-25/clicks/part-0000.parquet": {
+   "bytes": 55471,
+   "sha256": "aaa6c066c618e839837d48f4c466ca4c51b34f282d7c5b94ec3fc71434c1490b"
+  },
+  "dt=2026-09-25/dims/advertiser.csv": {
+   "bytes": 13365,
+   "sha256": "83a5b3f752b740d8bfd00a5a093d6f30353e3eab4d41d99aed397c667a1e5a48"
+  },
+  "dt=2026-09-25/dims/banner.csv": {
+   "bytes": 150479,
+   "sha256": "5f80d9858c125a826392a5be304da87b78725973a1c5a59de4abf7cf1c0a6cc5"
+  },
+  "dt=2026-09-25/dims/campaign.csv": {
+   "bytes": 37757,
+   "sha256": "1a6fddd05cfd837b84a85fe4f5fa363075b06f1e17ee72085004714579c7792c"
+  },
+  "dt=2026-09-25/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-25/dims/placement.csv": {
+   "bytes": 226208,
+   "sha256": "a9b2b96c491191f12253e7e88bec46356ba358fcff059b789c81221c582d568e"
+  },
+  "dt=2026-09-25/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-25/dims/publisher.csv": {
+   "bytes": 3933,
+   "sha256": "cd3e09f4b11d456bf2c0534ec120bc1a960f4d74141081b76363d27278f6bc30"
+  },
+  "dt=2026-09-25/dims/site.csv": {
+   "bytes": 214311,
+   "sha256": "ea74e5d0a3c939898172be974991ce16ee2f8f85b382aeab26081240a84f713c"
+  },
+  "dt=2026-09-25/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-25/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-25/impressions/part-0000.parquet": {
+   "bytes": 1280797,
+   "sha256": "2444bb9e2afb57bf19ac5a0f5c4b333a0c1b2c9b09dbe0b1929bbab454d2d97f"
+  },
+  "dt=2026-09-25/orders.csv": {
+   "bytes": 1629449,
+   "sha256": "6715803b012d16028232fbcb776671e1355dfb456ea52b47d217ae114021a223"
+  },
+  "dt=2026-09-25/postbacks/part-0000.parquet": {
+   "bytes": 6131,
+   "sha256": "444091d51275996458e36c41cd13109dc012cd137aee5ec25e41f331c3e8e10b"
+  },
+  "dt=2026-09-25/requests/part-0000.jsonl.gz": {
+   "bytes": 2861626,
+   "sha256": "585233d096b2db00f26851ed1c4055c225b5b3849ce9079e60c4139887e823b5"
+  },
+  "dt=2026-09-26/clicks/part-0000.parquet": {
+   "bytes": 49777,
+   "sha256": "adffaf8d8f79225d440d6effc135a496e5e986cb9953579abaae92dbdb31d6e9"
+  },
+  "dt=2026-09-26/dims/advertiser.csv": {
+   "bytes": 13438,
+   "sha256": "d49185958a0672e94d71469440e4c73fc11a62ae759ce444681c605b333e2a49"
+  },
+  "dt=2026-09-26/dims/banner.csv": {
+   "bytes": 150872,
+   "sha256": "8f049da14d2a38374985621456eef1dfa066dfc36afc693229dc14286022e1cb"
+  },
+  "dt=2026-09-26/dims/campaign.csv": {
+   "bytes": 37874,
+   "sha256": "3c27f3902f8487f88704596b46e6163ddd1820b648cb5bdce99007ebf178069b"
+  },
+  "dt=2026-09-26/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-26/dims/placement.csv": {
+   "bytes": 226208,
+   "sha256": "a9b2b96c491191f12253e7e88bec46356ba358fcff059b789c81221c582d568e"
+  },
+  "dt=2026-09-26/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-26/dims/publisher.csv": {
+   "bytes": 3933,
+   "sha256": "cd3e09f4b11d456bf2c0534ec120bc1a960f4d74141081b76363d27278f6bc30"
+  },
+  "dt=2026-09-26/dims/site.csv": {
+   "bytes": 214311,
+   "sha256": "ea74e5d0a3c939898172be974991ce16ee2f8f85b382aeab26081240a84f713c"
+  },
+  "dt=2026-09-26/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-26/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-26/impressions/part-0000.parquet": {
+   "bytes": 1118198,
+   "sha256": "989882ea5db738ea8066f773f02ae4d4229ed69a633024c168c2f96704352f0d"
+  },
+  "dt=2026-09-26/orders.csv": {
+   "bytes": 1601866,
+   "sha256": "75e726e83cce49f0748e54e0a39f52adaa7461581fc0ffbefc948580ecce2626"
+  },
+  "dt=2026-09-26/postbacks/part-0000.parquet": {
+   "bytes": 6185,
+   "sha256": "ae934234b0c922c75982a1820f7bc55dc0cc0bc868225f8568b9681302cdef98"
+  },
+  "dt=2026-09-26/requests/part-0000.jsonl.gz": {
+   "bytes": 2501793,
+   "sha256": "21b043b019385e6f6385cd6b6bc508b839872e009e36f340b27de9a0531818ce"
+  },
+  "dt=2026-09-27/clicks/part-0000.parquet": {
+   "bytes": 48815,
+   "sha256": "74d15aa14d65bf9addee51e2c357848abb3a8d7abf1fbd56c461d06035a3befc"
+  },
+  "dt=2026-09-27/dims/advertiser.csv": {
+   "bytes": 13584,
+   "sha256": "7b003ebd0fca407ddba45681875505271f1be51aea76fb44b86a118d59c777e1"
+  },
+  "dt=2026-09-27/dims/banner.csv": {
+   "bytes": 152444,
+   "sha256": "cb968ec84a79a39ea009743f18e949fac8403f3e860edeed853a246f05769c32"
+  },
+  "dt=2026-09-27/dims/campaign.csv": {
+   "bytes": 38213,
+   "sha256": "fd394e2b56dd37b7ed922864d36b8d29a05af87248fef9131744131e050e80dd"
+  },
+  "dt=2026-09-27/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-27/dims/placement.csv": {
+   "bytes": 226468,
+   "sha256": "b5c1d272298f262168406bdc1824b8de8386221404f640751c260382b7c0ba8a"
+  },
+  "dt=2026-09-27/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-27/dims/publisher.csv": {
+   "bytes": 3933,
+   "sha256": "ecd8a8351ddc356c24d883765a0aaa8cbeadc6c584ad9f035d6501f2543c0a2d"
+  },
+  "dt=2026-09-27/dims/site.csv": {
+   "bytes": 214559,
+   "sha256": "78ff18b39db144c6ca3d100845752451d132b76c307ba412a5a6093badcc19b6"
+  },
+  "dt=2026-09-27/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-27/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-27/impressions/part-0000.parquet": {
+   "bytes": 1102977,
+   "sha256": "5888316ed858c72fc7f235cb4a21bb77ae05aeb1605b8e2f283228781b8a4846"
+  },
+  "dt=2026-09-27/orders.csv": {
+   "bytes": 1559319,
+   "sha256": "228bd050dcdaa23fecb69b10cd200c9cdb45191b1f4e50df2c55294960d8744c"
+  },
+  "dt=2026-09-27/postbacks/part-0000.parquet": {
+   "bytes": 5739,
+   "sha256": "004a9e127d313e199a3fa6e10284be7276ea4adb3afab88064215499d045ab4b"
+  },
+  "dt=2026-09-27/requests/part-0000.jsonl.gz": {
+   "bytes": 2353780,
+   "sha256": "b07759291e09bbfbbee02bf2a5718b9a8f15b71ddd7cc90cc644d91af3adf96d"
+  },
+  "dt=2026-09-28/clicks/part-0000.parquet": {
+   "bytes": 45382,
+   "sha256": "3c6ab46cd725c49436a73c4f08f67de0750a3edefa1504409e1b09f0d6e155d8"
+  },
+  "dt=2026-09-28/dims/advertiser.csv": {
+   "bytes": 13584,
+   "sha256": "7b003ebd0fca407ddba45681875505271f1be51aea76fb44b86a118d59c777e1"
+  },
+  "dt=2026-09-28/dims/banner.csv": {
+   "bytes": 153623,
+   "sha256": "10feab448de594d9614a4eb184840c8c2611ae26a60e0eb2f1d2c74cc165108e"
+  },
+  "dt=2026-09-28/dims/campaign.csv": {
+   "bytes": 38324,
+   "sha256": "e5196b4f2836fb068ceca4513b8cefa9100dd8d9a17c4862a65b5d3a819e3425"
+  },
+  "dt=2026-09-28/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-28/dims/placement.csv": {
+   "bytes": 226468,
+   "sha256": "b5c1d272298f262168406bdc1824b8de8386221404f640751c260382b7c0ba8a"
+  },
+  "dt=2026-09-28/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-28/dims/publisher.csv": {
+   "bytes": 3933,
+   "sha256": "ecd8a8351ddc356c24d883765a0aaa8cbeadc6c584ad9f035d6501f2543c0a2d"
+  },
+  "dt=2026-09-28/dims/site.csv": {
+   "bytes": 214559,
+   "sha256": "78ff18b39db144c6ca3d100845752451d132b76c307ba412a5a6093badcc19b6"
+  },
+  "dt=2026-09-28/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-28/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-28/impressions/part-0000.parquet": {
+   "bytes": 1137202,
+   "sha256": "34baf33d94e1123b0ff7c1df230bd919156ab74ce3798781cac9b9d9e68eebe8"
+  },
+  "dt=2026-09-28/orders.csv": {
+   "bytes": 1414997,
+   "sha256": "6261d1c26789082d3a9772de595a2c807c0fcdcdecdb1ba2ffaa0bd0743c96d7"
+  },
+  "dt=2026-09-28/postbacks/part-0000.parquet": {
+   "bytes": 5962,
+   "sha256": "ade2971a04775bd2b1d0d615957f477600860a1830fccc67a2b03d8b7299f899"
+  },
+  "dt=2026-09-28/requests/part-0000.jsonl.gz": {
+   "bytes": 2419424,
+   "sha256": "ca21eb3cbc3b30ffedfe1b962c4d1458275c5be627932d5c4360dc00e6d9419c"
+  },
+  "dt=2026-09-29/clicks/part-0000.parquet": {
+   "bytes": 49736,
+   "sha256": "80d114c6dd989af6e3c4967e13482a2916b44a6fa090d1b4938e350bdf08efd0"
+  },
+  "dt=2026-09-29/dims/advertiser.csv": {
+   "bytes": 13803,
+   "sha256": "8edccdb69265487e4f0f9184c3b93a161d33c6c63c0228898aa290747678d2ac"
+  },
+  "dt=2026-09-29/dims/banner.csv": {
+   "bytes": 155195,
+   "sha256": "3f425e3b12ae7998b8cd9be5ca91829d05686df09b216ecfa10cf5f167b46aec"
+  },
+  "dt=2026-09-29/dims/campaign.csv": {
+   "bytes": 38773,
+   "sha256": "ae3185692f00df03297b275b3e1d80bfe53d491ae402596c04bc63e629424d1a"
+  },
+  "dt=2026-09-29/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-29/dims/placement.csv": {
+   "bytes": 226988,
+   "sha256": "456275e5826cdc7fddb8caee0b698072cceaf5b09a21a5c3bee959e70354bb42"
+  },
+  "dt=2026-09-29/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-29/dims/publisher.csv": {
+   "bytes": 4052,
+   "sha256": "c218d430e3d6809bff994bbd53b630cd5020205b5aabf303a5c79481344bcd48"
+  },
+  "dt=2026-09-29/dims/site.csv": {
+   "bytes": 215052,
+   "sha256": "25bfee444cddd9fb2a3f3744aa65dda72cf6093924b8f3da55cf5f9cb32e0158"
+  },
+  "dt=2026-09-29/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 141554,
+   "sha256": "e7b87d81ab83b3cd7b2637e72ba2c337ba8a894eadc4212e7ade1be7aeada92b"
+  },
+  "dt=2026-09-29/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-29/impressions/part-0000.parquet": {
+   "bytes": 1267647,
+   "sha256": "3ad11d8e4d4c3e3446236bf8065e0154c69a3a8dddee9a60f465f16820099541"
+  },
+  "dt=2026-09-29/orders.csv": {
+   "bytes": 1425406,
+   "sha256": "9323ead2753bfdf33387bfb0c1d12437e85c54e36f1f19b95b7b077e8f68a43a"
+  },
+  "dt=2026-09-29/postbacks/part-0000.parquet": {
+   "bytes": 6009,
+   "sha256": "02689e7d64040b9c5dd8c3f70a2d9e5cf44f6495a29841dfd98edc39b295d4f1"
+  },
+  "dt=2026-09-29/requests/part-0000.jsonl.gz": {
+   "bytes": 2704689,
+   "sha256": "c78d6e6d91c9957f5d43f3832e464ce448d44804b07baa356fcf184aadc1c259"
+  },
+  "dt=2026-09-30/clicks/part-0000.parquet": {
+   "bytes": 43388,
+   "sha256": "44e471536d4660d875c6f56d9d33d395865a0a66a174deeb8a54b1de21d7e905"
+  },
+  "dt=2026-09-30/dims/advertiser.csv": {
+   "bytes": 13876,
+   "sha256": "d501229547ebb8909f1ebdb07a501ca59098f8b579c7eb8bf106214911dee5b8"
+  },
+  "dt=2026-09-30/dims/banner.csv": {
+   "bytes": 157422,
+   "sha256": "b48446c4f57ff247edfea69fb434eaa8e0260a726402e1889db386c2b7155f73"
+  },
+  "dt=2026-09-30/dims/campaign.csv": {
+   "bytes": 39333,
+   "sha256": "d9633d6b7673d811e4ff967df8aa588af2ebcc9b79269dcd17cee5e2f4f5ce0c"
+  },
+  "dt=2026-09-30/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-09-30/dims/placement.csv": {
+   "bytes": 227118,
+   "sha256": "8c32433aab009f56d6f1e0b47d68f0f625e8814771dfb96755a30e9795b2297e"
+  },
+  "dt=2026-09-30/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-09-30/dims/publisher.csv": {
+   "bytes": 4052,
+   "sha256": "c218d430e3d6809bff994bbd53b630cd5020205b5aabf303a5c79481344bcd48"
+  },
+  "dt=2026-09-30/dims/site.csv": {
+   "bytes": 215176,
+   "sha256": "b9758204bfbbe13576dd35f01a154a863fd45335dce96982be9a6a94e469888c"
+  },
+  "dt=2026-09-30/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 152429,
+   "sha256": "2aef68da931eb8b669555351d11d9ebc380518a96ed75e26381d4556753b9750"
+  },
+  "dt=2026-09-30/enrichment/site_enrichment.jsonl": {
+   "bytes": 695427,
+   "sha256": "91251384e1c8c28e6891181419b408f46f6e9c7098da0f3602977f19345d6c49"
+  },
+  "dt=2026-09-30/impressions/part-0000.parquet": {
+   "bytes": 1149760,
+   "sha256": "029e3f2f4bac4af1ff7cd104d9afdf5e478e8bc0933cc9e387b81930d358e7f8"
+  },
+  "dt=2026-09-30/orders.csv": {
+   "bytes": 1421432,
+   "sha256": "4021a5e65acfe53e11f2c76fff5023e507dce9029af01e696d3e743c9c5f1fde"
+  },
+  "dt=2026-09-30/postbacks/part-0000.parquet": {
+   "bytes": 5686,
+   "sha256": "85b25316a040cce2339518c35e76ab5711d946f8c9623e6c52c9519911ba4b4e"
+  },
+  "dt=2026-09-30/requests/part-0000.jsonl.gz": {
+   "bytes": 2457272,
+   "sha256": "e37f3955d651e33e283eb52054b0fccc760b7ebfc834fbea996f579adaceee84"
+  },
+  "dt=2026-10-01/clicks/part-0000.parquet": {
+   "bytes": 47176,
+   "sha256": "51f07e5e8cd0b1337b596bb110434345a15706bfa18cc609cd1223c1b14dc355"
+  },
+  "dt=2026-10-01/dims/advertiser.csv": {
+   "bytes": 14022,
+   "sha256": "f2a479a42d768cf940a3b7057d8502e9e0037269a68c288533e5db5f7e60aa77"
+  },
+  "dt=2026-10-01/dims/banner.csv": {
+   "bytes": 158339,
+   "sha256": "dcfb955fdbc3016a95015884d11c3450a615a4aa0c156615ee40eb0bde39a703"
+  },
+  "dt=2026-10-01/dims/campaign.csv": {
+   "bytes": 39555,
+   "sha256": "f369366c1259445a5ac042d839e26792bb38c9c94e6bee2b71d7e2caad7c1e97"
+  },
+  "dt=2026-10-01/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-01/dims/placement.csv": {
+   "bytes": 227638,
+   "sha256": "c903d437f35bf0889c0663c9368f7af6b68e21936080c70b76e90489815047bc"
+  },
+  "dt=2026-10-01/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-01/dims/publisher.csv": {
+   "bytes": 4052,
+   "sha256": "c218d430e3d6809bff994bbd53b630cd5020205b5aabf303a5c79481344bcd48"
+  },
+  "dt=2026-10-01/dims/site.csv": {
+   "bytes": 215672,
+   "sha256": "d7c576c6f147afbdab72e2413c415a68b6dae17c307dbae4b6dbfc4236569557"
+  },
+  "dt=2026-10-01/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 167850,
+   "sha256": "1cf22c19d0d818586e6de59c76317e0816dc77634e5c9ab4d244efa0179dc26c"
+  },
+  "dt=2026-10-01/enrichment/site_enrichment.jsonl": {
+   "bytes": 698250,
+   "sha256": "c06cb3fe13c38869cdd7f9c391c858397abe213550f2c57d47abab1a6ca96fc8"
+  },
+  "dt=2026-10-01/impressions/part-0000.parquet": {
+   "bytes": 950912,
+   "sha256": "8158485ae235374adaf41a174a95ac3562b4d1d5b2cd02fa79681c43d5121ca4"
+  },
+  "dt=2026-10-01/orders.csv": {
+   "bytes": 899316,
+   "sha256": "99b3012448863c52227a32b38f996f2338bf2a1180be554f29cdad64817d064e"
+  },
+  "dt=2026-10-01/postbacks/part-0000.parquet": {
+   "bytes": 5765,
+   "sha256": "31af9d5444e0c140eff0b2945e40b081bf78b2a908cbcc4bbba462be170a0586"
+  },
+  "dt=2026-10-01/requests/part-0000.jsonl.gz": {
+   "bytes": 2067746,
+   "sha256": "e8632bb518740b34274cb8702c58ebf15582a9869dec5e100474de94277605d4"
+  },
+  "dt=2026-10-02/clicks/part-0000.parquet": {
+   "bytes": 44092,
+   "sha256": "0c1948706bcec800f66e1cc40c63ea25a96b1e5e370f328cb07afe9593e0f5a7"
+  },
+  "dt=2026-10-02/dims/advertiser.csv": {
+   "bytes": 14460,
+   "sha256": "7eb475b113e54d87286eacfbbb843e83fa976b2ed5afd1f66e0819649b541d80"
+  },
+  "dt=2026-10-02/dims/banner.csv": {
+   "bytes": 161483,
+   "sha256": "d74b76159a45b2d059eed44afef13c5b6d17d773e258e097fdae3a5d30f1b1b8"
+  },
+  "dt=2026-10-02/dims/campaign.csv": {
+   "bytes": 40221,
+   "sha256": "a30562191408530a9751630e57c584229f7eb1615f30e1307a515dcbd54eb404"
+  },
+  "dt=2026-10-02/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-02/dims/placement.csv": {
+   "bytes": 227898,
+   "sha256": "b9603f5f3e875cc0c373f6dcffa979bee5c6eb666a0045d1456829a6d8d008b9"
+  },
+  "dt=2026-10-02/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-02/dims/publisher.csv": {
+   "bytes": 4052,
+   "sha256": "c218d430e3d6809bff994bbd53b630cd5020205b5aabf303a5c79481344bcd48"
+  },
+  "dt=2026-10-02/dims/site.csv": {
+   "bytes": 215922,
+   "sha256": "ad78462622145249db209f44f558ab0811d2e0c5bfaa5803746a9215e71aab42"
+  },
+  "dt=2026-10-02/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 170813,
+   "sha256": "2e67b04a25ddf4c7ae88e6046e6f9fefc09b18c13e96da6e5ab9e63cdd7dbd67"
+  },
+  "dt=2026-10-02/enrichment/site_enrichment.jsonl": {
+   "bytes": 735645,
+   "sha256": "7811a3938c28b61896a9402b3eb53bfa423f3aae9a9af31798cc4e50df568119"
+  },
+  "dt=2026-10-02/impressions/part-0000.parquet": {
+   "bytes": 863828,
+   "sha256": "217c7191bb8bad63ff94b0a2b8e4cc27ae5f4722c4bef8913e0689ec09646305"
+  },
+  "dt=2026-10-02/orders.csv": {
+   "bytes": 1097893,
+   "sha256": "9e302b2ef25489bffd391062f312d533e4358baa45bacc95140497160971a58a"
+  },
+  "dt=2026-10-02/postbacks/part-0000.parquet": {
+   "bytes": 5926,
+   "sha256": "bf75deaefe0b189f29e137aa53a33ccb0c4c445933cd421b168f9957ee57913a"
+  },
+  "dt=2026-10-02/requests/part-0000.jsonl.gz": {
+   "bytes": 1956186,
+   "sha256": "ec7508cd4691f1f69b25089489bcd10e7654a17429dd07f070b9d8b373a505d5"
+  },
+  "dt=2026-10-04/clicks/part-0000.parquet": {
+   "bytes": 92561,
+   "sha256": "bd139e28429f051b24787eab2ab6097d39dbdf9be7441734ce0972a2ed1ccf84"
+  },
+  "dt=2026-10-04/dims/advertiser.csv": {
+   "bytes": 14460,
+   "sha256": "7eb475b113e54d87286eacfbbb843e83fa976b2ed5afd1f66e0819649b541d80"
+  },
+  "dt=2026-10-04/dims/banner.csv": {
+   "bytes": 162269,
+   "sha256": "5dc9631d2db15c97f53effa0dbaa55895e1ef8faddeb9d7d31a12256f613d0a4"
+  },
+  "dt=2026-10-04/dims/campaign.csv": {
+   "bytes": 40336,
+   "sha256": "4162b3a0ea8f64ac6443f99414a9c04b979d620e89b5c5f2d5b51af07119206d"
+  },
+  "dt=2026-10-04/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-04/dims/placement.csv": {
+   "bytes": 228158,
+   "sha256": "d7e1afd84021378f503f4df0ad907bcb721e8697d9ddade39e898caffca53d7f"
+  },
+  "dt=2026-10-04/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-04/dims/publisher.csv": {
+   "bytes": 4052,
+   "sha256": "c218d430e3d6809bff994bbd53b630cd5020205b5aabf303a5c79481344bcd48"
+  },
+  "dt=2026-10-04/dims/site.csv": {
+   "bytes": 216170,
+   "sha256": "fa080baf0248ff015001d6e66f8a2de56d3c946af2df0ac16f016b3b39c3c0ba"
+  },
+  "dt=2026-10-04/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 172896,
+   "sha256": "afec00a989231807cb0667039e1cb9021c55067df10c7facd17b133974c22c6f"
+  },
+  "dt=2026-10-04/enrichment/site_enrichment.jsonl": {
+   "bytes": 737102,
+   "sha256": "0de9a128aaac3f3cb5b9a17128a4f9df722a1213cd8b7e206037a5aeb6b26a9d"
+  },
+  "dt=2026-10-04/impressions/part-0000.parquet": {
+   "bytes": 1706952,
+   "sha256": "c0aa9b0d5fb6385b3c0b52f0b9f9bb21d620595009edd4aeb11cba8cbf9404ee"
+  },
+  "dt=2026-10-04/orders.csv": {
+   "bytes": 2524284,
+   "sha256": "4186a38a07616def70b5c7bcf0d61c992bbf5331c1104708a1a35802ec3a33be"
+  },
+  "dt=2026-10-04/postbacks/part-0000.parquet": {
+   "bytes": 7265,
+   "sha256": "2202f3c2d3c7ddcd4b690802fafc1852babc8bb6abdac6e848ab886ed3693830"
+  },
+  "dt=2026-10-04/requests/part-0000.jsonl.gz": {
+   "bytes": 3974796,
+   "sha256": "a16085ab8ec1d2a4129c25aaf7c4cfeafc7956108b96c273a00aa1543a1fe63c"
+  },
+  "dt=2026-10-05/clicks/part-0000.parquet": {
+   "bytes": 49594,
+   "sha256": "4f990bbd6befde92b99005a32cb5e2344681856b8d319fe39a05b61dd11b5a89"
+  },
+  "dt=2026-10-05/dims/advertiser.csv": {
+   "bytes": 14460,
+   "sha256": "7eb475b113e54d87286eacfbbb843e83fa976b2ed5afd1f66e0819649b541d80"
+  },
+  "dt=2026-10-05/dims/banner.csv": {
+   "bytes": 162269,
+   "sha256": "5dc9631d2db15c97f53effa0dbaa55895e1ef8faddeb9d7d31a12256f613d0a4"
+  },
+  "dt=2026-10-05/dims/campaign.csv": {
+   "bytes": 40336,
+   "sha256": "4162b3a0ea8f64ac6443f99414a9c04b979d620e89b5c5f2d5b51af07119206d"
+  },
+  "dt=2026-10-05/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-05/dims/placement.csv": {
+   "bytes": 228418,
+   "sha256": "b01641a6b973c026018431118b99c45d60706e13db7a0e4829909fe61b638670"
+  },
+  "dt=2026-10-05/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-05/dims/publisher.csv": {
+   "bytes": 4052,
+   "sha256": "c218d430e3d6809bff994bbd53b630cd5020205b5aabf303a5c79481344bcd48"
+  },
+  "dt=2026-10-05/dims/site.csv": {
+   "bytes": 216420,
+   "sha256": "66ada60374dd25b362823c9925d6d898f11669ab8730458ea3cf59540974b30e"
+  },
+  "dt=2026-10-05/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 172896,
+   "sha256": "afec00a989231807cb0667039e1cb9021c55067df10c7facd17b133974c22c6f"
+  },
+  "dt=2026-10-05/enrichment/site_enrichment.jsonl": {
+   "bytes": 737608,
+   "sha256": "fdedfac3daec214c4018d55cb938bc940bc299e235c61ebd1623ccf15666675e"
+  },
+  "dt=2026-10-05/impressions/part-0000.parquet": {
+   "bytes": 1024919,
+   "sha256": "a557767f2c7da635fff8a85c9a3ee55a4e87f02fdad5797f1338dd9aa7196cc4"
+  },
+  "dt=2026-10-05/orders.csv": {
+   "bytes": 1268478,
+   "sha256": "f425d2a1276905c6141e11e12808e6d5ff07f63f5e8a6735596ddf906ae3846b"
+  },
+  "dt=2026-10-05/postbacks/part-0000.parquet": {
+   "bytes": 5481,
+   "sha256": "7fa5b87b38bff8ad4d88b69d48f673ba81fe1c9bf9a613053a806d375b841063"
+  },
+  "dt=2026-10-05/requests/part-0000.jsonl.gz": {
+   "bytes": 2136088,
+   "sha256": "84d26e8b85fc698154e2d776eb0107c11f24c4e6e3582fca3d9c7d06786d432c"
+  },
+  "dt=2026-10-06/clicks/part-0000.parquet": {
+   "bytes": 48259,
+   "sha256": "6d796eef933e5e9dea7c2ac70a4b6be6f7554bc57104d984e8ea2a746897e62b"
+  },
+  "dt=2026-10-06/dims/advertiser.csv": {
+   "bytes": 14533,
+   "sha256": "83aa80fd5a7ee987364200c70e109006abd7f29d7654571278435af6211cb796"
+  },
+  "dt=2026-10-06/dims/banner.csv": {
+   "bytes": 162793,
+   "sha256": "88817bd3dc7e067618eb0627c67b2266821d733c3f25ec98b08fa84feaa86a69"
+  },
+  "dt=2026-10-06/dims/campaign.csv": {
+   "bytes": 40452,
+   "sha256": "ba7a7cab17c562445cd7a7a4881f65e71eea995443588cf1b7b59201ebb34226"
+  },
+  "dt=2026-10-06/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-06/dims/placement.csv": {
+   "bytes": 228808,
+   "sha256": "48b7f72585488da2e9fe0ee1656fa8bb1744457f21e4f4f008fb087f203bbda1"
+  },
+  "dt=2026-10-06/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-06/dims/publisher.csv": {
+   "bytes": 4052,
+   "sha256": "c218d430e3d6809bff994bbd53b630cd5020205b5aabf303a5c79481344bcd48"
+  },
+  "dt=2026-10-06/dims/site.csv": {
+   "bytes": 216794,
+   "sha256": "7a6e590c01651526f23faefcf7d39f3004e7a68d90489c553f740caa6d6b9e75"
+  },
+  "dt=2026-10-06/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 173387,
+   "sha256": "d12ad4df3910a12a601a2684904b993d5016945e4ae3b171144c89eea83e5897"
+  },
+  "dt=2026-10-06/enrichment/site_enrichment.jsonl": {
+   "bytes": 737608,
+   "sha256": "fdedfac3daec214c4018d55cb938bc940bc299e235c61ebd1623ccf15666675e"
+  },
+  "dt=2026-10-06/impressions/part-0000.parquet": {
+   "bytes": 1037881,
+   "sha256": "39cf843085a8544f14b6a7ce814e0ee4ae840b197cf542d21f6dfbbf998ec26f"
+  },
+  "dt=2026-10-06/orders.csv": {
+   "bytes": 1204376,
+   "sha256": "536d488e30edfaf138718dbf0fefcc20a0e1516490b68321be1cb889bcc87add"
+  },
+  "dt=2026-10-06/postbacks/part-0000.parquet": {
+   "bytes": 6286,
+   "sha256": "440c1c1fd6506b3112c66f38299b38966bbd3e0987cc5770dc34391ab5fb950e"
+  },
+  "dt=2026-10-06/requests/part-0000.jsonl.gz": {
+   "bytes": 2262363,
+   "sha256": "ad25b180b200aff5c853be7edd1f7da41d8b1f5017272dd51a62581f549e72d3"
+  },
+  "dt=2026-10-07/clicks/part-0000.parquet": {
+   "bytes": 42586,
+   "sha256": "5f0edc931806e7d17aa560f70fde3c835fcbf7d6fc7669a292478007d001f83e"
+  },
+  "dt=2026-10-07/dims/advertiser.csv": {
+   "bytes": 14679,
+   "sha256": "75c3efc03ece0c3ccebe4b184558631b5c39f00a031f3e9f6de833560764e927"
+  },
+  "dt=2026-10-07/dims/banner.csv": {
+   "bytes": 166330,
+   "sha256": "c41db5dcb2710540b0d54681ead32167a6808d6d4d485c35bba0ea95662a02e4"
+  },
+  "dt=2026-10-07/dims/campaign.csv": {
+   "bytes": 41234,
+   "sha256": "047c1f7bea04167b7f1b0b156a1d3e7704083e1fc12c3a956ea7ac94f7b7195b"
+  },
+  "dt=2026-10-07/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-07/dims/placement.csv": {
+   "bytes": 229438,
+   "sha256": "5286517511528f1f8f5d250d7b975e74be9a37121e43c677285d90b92dc86434"
+  },
+  "dt=2026-10-07/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-07/dims/publisher.csv": {
+   "bytes": 4172,
+   "sha256": "dd3cb8bfca11f0fde27eb125a621df747918df2193c4bb5cab6f7131a7dae3ac"
+  },
+  "dt=2026-10-07/dims/site.csv": {
+   "bytes": 217163,
+   "sha256": "39a617e3b926d6e8b3d045e3a6bf542c742bb4da8eca846ba3f0c1ca6051749e"
+  },
+  "dt=2026-10-07/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 173387,
+   "sha256": "d12ad4df3910a12a601a2684904b993d5016945e4ae3b171144c89eea83e5897"
+  },
+  "dt=2026-10-07/enrichment/site_enrichment.jsonl": {
+   "bytes": 737608,
+   "sha256": "fdedfac3daec214c4018d55cb938bc940bc299e235c61ebd1623ccf15666675e"
+  },
+  "dt=2026-10-07/impressions/part-0000.parquet": {
+   "bytes": 971947,
+   "sha256": "9da22b4af985b38a9286abaeb3dd85b16b4d86abf8a3b7df66a26b131be22b6a"
+  },
+  "dt=2026-10-07/orders.csv": {
+   "bytes": 1160788,
+   "sha256": "6d946466cf0ac72af7734bc8c056780c8d4ed415d8dbefeacd652b102c9e0572"
+  },
+  "dt=2026-10-07/postbacks/part-0000.parquet": {
+   "bytes": 5773,
+   "sha256": "f629087040508310d7540205ae1b639168b58e5c19d3c3aad8372e61d3320924"
+  },
+  "dt=2026-10-07/requests/part-0000.jsonl.gz": {
+   "bytes": 2054992,
+   "sha256": "2b43342bfeb9d190f07657d3bd912e9ef4d569fc02b40571c021b9bd4e46c0db"
+  },
+  "dt=2026-10-08/clicks/part-0000.parquet": {
+   "bytes": 41435,
+   "sha256": "d83ce4b1c27219346e58fcb032a5c4b3a11b49f25227fa1c1404a19407c058ce"
+  },
+  "dt=2026-10-08/dims/advertiser.csv": {
+   "bytes": 14679,
+   "sha256": "75c3efc03ece0c3ccebe4b184558631b5c39f00a031f3e9f6de833560764e927"
+  },
+  "dt=2026-10-08/dims/banner.csv": {
+   "bytes": 167247,
+   "sha256": "24d73a9e35b2a1cbcc0bd9b7e78ca9276438cc1585b5d099c8a4185eaff25679"
+  },
+  "dt=2026-10-08/dims/campaign.csv": {
+   "bytes": 41234,
+   "sha256": "047c1f7bea04167b7f1b0b156a1d3e7704083e1fc12c3a956ea7ac94f7b7195b"
+  },
+  "dt=2026-10-08/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-08/dims/placement.csv": {
+   "bytes": 229568,
+   "sha256": "0b9b7ca9e9e1fd53c61aae2dfbddb0dc3b8988a0c9822c5db31b6e5d0569b56e"
+  },
+  "dt=2026-10-08/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-08/dims/publisher.csv": {
+   "bytes": 4172,
+   "sha256": "dd3cb8bfca11f0fde27eb125a621df747918df2193c4bb5cab6f7131a7dae3ac"
+  },
+  "dt=2026-10-08/dims/site.csv": {
+   "bytes": 217287,
+   "sha256": "dc0d9868472b84317e914c2a5b597553a6bbec8d6831a342b46297d8cb034797"
+  },
+  "dt=2026-10-08/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 176347,
+   "sha256": "f3fbe9f60792af0963eb6ea59d4ae12d95c5b9034bf328f8c3885144f7c3ae00"
+  },
+  "dt=2026-10-08/enrichment/site_enrichment.jsonl": {
+   "bytes": 738069,
+   "sha256": "7d8c1338082601ee9e196c0a7d8e46d44e9bf4862d972cfc935d446cbe590eaf"
+  },
+  "dt=2026-10-08/impressions/part-0000.parquet": {
+   "bytes": 891349,
+   "sha256": "b2357aa6c475de0747fe8a27d82a24504671100c2624c42e57d6d478b0986b47"
+  },
+  "dt=2026-10-08/orders.csv": {
+   "bytes": 1117971,
+   "sha256": "5d83fdc45a2cf02edecfb19edc73e27895df61765af7d30fa8adabba1bf75a08"
+  },
+  "dt=2026-10-08/postbacks/part-0000.parquet": {
+   "bytes": 6179,
+   "sha256": "c597f91fcbc2879f619977308504c0689306614faed757a4fc145502131d9193"
+  },
+  "dt=2026-10-08/requests/part-0000.jsonl.gz": {
+   "bytes": 1943288,
+   "sha256": "9c2dfbb35678d6e8c6a4cd3d161e72022fdb4321875417833745158648532972"
+  },
+  "dt=2026-10-09/clicks/part-0000.parquet": {
+   "bytes": 48338,
+   "sha256": "fbb6f0f8ee0462475e182e0601ae5aff532bcc5bab494beddca5bba03a5756b2"
+  },
+  "dt=2026-10-09/dims/advertiser.csv": {
+   "bytes": 14971,
+   "sha256": "1d05ee2d39bafbd374ce4f8d7277fb9801aeffa324a29d80ea3679fd02adcd14"
+  },
+  "dt=2026-10-09/dims/banner.csv": {
+   "bytes": 169343,
+   "sha256": "18298c9d1dcdf97a9f63ab104ad74913b2326bbf5c70ec7799c6e8881270859c"
+  },
+  "dt=2026-10-09/dims/campaign.csv": {
+   "bytes": 41678,
+   "sha256": "4923946140c34851a39ded974b844643f5bb52c2b0e7ca5833985040df56ae4e"
+  },
+  "dt=2026-10-09/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-09/dims/placement.csv": {
+   "bytes": 229698,
+   "sha256": "bbd862221931fd6a9f6d2f4da3be6c950efbeb4dff91fe774e31ef1db3342246"
+  },
+  "dt=2026-10-09/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-09/dims/publisher.csv": {
+   "bytes": 4172,
+   "sha256": "dd3cb8bfca11f0fde27eb125a621df747918df2193c4bb5cab6f7131a7dae3ac"
+  },
+  "dt=2026-10-09/dims/site.csv": {
+   "bytes": 217411,
+   "sha256": "572027d14cd3667b703df6736db25738f7cf0285d0a83f8bf963873f3948e615"
+  },
+  "dt=2026-10-09/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 176876,
+   "sha256": "f25afd9ef304581cdf5403bd15f80bc5c58619a3cf49520fdb4faaa67531fcff"
+  },
+  "dt=2026-10-09/enrichment/site_enrichment.jsonl": {
+   "bytes": 738547,
+   "sha256": "52773dc3775521381a5e7ca9d78297c49cba5f65a3080b84e38ad5173387ea28"
+  },
+  "dt=2026-10-09/impressions/part-0000.parquet": {
+   "bytes": 983475,
+   "sha256": "9741cc90aec3ce4f46ad9a37001630da99caac3b17f82b3b987d883c56853336"
+  },
+  "dt=2026-10-09/orders.csv": {
+   "bytes": 1322278,
+   "sha256": "fad5a6cb569fc65139cc04816b8fbc939e1f3130bcca03be87ef1ebc6e9b1811"
+  },
+  "dt=2026-10-09/postbacks/part-0000.parquet": {
+   "bytes": 6291,
+   "sha256": "0b1fcb7126153c2ffd9c96fd1f80d512bac298db8a962fc743c3256bd68b2383"
+  },
+  "dt=2026-10-09/requests/part-0000.jsonl.gz": {
+   "bytes": 2154138,
+   "sha256": "e551213483d7e63b7b946d48eb46de6abe90861267abea52a8faccf8cdc75c84"
+  },
+  "dt=2026-10-10/clicks/part-0000.parquet": {
+   "bytes": 51241,
+   "sha256": "b961195d333265f2f6b5b7fce64469bd1b4ad7ae8e303e8716686cced751c74e"
+  },
+  "dt=2026-10-10/dims/advertiser.csv": {
+   "bytes": 14971,
+   "sha256": "1d05ee2d39bafbd374ce4f8d7277fb9801aeffa324a29d80ea3679fd02adcd14"
+  },
+  "dt=2026-10-10/dims/banner.csv": {
+   "bytes": 169343,
+   "sha256": "18298c9d1dcdf97a9f63ab104ad74913b2326bbf5c70ec7799c6e8881270859c"
+  },
+  "dt=2026-10-10/dims/campaign.csv": {
+   "bytes": 41678,
+   "sha256": "4923946140c34851a39ded974b844643f5bb52c2b0e7ca5833985040df56ae4e"
+  },
+  "dt=2026-10-10/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-10/dims/placement.csv": {
+   "bytes": 230088,
+   "sha256": "3e7b4f0077132bc4e92f3d9f03d24400c80922830515b603562b50ead6752d7e"
+  },
+  "dt=2026-10-10/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-10/dims/publisher.csv": {
+   "bytes": 4276,
+   "sha256": "3cf80ea5d452050f95bfe7f2ddd00df173e17e3bbf9d98f2d3d6717d8dce9d34"
+  },
+  "dt=2026-10-10/dims/site.csv": {
+   "bytes": 217780,
+   "sha256": "16dd7decb753f9cad562d13488b560e05784a384e8b7b0a6bce52d27ff8e9be9"
+  },
+  "dt=2026-10-10/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 178872,
+   "sha256": "323bc6aa324822a8ef2cc1ad0db63238306069dcde787643ab11380000f28449"
+  },
+  "dt=2026-10-10/enrichment/site_enrichment.jsonl": {
+   "bytes": 738547,
+   "sha256": "52773dc3775521381a5e7ca9d78297c49cba5f65a3080b84e38ad5173387ea28"
+  },
+  "dt=2026-10-10/impressions/part-0000.parquet": {
+   "bytes": 1058101,
+   "sha256": "bc3423711f2afdbe39fcb13bf857bd03dce51723f778bb7ecf33db5d33d6a3b6"
+  },
+  "dt=2026-10-10/orders.csv": {
+   "bytes": 1430512,
+   "sha256": "010bfbcbc8f5f05b0e2c2286f693e44949aa6a600f2f010cf220177bf9560f91"
+  },
+  "dt=2026-10-10/postbacks/part-0000.parquet": {
+   "bytes": 6747,
+   "sha256": "c8fbbf7e63678e380a85dfe303167537e1ce91ec603d8d13f631c5e16daf0677"
+  },
+  "dt=2026-10-10/requests/part-0000.jsonl.gz": {
+   "bytes": 2235244,
+   "sha256": "48c3399f1ebb5af1c7b62a2b4770c40a35de883e1bdbd609b84809f62db44ea5"
+  },
+  "dt=2026-10-11/clicks/part-0000.parquet": {
+   "bytes": 53012,
+   "sha256": "47c0613c9707b461883e31056d48ff72c883866e925c3236c1a5b54b9988248e"
+  },
+  "dt=2026-10-11/dims/advertiser.csv": {
+   "bytes": 14971,
+   "sha256": "1d05ee2d39bafbd374ce4f8d7277fb9801aeffa324a29d80ea3679fd02adcd14"
+  },
+  "dt=2026-10-11/dims/banner.csv": {
+   "bytes": 169343,
+   "sha256": "18298c9d1dcdf97a9f63ab104ad74913b2326bbf5c70ec7799c6e8881270859c"
+  },
+  "dt=2026-10-11/dims/campaign.csv": {
+   "bytes": 41678,
+   "sha256": "4923946140c34851a39ded974b844643f5bb52c2b0e7ca5833985040df56ae4e"
+  },
+  "dt=2026-10-11/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-11/dims/placement.csv": {
+   "bytes": 230348,
+   "sha256": "2441b655880c2999762aa1a9a537aaded0824ec53df96bc71939d69343f8fe24"
+  },
+  "dt=2026-10-11/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-11/dims/publisher.csv": {
+   "bytes": 4276,
+   "sha256": "3cf80ea5d452050f95bfe7f2ddd00df173e17e3bbf9d98f2d3d6717d8dce9d34"
+  },
+  "dt=2026-10-11/dims/site.csv": {
+   "bytes": 218028,
+   "sha256": "1b9b2045c1e34d746040d44ebd5a41f85dc3c16f7e99cbc3cdca1f11b7c7d5b7"
+  },
+  "dt=2026-10-11/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 178872,
+   "sha256": "323bc6aa324822a8ef2cc1ad0db63238306069dcde787643ab11380000f28449"
+  },
+  "dt=2026-10-11/enrichment/site_enrichment.jsonl": {
+   "bytes": 738547,
+   "sha256": "52773dc3775521381a5e7ca9d78297c49cba5f65a3080b84e38ad5173387ea28"
+  },
+  "dt=2026-10-11/impressions/part-0000.parquet": {
+   "bytes": 1081726,
+   "sha256": "33af014f440c942aeee69c9fe993903d92e1bf49492ed24d9e84ab251bd70562"
+  },
+  "dt=2026-10-11/orders.csv": {
+   "bytes": 1519350,
+   "sha256": "dc23fcf5d827957b8e2bd1f618eb063490c91b3daafce65231f35b80d2a5e701"
+  },
+  "dt=2026-10-11/postbacks/part-0000.parquet": {
+   "bytes": 6438,
+   "sha256": "9f0783de724967a938f01572941bd36b272d167c0d52e1cb347992925a1609f2"
+  },
+  "dt=2026-10-11/requests/part-0000.jsonl.gz": {
+   "bytes": 2326745,
+   "sha256": "b1169892dacaed30c30858870a004e590e0ff31f352be182bde02bcb4067bd74"
+  },
+  "dt=2026-10-12/clicks/part-0000.parquet": {
+   "bytes": 279776,
+   "sha256": "295c1d8157c5e2d2aa897a1a4b9f97e63fa0390de77a843a2dba8c6ba02c8257"
+  },
+  "dt=2026-10-12/dims/advertiser.csv": {
+   "bytes": 14971,
+   "sha256": "1d05ee2d39bafbd374ce4f8d7277fb9801aeffa324a29d80ea3679fd02adcd14"
+  },
+  "dt=2026-10-12/dims/banner.csv": {
+   "bytes": 169474,
+   "sha256": "c0b423d5d5ac13709342daf677ca4fa369f0324a90968d2b7c842a00cd13b377"
+  },
+  "dt=2026-10-12/dims/campaign.csv": {
+   "bytes": 41678,
+   "sha256": "4923946140c34851a39ded974b844643f5bb52c2b0e7ca5833985040df56ae4e"
+  },
+  "dt=2026-10-12/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-12/dims/placement.csv": {
+   "bytes": 230608,
+   "sha256": "93169ec69678272c73f13b7b5f105cee6cfe556f4d1cbb830b4df7e4184cd6e0"
+  },
+  "dt=2026-10-12/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-12/dims/publisher.csv": {
+   "bytes": 4276,
+   "sha256": "3cf80ea5d452050f95bfe7f2ddd00df173e17e3bbf9d98f2d3d6717d8dce9d34"
+  },
+  "dt=2026-10-12/dims/site.csv": {
+   "bytes": 218276,
+   "sha256": "fd8490b1177d5b4abd4f7e94aace9af2fae1ef455b4e82192c75b2b6090cf366"
+  },
+  "dt=2026-10-12/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 178872,
+   "sha256": "323bc6aa324822a8ef2cc1ad0db63238306069dcde787643ab11380000f28449"
+  },
+  "dt=2026-10-12/enrichment/site_enrichment.jsonl": {
+   "bytes": 738547,
+   "sha256": "52773dc3775521381a5e7ca9d78297c49cba5f65a3080b84e38ad5173387ea28"
+  },
+  "dt=2026-10-12/impressions/part-0000.parquet": {
+   "bytes": 1088215,
+   "sha256": "b84a909df26667f2fb27ad8ddc0b1f9f3a2c869ae1449d20c798293d4396e9d2"
+  },
+  "dt=2026-10-12/orders.csv": {
+   "bytes": 1336652,
+   "sha256": "27eee6b93ddc0397461e7ececcb2659f86adb08c452f41a1d9c99c6c3563fc6a"
+  },
+  "dt=2026-10-12/postbacks/part-0000.parquet": {
+   "bytes": 6901,
+   "sha256": "6be2b04f7059aa46dc17d90f898898877dcc571d9c9e605c5fba8d600eee0eca"
+  },
+  "dt=2026-10-12/requests/part-0000.jsonl.gz": {
+   "bytes": 2256515,
+   "sha256": "75b85ac3582b7adc0abf54738bf966eec3ce2d73ccf1c1705ea44d2f00f2366a"
+  },
+  "dt=2026-10-13/clicks/part-0000.parquet": {
+   "bytes": 317108,
+   "sha256": "ed0cf55e4e17e3a64e173bf9355228ee0c798ea66c10999cc73951a3dc08261a"
+  },
+  "dt=2026-10-13/dims/advertiser.csv": {
+   "bytes": 14971,
+   "sha256": "1d05ee2d39bafbd374ce4f8d7277fb9801aeffa324a29d80ea3679fd02adcd14"
+  },
+  "dt=2026-10-13/dims/banner.csv": {
+   "bytes": 169474,
+   "sha256": "c0b423d5d5ac13709342daf677ca4fa369f0324a90968d2b7c842a00cd13b377"
+  },
+  "dt=2026-10-13/dims/campaign.csv": {
+   "bytes": 41678,
+   "sha256": "4923946140c34851a39ded974b844643f5bb52c2b0e7ca5833985040df56ae4e"
+  },
+  "dt=2026-10-13/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-13/dims/placement.csv": {
+   "bytes": 230608,
+   "sha256": "93169ec69678272c73f13b7b5f105cee6cfe556f4d1cbb830b4df7e4184cd6e0"
+  },
+  "dt=2026-10-13/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-13/dims/publisher.csv": {
+   "bytes": 4276,
+   "sha256": "3cf80ea5d452050f95bfe7f2ddd00df173e17e3bbf9d98f2d3d6717d8dce9d34"
+  },
+  "dt=2026-10-13/dims/site.csv": {
+   "bytes": 218276,
+   "sha256": "fd8490b1177d5b4abd4f7e94aace9af2fae1ef455b4e82192c75b2b6090cf366"
+  },
+  "dt=2026-10-13/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 178872,
+   "sha256": "323bc6aa324822a8ef2cc1ad0db63238306069dcde787643ab11380000f28449"
+  },
+  "dt=2026-10-13/enrichment/site_enrichment.jsonl": {
+   "bytes": 738547,
+   "sha256": "52773dc3775521381a5e7ca9d78297c49cba5f65a3080b84e38ad5173387ea28"
+  },
+  "dt=2026-10-13/impressions/part-0000.parquet": {
+   "bytes": 1536541,
+   "sha256": "1e85740a80fdeb0c149f17ad87aeab814bf526151fb03435c94ba1e8a969123c"
+  },
+  "dt=2026-10-13/orders.csv": {
+   "bytes": 1515752,
+   "sha256": "ee3d9ec08b52df914a56c5e377ced6f2e97dae2a1488d3fe698c741b0eef58b2"
+  },
+  "dt=2026-10-13/postbacks/part-0000.parquet": {
+   "bytes": 7519,
+   "sha256": "d3547f7b9b3ef18dd76d1b23a5ca6c86f4036df65aecd994666de4cbd45b8343"
+  },
+  "dt=2026-10-13/requests/part-0000.jsonl.gz": {
+   "bytes": 3056175,
+   "sha256": "48f811e2ae1b9b0bbe2402c74d514301cad91f2fe2a1d947775dee7527ff7146"
+  },
+  "dt=2026-10-14/clicks/part-0000.parquet": {
+   "bytes": 262552,
+   "sha256": "edf4342a36b58673b35b11a1cc99286999de07ad54e3e09fdb3cfb06761f1115"
+  },
+  "dt=2026-10-14/dims/advertiser.csv": {
+   "bytes": 14971,
+   "sha256": "1d05ee2d39bafbd374ce4f8d7277fb9801aeffa324a29d80ea3679fd02adcd14"
+  },
+  "dt=2026-10-14/dims/banner.csv": {
+   "bytes": 170522,
+   "sha256": "5c1a9ddc96c31757ab27a5eef879e5fe2a4091b94343463ca597a1eb23489501"
+  },
+  "dt=2026-10-14/dims/campaign.csv": {
+   "bytes": 42344,
+   "sha256": "109ae1f8bd22084831dd9b4458b06ebfcde9a62a7d2249a6a86eb8d5a7374755"
+  },
+  "dt=2026-10-14/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-14/dims/placement.csv": {
+   "bytes": 230608,
+   "sha256": "93169ec69678272c73f13b7b5f105cee6cfe556f4d1cbb830b4df7e4184cd6e0"
+  },
+  "dt=2026-10-14/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-14/dims/publisher.csv": {
+   "bytes": 4276,
+   "sha256": "3cf80ea5d452050f95bfe7f2ddd00df173e17e3bbf9d98f2d3d6717d8dce9d34"
+  },
+  "dt=2026-10-14/dims/site.csv": {
+   "bytes": 218276,
+   "sha256": "fd8490b1177d5b4abd4f7e94aace9af2fae1ef455b4e82192c75b2b6090cf366"
+  },
+  "dt=2026-10-14/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 178872,
+   "sha256": "323bc6aa324822a8ef2cc1ad0db63238306069dcde787643ab11380000f28449"
+  },
+  "dt=2026-10-14/enrichment/site_enrichment.jsonl": {
+   "bytes": 739548,
+   "sha256": "fc6f0d1afd2a47a485028e6488f19b7e19b561faeb9b81c35a6feb58a29981ad"
+  },
+  "dt=2026-10-14/impressions/part-0000.parquet": {
+   "bytes": 1382141,
+   "sha256": "43d08425f73ed2df56d0802755963acf65cb8735de6f27a0ebf1f34779b32ddc"
+  },
+  "dt=2026-10-14/orders.csv": {
+   "bytes": 1459839,
+   "sha256": "b3cb8df910bd27fc2cb523c66eb4097c2fa126a6c6f6f83fecb8b00764347625"
+  },
+  "dt=2026-10-14/postbacks/part-0000.parquet": {
+   "bytes": 8019,
+   "sha256": "205e496423739ee9c560bd49cc85157fc4d14ef6a745a204404770a36b1be2a0"
+  },
+  "dt=2026-10-14/requests/part-0000.jsonl.gz": {
+   "bytes": 2659340,
+   "sha256": "329fbcf41950df79328cd74b69a58c596b9f4e12b146811297c97eaa203cef99"
+  },
+  "dt=2026-10-15/clicks/part-0000.parquet": {
+   "bytes": 204736,
+   "sha256": "03c4a547ee58d252a145e99c1165006f1c549f30a88ca1fe841bdd7b33b93f90"
+  },
+  "dt=2026-10-15/dims/advertiser.csv": {
+   "bytes": 15117,
+   "sha256": "e75881b7466c909136e3d8336c450cd802e517b09621767f55fc06de8d01a008"
+  },
+  "dt=2026-10-15/dims/banner.csv": {
+   "bytes": 171439,
+   "sha256": "0b954100798ec76b35b5a614f56b2dfb6a8ecfb0cca2b92e4f60abc63e295b19"
+  },
+  "dt=2026-10-15/dims/campaign.csv": {
+   "bytes": 42566,
+   "sha256": "89d156149a8e55cc6e05958a168b6c026fdc6716a1b7b368bccb5920c6600a6c"
+  },
+  "dt=2026-10-15/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-15/dims/placement.csv": {
+   "bytes": 230868,
+   "sha256": "c9cfb2108ceecedab77b82d07639a428d814809b7449fe778894fb37058cb288"
+  },
+  "dt=2026-10-15/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-15/dims/publisher.csv": {
+   "bytes": 4379,
+   "sha256": "30474f7551ed815f81c8a7a2b67fe08a6ab1cbd2e51454d6a9cbebfc2b02746e"
+  },
+  "dt=2026-10-15/dims/site.csv": {
+   "bytes": 218537,
+   "sha256": "0cf4cc3978ad662b594a93668671307ce9549bafc8180b68787af7375f787fef"
+  },
+  "dt=2026-10-15/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 182945,
+   "sha256": "236e9c5f46ed78d9ee891993ef2a96379506f18f34b3262f22c1e450608322b5"
+  },
+  "dt=2026-10-15/enrichment/site_enrichment.jsonl": {
+   "bytes": 740480,
+   "sha256": "bd525a4f301edc9b5a698bd638efa69966bac8b6380dae5713fdea2e2cf88e09"
+  },
+  "dt=2026-10-15/impressions/part-0000.parquet": {
+   "bytes": 1387137,
+   "sha256": "117a9ab07f6cce39f700f6a93c00a5746749c5e6103d8d91e945cc7ea887bb65"
+  },
+  "dt=2026-10-15/orders.csv": {
+   "bytes": 1458195,
+   "sha256": "52c55a77a05ec32ad195b89a234182a9833d0ba2c0671b07f3a38829f80113f0"
+  },
+  "dt=2026-10-15/postbacks/part-0000.parquet": {
+   "bytes": 9080,
+   "sha256": "8033c77c8d3a4131a5d2cecacc0599f99309b97834c5ecaedcb6f5a749c58253"
+  },
+  "dt=2026-10-15/requests/part-0000.jsonl.gz": {
+   "bytes": 2753519,
+   "sha256": "0f82b62079ed390c85f4de00ef2343d721bc531f69e6c3fc98387bf975e8fa33"
+  },
+  "dt=2026-10-16/clicks/part-0000.parquet": {
+   "bytes": 169743,
+   "sha256": "c5bfe6f4fbbda48288f3398e154f679b5b80fc87e00c4ae750ee3e830ccbeb4b"
+  },
+  "dt=2026-10-16/dims/advertiser.csv": {
+   "bytes": 15267,
+   "sha256": "f59d2ad39832895f6e8e6cdd253235768941141a7a16d4288ca482b0c2812077"
+  },
+  "dt=2026-10-16/dims/banner.csv": {
+   "bytes": 172487,
+   "sha256": "1b83b4b179e584757a35f62bf8027a59cb83ff411984ebddd5702968c89216f0"
+  },
+  "dt=2026-10-16/dims/campaign.csv": {
+   "bytes": 42790,
+   "sha256": "98049ab37af092f7b4a3fe2af78c94ea426a73dd2c9d2f189ad96ffa73881db7"
+  },
+  "dt=2026-10-16/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-16/dims/placement.csv": {
+   "bytes": 231128,
+   "sha256": "4dc825479135c19a9a69744d03731f3ccd1a676558d784f4113f0d0318cf633f"
+  },
+  "dt=2026-10-16/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-16/dims/publisher.csv": {
+   "bytes": 4379,
+   "sha256": "30474f7551ed815f81c8a7a2b67fe08a6ab1cbd2e51454d6a9cbebfc2b02746e"
+  },
+  "dt=2026-10-16/dims/site.csv": {
+   "bytes": 218785,
+   "sha256": "c1186355796b46e9683c462692a52e7015ecdfa6b43db2ca545d5b16b932c59e"
+  },
+  "dt=2026-10-16/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 183467,
+   "sha256": "4505676ae12bdcfdbbfa4af1345e09358aa162d4adc5ce377ca0faa0ad402fab"
+  },
+  "dt=2026-10-16/enrichment/site_enrichment.jsonl": {
+   "bytes": 740480,
+   "sha256": "bd525a4f301edc9b5a698bd638efa69966bac8b6380dae5713fdea2e2cf88e09"
+  },
+  "dt=2026-10-16/impressions/part-0000.parquet": {
+   "bytes": 1309756,
+   "sha256": "69848a1e332d5e592a11fe4204f1e8e3a1cc8721e7d503ddde1db44ee320614f"
+  },
+  "dt=2026-10-16/orders.csv": {
+   "bytes": 1546000,
+   "sha256": "e7c744028f8f5508cc06c2f415e638c476d7abd81048c48f8b6ed91589af2a56"
+  },
+  "dt=2026-10-16/postbacks/part-0000.parquet": {
+   "bytes": 8989,
+   "sha256": "8d4983eca9d967b8d7daa7dfa6c10d489b2e9873bce9b6d5a35d2d3abd190831"
+  },
+  "dt=2026-10-16/requests/part-0000.jsonl.gz": {
+   "bytes": 2696464,
+   "sha256": "cf6d1f537144de8a59b3f252f1eebe759eaad5c1cad3fb4d0833185c7f224440"
+  },
+  "dt=2026-10-17/clicks/part-0000.parquet": {
+   "bytes": 162577,
+   "sha256": "36d200ba0924f87a1df50a7ddf9da82d3d9a295fa62bb93df46b1c2cff1b1d15"
+  },
+  "dt=2026-10-17/dims/advertiser.csv": {
+   "bytes": 15267,
+   "sha256": "f59d2ad39832895f6e8e6cdd253235768941141a7a16d4288ca482b0c2812077"
+  },
+  "dt=2026-10-17/dims/banner.csv": {
+   "bytes": 172487,
+   "sha256": "1b83b4b179e584757a35f62bf8027a59cb83ff411984ebddd5702968c89216f0"
+  },
+  "dt=2026-10-17/dims/campaign.csv": {
+   "bytes": 42790,
+   "sha256": "98049ab37af092f7b4a3fe2af78c94ea426a73dd2c9d2f189ad96ffa73881db7"
+  },
+  "dt=2026-10-17/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-17/dims/placement.csv": {
+   "bytes": 231258,
+   "sha256": "b4ff107ea36a4b2c63f78dbceeec9c244e37a45dc0b1be1f234f2befed04558a"
+  },
+  "dt=2026-10-17/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-17/dims/publisher.csv": {
+   "bytes": 4379,
+   "sha256": "30474f7551ed815f81c8a7a2b67fe08a6ab1cbd2e51454d6a9cbebfc2b02746e"
+  },
+  "dt=2026-10-17/dims/site.csv": {
+   "bytes": 218909,
+   "sha256": "80940bea68152011276b97a3b28c072bef6ee684ec4a53657dc2d95d47d2c9bf"
+  },
+  "dt=2026-10-17/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 183922,
+   "sha256": "5040ef67b7587d6ed6f467e47b2901594db96cf283f85d776e738b5f27b8d2eb"
+  },
+  "dt=2026-10-17/enrichment/site_enrichment.jsonl": {
+   "bytes": 740480,
+   "sha256": "bd525a4f301edc9b5a698bd638efa69966bac8b6380dae5713fdea2e2cf88e09"
+  },
+  "dt=2026-10-17/impressions/part-0000.parquet": {
+   "bytes": 1268594,
+   "sha256": "7c823e169bdb24d8ee0a2547a7274db8f46c3541b8f9caac8910c8869c4e773b"
+  },
+  "dt=2026-10-17/orders.csv": {
+   "bytes": 1593218,
+   "sha256": "0dea6ae1da8182811c4038f2551ed8fbb321b63b50422dd5e9ce5983c3e011bb"
+  },
+  "dt=2026-10-17/postbacks/part-0000.parquet": {
+   "bytes": 8898,
+   "sha256": "3eafa5861aec5589acad38757f452c4a93052713f7187bffafe208b1db84d30a"
+  },
+  "dt=2026-10-17/requests/part-0000.jsonl.gz": {
+   "bytes": 2589921,
+   "sha256": "b26b96009f467bb05907417cd15a6f01276e3226d8dfad5e637f77aaca8c76da"
+  },
+  "dt=2026-10-18/clicks/part-0000.parquet": {
+   "bytes": 170171,
+   "sha256": "ca38112491651cd10e7c862d2ce44fb52489d1c10bf665292d3e80deb1152057"
+  },
+  "dt=2026-10-18/dims/advertiser.csv": {
+   "bytes": 15267,
+   "sha256": "f59d2ad39832895f6e8e6cdd253235768941141a7a16d4288ca482b0c2812077"
+  },
+  "dt=2026-10-18/dims/banner.csv": {
+   "bytes": 172487,
+   "sha256": "1b83b4b179e584757a35f62bf8027a59cb83ff411984ebddd5702968c89216f0"
+  },
+  "dt=2026-10-18/dims/campaign.csv": {
+   "bytes": 42790,
+   "sha256": "98049ab37af092f7b4a3fe2af78c94ea426a73dd2c9d2f189ad96ffa73881db7"
+  },
+  "dt=2026-10-18/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-18/dims/placement.csv": {
+   "bytes": 231508,
+   "sha256": "69b084897f55a0dded5f2e9722dc4af31b9f1591799c8fbf70ad680226ad52ab"
+  },
+  "dt=2026-10-18/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-18/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-18/dims/site.csv": {
+   "bytes": 219030,
+   "sha256": "993531adc27815e5c5eb45e29e5f3919800cccbc4aec20dec79d0a7fe7f840f2"
+  },
+  "dt=2026-10-18/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 183922,
+   "sha256": "5040ef67b7587d6ed6f467e47b2901594db96cf283f85d776e738b5f27b8d2eb"
+  },
+  "dt=2026-10-18/enrichment/site_enrichment.jsonl": {
+   "bytes": 740929,
+   "sha256": "ff40be311fe46327981d247a6381e0617d6436638b31eb24f1d4a06c0d5515a0"
+  },
+  "dt=2026-10-18/impressions/part-0000.parquet": {
+   "bytes": 1386128,
+   "sha256": "f2359a9872bbc6ec0dc245d28fc27401b9b378056b8f1deedd0bd8138983ad1f"
+  },
+  "dt=2026-10-18/orders.csv": {
+   "bytes": 1746764,
+   "sha256": "eab2a44e95d11def999f0493a4244809da78bd2c43f6231b9617414c98d6a4df"
+  },
+  "dt=2026-10-18/postbacks/part-0000.parquet": {
+   "bytes": 8647,
+   "sha256": "457de3188d8f4905124ab7a03feae390001eed8c287f3e3e7665d9e45880c9e9"
+  },
+  "dt=2026-10-18/requests/part-0000.jsonl.gz": {
+   "bytes": 2735215,
+   "sha256": "16710efbcb6636d305ea706e9ebf3cdc39f0bd7915cde0b0331a99e4cfddccb5"
+  },
+  "dt=2026-10-19/clicks/part-0000.parquet": {
+   "bytes": 166797,
+   "sha256": "233d38ff072e46cdafd92720b748df4107ee58911630f23f53952446bad63763"
+  },
+  "dt=2026-10-19/dims/advertiser.csv": {
+   "bytes": 15340,
+   "sha256": "a7ddae1da81591ff2dfffd1a25f785685b694ca302f8c170db51c479fe30a796"
+  },
+  "dt=2026-10-19/dims/banner.csv": {
+   "bytes": 174059,
+   "sha256": "80dcb926480bf74f25f7c47cb6ac030eae66e843c5986438103cc26acbb9fd4c"
+  },
+  "dt=2026-10-19/dims/campaign.csv": {
+   "bytes": 42901,
+   "sha256": "a894489b97784b44f888a62f8863531677dfcf8bce1dd42dfd9ebf1824e72d81"
+  },
+  "dt=2026-10-19/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-19/dims/placement.csv": {
+   "bytes": 231768,
+   "sha256": "9773b154764a306cebba159120b07d4fdc9787ff8c737f1e5762bc12394271be"
+  },
+  "dt=2026-10-19/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-19/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-19/dims/site.csv": {
+   "bytes": 219278,
+   "sha256": "01f0d966a62c950ebbbe83224d228a2879924e1c31209450385ff7b3075092aa"
+  },
+  "dt=2026-10-19/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 183922,
+   "sha256": "5040ef67b7587d6ed6f467e47b2901594db96cf283f85d776e738b5f27b8d2eb"
+  },
+  "dt=2026-10-19/enrichment/site_enrichment.jsonl": {
+   "bytes": 741842,
+   "sha256": "9f60b1285cd29c1ea0c950f9ce8e237ff3a28967c91c68e18783cc9bb8906ab5"
+  },
+  "dt=2026-10-19/impressions/part-0000.parquet": {
+   "bytes": 1563814,
+   "sha256": "b60f5e12fbb5fa8b114b08a9e0f341e3d898e660d84d24b6d48d77f90a05f63a"
+  },
+  "dt=2026-10-19/orders.csv": {
+   "bytes": 1687726,
+   "sha256": "3807a69416e4911b33f1f2f6cf3c2e29ffad5a6b1dd0690c6f677c5f0896d6a7"
+  },
+  "dt=2026-10-19/postbacks/part-0000.parquet": {
+   "bytes": 9010,
+   "sha256": "40c848847dc2d61e3fa963bdaa42554bcfdb45f9157e54d8e7b2ee47ea28afd6"
+  },
+  "dt=2026-10-19/requests/part-0000.jsonl.gz": {
+   "bytes": 3019625,
+   "sha256": "17c8a89a135e6290a2756b958653e641b4fc9459c704c514d3a28c11cd6bac93"
+  },
+  "dt=2026-10-20/clicks/part-0000.parquet": {
+   "bytes": 161520,
+   "sha256": "7f19cfed5568cea2008fe9a17df2bd88ce586e9d1b52e4455d2ca1bd0b020b8d"
+  },
+  "dt=2026-10-20/dims/advertiser.csv": {
+   "bytes": 15340,
+   "sha256": "a7ddae1da81591ff2dfffd1a25f785685b694ca302f8c170db51c479fe30a796"
+  },
+  "dt=2026-10-20/dims/banner.csv": {
+   "bytes": 174714,
+   "sha256": "ab31f19d1930dc0b405221396b31864203d243924d6a9b7392a304203c57a89d"
+  },
+  "dt=2026-10-20/dims/campaign.csv": {
+   "bytes": 43016,
+   "sha256": "e553bf698fdbe193549f874de6815d3cc7c8bbacfe78e638496636e1b0064a84"
+  },
+  "dt=2026-10-20/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-20/dims/placement.csv": {
+   "bytes": 231898,
+   "sha256": "587e627175b480771d4c5a89660c5f4c2c4fffadb568854937422dadbc6a83ff"
+  },
+  "dt=2026-10-20/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-20/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-20/dims/site.csv": {
+   "bytes": 219402,
+   "sha256": "b21c63058e755f6664f0cd82a51d439f8e96c9a367689ea4a4e11d3355005b9a"
+  },
+  "dt=2026-10-20/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 184440,
+   "sha256": "18c5edfee01662ec985b8a684ee50414cf2f73278afbffd1d2d3182a3a31977c"
+  },
+  "dt=2026-10-20/enrichment/site_enrichment.jsonl": {
+   "bytes": 741842,
+   "sha256": "9f60b1285cd29c1ea0c950f9ce8e237ff3a28967c91c68e18783cc9bb8906ab5"
+  },
+  "dt=2026-10-20/impressions/part-0000.parquet": {
+   "bytes": 1719187,
+   "sha256": "7d7eb4e87721c412c3fbaf663046872e9a6e5391c1dc3db78fc90887fdd6034b"
+  },
+  "dt=2026-10-20/orders.csv": {
+   "bytes": 1629618,
+   "sha256": "b01b99a4e4521d072e895c76910f056e1642cb50106a3678057dc797f6c61c84"
+  },
+  "dt=2026-10-20/postbacks/part-0000.parquet": {
+   "bytes": 10098,
+   "sha256": "53915d6556f785d7ea39d05bd82126fb4e0ca44abf3633c37be282c109cd0e7e"
+  },
+  "dt=2026-10-20/requests/part-0000.jsonl.gz": {
+   "bytes": 3301867,
+   "sha256": "1549e9d94044f193ef476811c514e50e369db897dd71304f8f61de05fd39618a"
+  },
+  "dt=2026-10-21/clicks/part-0000.parquet": {
+   "bytes": 136671,
+   "sha256": "b674a7d83a49cc7e0dd427ccc0b08bb0e73ca423750c943a3448e32998e22229"
+  },
+  "dt=2026-10-21/dims/advertiser.csv": {
+   "bytes": 15340,
+   "sha256": "a7ddae1da81591ff2dfffd1a25f785685b694ca302f8c170db51c479fe30a796"
+  },
+  "dt=2026-10-21/dims/banner.csv": {
+   "bytes": 174845,
+   "sha256": "fb0e5b3ed01e6ad54b3187bbee397987b39f8e2a131124229309fa13bb6c916f"
+  },
+  "dt=2026-10-21/dims/campaign.csv": {
+   "bytes": 43129,
+   "sha256": "0869d19e8663c91a52abae718d077a19985df425779bba6191f96044750e12c9"
+  },
+  "dt=2026-10-21/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-21/dims/placement.csv": {
+   "bytes": 232028,
+   "sha256": "caf8610974d2c683a905609ca8d2da311b332404b4e3a4a2b86b8915c59845d2"
+  },
+  "dt=2026-10-21/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-21/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-21/dims/site.csv": {
+   "bytes": 219526,
+   "sha256": "ef9f00c44de7186293aed1ddd176e2f311af0e692c0daebf4ac81676681438b7"
+  },
+  "dt=2026-10-21/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 184974,
+   "sha256": "87bfefbdd3a6adcb1b5bf16174d5dea54d53495cf8dcb6b1c3331fd5622ec8e6"
+  },
+  "dt=2026-10-21/enrichment/site_enrichment.jsonl": {
+   "bytes": 741842,
+   "sha256": "9f60b1285cd29c1ea0c950f9ce8e237ff3a28967c91c68e18783cc9bb8906ab5"
+  },
+  "dt=2026-10-21/impressions/part-0000.parquet": {
+   "bytes": 1661715,
+   "sha256": "b115118c229e235c3040b93512b7744f820c86407eab1511c78ff31c5611d81d"
+  },
+  "dt=2026-10-21/orders.csv": {
+   "bytes": 1532875,
+   "sha256": "63ac8f554b4c44d88e2ed79bae7cebebbc85e62db6f1259b24e169e0b96c22a1"
+  },
+  "dt=2026-10-21/postbacks/part-0000.parquet": {
+   "bytes": 8930,
+   "sha256": "754f01fb298961a92ad6571fdb889bd685af4d6841e64e89ef7b60be0ccad024"
+  },
+  "dt=2026-10-21/requests/part-0000.jsonl.gz": {
+   "bytes": 3087430,
+   "sha256": "9593c072abe8fb09921db9899df81e26ec42156b5f1bcb245297719691aebb88"
+  },
+  "dt=2026-10-22/clicks/part-0000.parquet": {
+   "bytes": 132585,
+   "sha256": "07f5262a9dc40685d30f0d0a28efa02aec0f0d9b9e700b48ddd19ab8d9ebf1a2"
+  },
+  "dt=2026-10-22/dims/advertiser.csv": {
+   "bytes": 15340,
+   "sha256": "a7ddae1da81591ff2dfffd1a25f785685b694ca302f8c170db51c479fe30a796"
+  },
+  "dt=2026-10-22/dims/banner.csv": {
+   "bytes": 174976,
+   "sha256": "ee33d300eb03eb52af22c6a8e2e5f79fa8e9285d4083c54310e1189c96ddfa5a"
+  },
+  "dt=2026-10-22/dims/campaign.csv": {
+   "bytes": 43129,
+   "sha256": "0869d19e8663c91a52abae718d077a19985df425779bba6191f96044750e12c9"
+  },
+  "dt=2026-10-22/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-22/dims/placement.csv": {
+   "bytes": 232028,
+   "sha256": "caf8610974d2c683a905609ca8d2da311b332404b4e3a4a2b86b8915c59845d2"
+  },
+  "dt=2026-10-22/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-22/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-22/dims/site.csv": {
+   "bytes": 219526,
+   "sha256": "ef9f00c44de7186293aed1ddd176e2f311af0e692c0daebf4ac81676681438b7"
+  },
+  "dt=2026-10-22/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 185492,
+   "sha256": "fe84fd69e923cec942959202315d80dfc31f5403422c52ca5e086b7dca8e437f"
+  },
+  "dt=2026-10-22/enrichment/site_enrichment.jsonl": {
+   "bytes": 742792,
+   "sha256": "151d6e20f08e4dad3c84382a235e59d594c898ca7f2577b99b1e476ac4a6eaea"
+  },
+  "dt=2026-10-22/impressions/part-0000.parquet": {
+   "bytes": 1391331,
+   "sha256": "0e9d95cbe7c7e06b0333b306a0bb31328af71afbfefb604f74567e0acb0b593e"
+  },
+  "dt=2026-10-22/orders.csv": {
+   "bytes": 1293171,
+   "sha256": "134ed52eaad6a833a270d4490cefe3e64b4bb25836a66aec5eaa6ab2a320ad2f"
+  },
+  "dt=2026-10-22/postbacks/part-0000.parquet": {
+   "bytes": 7835,
+   "sha256": "07658aa1dedec144130b938160cef460f418dbd54809604c366180a468c57249"
+  },
+  "dt=2026-10-22/requests/part-0000.jsonl.gz": {
+   "bytes": 2822545,
+   "sha256": "556cea0e28193c2d2b52bc6934f908eab01496b0eb4d9c7d5ffc823c9ff8adbe"
+  },
+  "dt=2026-10-23/clicks/part-0000.parquet": {
+   "bytes": 170587,
+   "sha256": "3953c0a99c175798d7efab9642be40de73c03f0daee5456574aef2e203f08b0e"
+  },
+  "dt=2026-10-23/dims/advertiser.csv": {
+   "bytes": 15559,
+   "sha256": "302e66d817c3f8105da99959e1fdd2a9a88c4235244939f7ab5d24d8ab65dc15"
+  },
+  "dt=2026-10-23/dims/banner.csv": {
+   "bytes": 176155,
+   "sha256": "f1d7ae6ec1fd76b5a4a9cd5c791f260f7328a349264afc891ceb07d4cc589470"
+  },
+  "dt=2026-10-23/dims/campaign.csv": {
+   "bytes": 43462,
+   "sha256": "aa6fefb286f0cad8f102051dfa028ec4cebf3d89311bc0b253a1a5a1dfef9443"
+  },
+  "dt=2026-10-23/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-23/dims/placement.csv": {
+   "bytes": 232028,
+   "sha256": "caf8610974d2c683a905609ca8d2da311b332404b4e3a4a2b86b8915c59845d2"
+  },
+  "dt=2026-10-23/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-23/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-23/dims/site.csv": {
+   "bytes": 219526,
+   "sha256": "ef9f00c44de7186293aed1ddd176e2f311af0e692c0daebf4ac81676681438b7"
+  },
+  "dt=2026-10-23/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 185492,
+   "sha256": "fe84fd69e923cec942959202315d80dfc31f5403422c52ca5e086b7dca8e437f"
+  },
+  "dt=2026-10-23/enrichment/site_enrichment.jsonl": {
+   "bytes": 743241,
+   "sha256": "21aaf3d288197020a90047bfd91b1907f9dc541f70023089ee3da37a9ceb1bb2"
+  },
+  "dt=2026-10-23/impressions/part-0000.parquet": {
+   "bytes": 1991547,
+   "sha256": "8ccae3450d9b991e18de26ef7f4c96644a601c2468e5dadcd9ed8d39e2967c9a"
+  },
+  "dt=2026-10-23/orders.csv": {
+   "bytes": 2439244,
+   "sha256": "6ef47bb03062000b3645dc3536bcd3e16b01faf6c24ba03463cfca96b199a5cf"
+  },
+  "dt=2026-10-23/postbacks/part-0000.parquet": {
+   "bytes": 10028,
+   "sha256": "433e5a2402a051c58b468c2c2549dbc5b3480419fe6521273eb74315809cf0f1"
+  },
+  "dt=2026-10-23/requests/part-0000.jsonl.gz": {
+   "bytes": 4179859,
+   "sha256": "a8464a87573d4edeeeea55ce84eb8cf82f0a70ff1c2123608ab53308c09da24f"
+  },
+  "dt=2026-10-24/clicks/part-0000.parquet": {
+   "bytes": 153851,
+   "sha256": "da3127801fa999d8f6a031602774a6eb6eb5d819761c08ee3d241f66f3d2424d"
+  },
+  "dt=2026-10-24/dims/advertiser.csv": {
+   "bytes": 15559,
+   "sha256": "302e66d817c3f8105da99959e1fdd2a9a88c4235244939f7ab5d24d8ab65dc15"
+  },
+  "dt=2026-10-24/dims/banner.csv": {
+   "bytes": 176155,
+   "sha256": "f1d7ae6ec1fd76b5a4a9cd5c791f260f7328a349264afc891ceb07d4cc589470"
+  },
+  "dt=2026-10-24/dims/campaign.csv": {
+   "bytes": 43462,
+   "sha256": "aa6fefb286f0cad8f102051dfa028ec4cebf3d89311bc0b253a1a5a1dfef9443"
+  },
+  "dt=2026-10-24/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-24/dims/placement.csv": {
+   "bytes": 232158,
+   "sha256": "f958de0ca46c22b0c08d50ed9a4dc472c8f3c6cc30ed2b91167048cc83c08ceb"
+  },
+  "dt=2026-10-24/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-24/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-24/dims/site.csv": {
+   "bytes": 219653,
+   "sha256": "6c60a8afc464aba1199d8d27d5dc186cc3bd5782a8d553dd39c42503f2a76eb9"
+  },
+  "dt=2026-10-24/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 186482,
+   "sha256": "a8a6f1631758969f06a9dd1bc99bd371ca20c6786f0288a25d40d3e3fc405de7"
+  },
+  "dt=2026-10-24/enrichment/site_enrichment.jsonl": {
+   "bytes": 743241,
+   "sha256": "21aaf3d288197020a90047bfd91b1907f9dc541f70023089ee3da37a9ceb1bb2"
+  },
+  "dt=2026-10-24/impressions/part-0000.parquet": {
+   "bytes": 2126365,
+   "sha256": "3cf9f608f4dcf931c8d70eae7fb4a7d7d8cf4ff10706cef8420e465df21d64a4"
+  },
+  "dt=2026-10-24/orders.csv": {
+   "bytes": 3225510,
+   "sha256": "766c84f9154d219e70e009eedb9e24ad6f6ff14b645dfb9089c41dc0d4b52204"
+  },
+  "dt=2026-10-24/postbacks/part-0000.parquet": {
+   "bytes": 10331,
+   "sha256": "4ad534d20e1f5a25ad697c446341510ad78f3335ecd7470fb748c71d0b29789e"
+  },
+  "dt=2026-10-24/requests/part-0000.jsonl.gz": {
+   "bytes": 4642878,
+   "sha256": "fc995e88dc56c895ab673767a128d991980e3f8392931b720d7763864a6709ce"
+  },
+  "dt=2026-10-25/clicks/part-0000.parquet": {
+   "bytes": 157141,
+   "sha256": "9ea98effed26df03e33cda18773ad51db6d3acf786545c595033f4e8895f1393"
+  },
+  "dt=2026-10-25/dims/advertiser.csv": {
+   "bytes": 15559,
+   "sha256": "302e66d817c3f8105da99959e1fdd2a9a88c4235244939f7ab5d24d8ab65dc15"
+  },
+  "dt=2026-10-25/dims/banner.csv": {
+   "bytes": 176155,
+   "sha256": "f1d7ae6ec1fd76b5a4a9cd5c791f260f7328a349264afc891ceb07d4cc589470"
+  },
+  "dt=2026-10-25/dims/campaign.csv": {
+   "bytes": 43462,
+   "sha256": "aa6fefb286f0cad8f102051dfa028ec4cebf3d89311bc0b253a1a5a1dfef9443"
+  },
+  "dt=2026-10-25/dims/category.csv": {
+   "bytes": 6034,
+   "sha256": "85e9654d3ef768e36f7aab4a79a82fe186bf38a4c6a8df09cc3ab392abbf0ee2"
+  },
+  "dt=2026-10-25/dims/placement.csv": {
+   "bytes": 232158,
+   "sha256": "f958de0ca46c22b0c08d50ed9a4dc472c8f3c6cc30ed2b91167048cc83c08ceb"
+  },
+  "dt=2026-10-25/dims/platform.csv": {
+   "bytes": 555,
+   "sha256": "94207fcd9d76455f10f94116a3e18377de1ee61a40bbeffe75ea8fa81ba65bc7"
+  },
+  "dt=2026-10-25/dims/publisher.csv": {
+   "bytes": 4498,
+   "sha256": "789682a8a081cfbc8dfd519637dbe051c15cf88c00af7318731e8065fe0ea479"
+  },
+  "dt=2026-10-25/dims/site.csv": {
+   "bytes": 219653,
+   "sha256": "6c60a8afc464aba1199d8d27d5dc186cc3bd5782a8d553dd39c42503f2a76eb9"
+  },
+  "dt=2026-10-25/enrichment/campaign_enrichment.jsonl": {
+   "bytes": 186482,
+   "sha256": "a8a6f1631758969f06a9dd1bc99bd371ca20c6786f0288a25d40d3e3fc405de7"
+  },
+  "dt=2026-10-25/enrichment/site_enrichment.jsonl": {
+   "bytes": 743241,
+   "sha256": "21aaf3d288197020a90047bfd91b1907f9dc541f70023089ee3da37a9ceb1bb2"
+  },
+  "dt=2026-10-25/impressions/part-0000.parquet": {
+   "bytes": 1959240,
+   "sha256": "ef61786a3489a87e2b595ba2d74f9a2b4c26f8d50dd5603067b0250d347af15f"
+  },
+  "dt=2026-10-25/orders.csv": {
+   "bytes": 3171828,
+   "sha256": "2494f387e2606daafa0404edcbaf6ff44638acb131e135ff2bdb595788e47504"
+  },
+  "dt=2026-10-25/postbacks/part-0000.parquet": {
+   "bytes": 10159,
+   "sha256": "b5d17c797e4ea1c6ec417897aea4b0428fa5d5a226df1b4dafd0ddfcecdf7263"
+  },
+  "dt=2026-10-25/requests/part-0000.jsonl.gz": {
+   "bytes": 4337680,
+   "sha256": "ab95d23c458752ae23cbe2ac4275263fd1bfe8be01a2121e9e1a663af8ca4a19"
+  }
+ },
+ "total_bytes": 416352576
+}

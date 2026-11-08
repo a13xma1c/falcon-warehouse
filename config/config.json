@@ -1,0 +1,32 @@
+{
+  "dataset_path": "dataset",
+  "warehouse_path": "outputs/warehouse",
+  "reports_path": "reports",
+  "spark": {
+    "app_name": "falcon-warehouse",
+    "master": "local[4]",
+    "driver_memory": "6g",
+    "shuffle_partitions": 8,
+    "extra_conf": {}
+  },
+  "external": {
+    "fx": {
+      "base_url": "https://api.frankfurter.dev/v1",
+      "base_currency": "USD",
+      "lookback_days": 7,
+      "timeout_seconds": 30,
+      "retries": 3
+    },
+    "holidays": {
+      "base_url": "https://date.nager.at/api/v3",
+      "timeout_seconds": 30,
+      "retries": 3
+    }
+  },
+  "history": {
+    "windows_days": [7, 28]
+  },
+  "dq": {
+    "max_events_per_slot": 100
+  }
+}
