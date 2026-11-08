@@ -103,7 +103,7 @@ All of them are counted in [`reports/dq_summary.md`](reports/dq_summary.md) (onl
 * **Dimension problems**: a placement snapshot can list one id twice with different templates (43 extra rows, newest `updated_at` wins); banners and placements missing in the dimension (24k impressions); missing enrichment for about a quarter of the slots.
 * **Orders and requests**: order amount and currency are often null (about 30% of requests), amount without currency, zero/negative amounts. The `orders` table would fill only ~0.2% of the gaps, so it is not used for that.
 * **Preview-tool requests** (`has_preview`, 74.6k) are kept in the fact and excluded from the mart.
-* **Postbacks** with revenue 0 (146, kept, counted as conversion and flagged); some slots with more than 100 clicks (threshold `dq.max_events_per_slot` in the config; reported in `dq_final_state.md`).
+* **Postbacks** with revenue 0 (146, kept, counted as conversion and flagged); 2 slots with more than 100 clicks (one has 153,643; threshold `dq.max_events_per_slot` in the config; reported in `dq_final_state.md`).
 * **Holiday coverage**: no data for several countries (null flag).
 
 ## Decisions and why
