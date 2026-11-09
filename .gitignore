@@ -8,3 +8,5 @@ spark-warehouse/
 metastore_db/
 derby.log
 scratch/
+.idea/
+*.pdf
