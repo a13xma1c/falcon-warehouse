@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+          cache-dependency-glob: uv.lock
+
+      - name: Install (pyspark + pytest, versions from uv.lock)
+        run: uv sync --frozen --python 3.12
+
+      # The dataset is not in the repository, so the integration test is skipped here;
+      # the unit tests run on a local Spark session and need no network (HTTP is faked).
+      - name: Tests
+        run: uv run --no-sync pytest -q

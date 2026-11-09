@@ -28,6 +28,8 @@ uv run python scripts/rerun_proof.py --date 2026-09-15     # idempotency proof o
 uv run pytest                                          # 28 tests (the integration test takes ~2 min)
 ```
 
+CI ([`.github/workflows/ci.yml`](.github/workflows/ci.yml)): GitHub Actions installs Java 17 and the locked dependencies with uv and runs `pytest` on every push and pull request. The dataset is not in the repository, so the integration test is skipped there (27 tests run); run the full suite locally.
+
 All paths and settings (dataset, warehouse, reports, Spark memory/partitions, API base URLs, timeouts, retries, history windows, DQ thresholds) are in [`config/config.json`](config/config.json). No secrets are needed: both APIs are public. `--config` / `$FALCON_CONFIG` selects another file.
 
 Do not start two Spark jobs at once on one machine (a concurrent pytest killed a full run with `Bad file descriptor` once).
